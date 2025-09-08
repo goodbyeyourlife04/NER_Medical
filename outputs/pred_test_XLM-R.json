@@ -1,0 +1,4708 @@
+[
+  {
+    "text": "Chủng tộc: Ung thư gan ít gặp ở người da trắng. ",
+    "pred_spans": [
+      [
+        11,
+        22,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Phòng ngừa & Lối sống Những thói quen sinh hoạt có thể giúp hạn chế diễn tiến ung thư hầu họng Chế độ sinh hoạt: Những thói quen tích cực trong chăm sóc sức khỏe có thể giúp bạn hạn chế diễn tiến bệnh nặng thêm. ",
+    "pred_spans": [
+      [
+        81,
+        97,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Ngăn chặn dòng máu đến tuyến thượng thận giúp tiêu diệt các tế bào ung thư đang phát triển ở đó. ",
+    "pred_spans": [
+      [
+        67,
+        74,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Rối loạn này phổ biến ở trẻ nam hơn trẻ nữ, với tỷ lệ khoảng 4 nam trên 1 nữ (theo thống kê vào tháng 05/2024 của CDC Hoa Kỳ). ",
+    "pred_spans": []
+  },
+  {
+    "text": "Rối loạn Asperger (Asperger’s Disorder) Dạng này thường ảnh hưởng chủ yếu đến khả năng tương tác xã hội và ít nghiêm trọng hơn dạng rối loạn tự kỷ . ",
+    "pred_spans": [
+      [
+        0,
+        17,
+        "Bệnh_lý"
+      ],
+      [
+        19,
+        40,
+        "Bệnh_lý"
+      ],
+      [
+        132,
+        146,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Điều trị tốt các bệnh lý nền có thể gây glocom tân mạch.",
+    "pred_spans": [
+      [
+        40,
+        56,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Những người chăm sóc y tế nên áp dụng các phương pháp cách ly và sử dụng các biện pháp như găng tay, khẩu trang và áo choàng dùng một lần vì họ có nguy cơ lây truyền virus Nipah từ người sang người cao.",
+    "pred_spans": [
+      [
+        166,
+        177,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Một nghiên cứu cho thấy rằng đến sinh nhật thứ ba, 80% trẻ em sẽ bị nhiễm trùng tai giữa (viêm tai giữa cấp tính).",
+    "pred_spans": [
+      [
+        68,
+        88,
+        "Bệnh_lý"
+      ],
+      [
+        90,
+        113,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Loại ung thư này chiếm một tỷ lệ nhỏ trong tất cả các chẩn đoán ung thư vú.",
+    "pred_spans": [
+      [
+        5,
+        12,
+        "Bệnh_lý"
+      ],
+      [
+        64,
+        75,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Biến chứng của phương pháp điều trị ung thư. ",
+    "pred_spans": [
+      [
+        36,
+        45,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "TSH dư thừa sẽ dẫn đến dư thừa hormone tuyến giáp, gây ra bệnh cường giáp và làm tăng quá trình trao đổi chất của bạn. ",
+    "pred_spans": [
+      [
+        58,
+        73,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Hội chứng tiểu não có thể xuất hiện nhiều tháng hoặc nhiều năm trước khi ung thư được chẩn đoán. ",
+    "pred_spans": [
+      [
+        0,
+        18,
+        "Bệnh_lý"
+      ],
+      [
+        73,
+        80,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Tiền sử gia đình có người bị ung thư dạ dày. ",
+    "pred_spans": [
+      [
+        29,
+        45,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Hãy gặp ngay bác sĩ nếu bạn lo lắng về sự phát triển của con bạn hoặc bạn nhận thấy bất kỳ triệu chứng nào của bệnh xơ cứng củ. ",
+    "pred_spans": [
+      [
+        111,
+        128,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Biến chứng có thể mắc phải khi bị ung thư hầu họng Ung thư hầu họng phát hiện muộn có thể di căn sang nhiều cơ quan khác ảnh hưởng đến sức khỏe nhiều hơn thậm chí là tử vong. ",
+    "pred_spans": [
+      [
+        34,
+        50,
+        "Bệnh_lý"
+      ],
+      [
+        51,
+        67,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Hãy đến gặp bác sĩ ngay khi bạn nhận thấy bất kỳ triệu chứng nào u dây thần kinh của Morton để được chẩn đoán và điều trị u dây thần kinh Morton sớm và hạn chế các biến chứng. ",
+    "pred_spans": [
+      [
+        65,
+        91,
+        "Bệnh_lý"
+      ],
+      [
+        122,
+        144,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Triệu chứng ở trẻ sơ sinh mắc bệnh Pompe Biến chứng có thể gặp khi mắc bệnh Pompe Thể trưởng thành thì các biến chứng như suy hô hấp hoặc ít gặp hơn vỡ phình động mạch có thể gây ra tử vong. ",
+    "pred_spans": [
+      [
+        30,
+        40,
+        "Bệnh_lý"
+      ],
+      [
+        71,
+        81,
+        "Bệnh_lý"
+      ],
+      [
+        122,
+        132,
+        "Bệnh_lý"
+      ],
+      [
+        149,
+        167,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Cha, con trai, ông nội, cháu trai hoặc chú/bác mắc ung thư vú ở bất kỳ độ tuổi nào. ",
+    "pred_spans": [
+      [
+        51,
+        61,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Bệnh còn được gọi là: Hội chứng hoạt động sợi cơ liên tục (Continuous muscle fiber activity syndrome); Hội chứng Isaacs-Mertens; Hội chứng Isaacs; Hội chứng Quantal squander.",
+    "pred_spans": [
+      [
+        22,
+        57,
+        "Bệnh_lý"
+      ],
+      [
+        59,
+        101,
+        "Bệnh_lý"
+      ],
+      [
+        103,
+        129,
+        "Bệnh_lý"
+      ],
+      [
+        129,
+        147,
+        "Bệnh_lý"
+      ],
+      [
+        147,
+        174,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Trào ngược dạ dày thực quản . ",
+    "pred_spans": [
+      [
+        0,
+        27,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Yếu tố nguy cơ Những ai có nguy cơ mắc phải bệnh lymphoma? ",
+    "pred_spans": [
+      [
+        47,
+        62,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Yếu tố nguy cơ Những ai có nguy cơ mắc phải dị tật Dandy-Walker? ",
+    "pred_spans": [
+      [
+        47,
+        68,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Viêm bờ trên mi mắt là gì? ",
+    "pred_spans": [
+      [
+        0,
+        19,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Top thực phẩm bổ thận Phương pháp phòng ngừa u tuỷ thượng thận hiệu quả Thật không may, bạn không thể ngăn chặn việc phát triển của u tủy thượng thận. ",
+    "pred_spans": [
+      [
+        45,
+        62,
+        "Bệnh_lý"
+      ],
+      [
+        132,
+        151,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "U tuyến corticotroph: U tuyến corticotroph sẽ tăng sản xuất hormone vỏ thượng thận (ACTH).",
+    "pred_spans": [
+      [
+        0,
+        22,
+        "Bệnh_lý"
+      ],
+      [
+        22,
+        42,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Ai cũng có thể mắc ung thư đại tràng giai đoạn 1, bạn sẽ có nguy cơ cao hơn nếu có các yếu tố làm tăng nguy cơ như yếu tố gia đình, di truyền hay các thói quen sinh hoạt và môi trường liên quan.",
+    "pred_spans": [
+      [
+        19,
+        36,
+        "Bệnh_lý"
+      ],
+      [
+        132,
+        141,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Những người có nguy cơ mắc bệnh cao hơn còn bao gồm những người vô gia cư, người già và những người mắc bệnh tâm thần. ",
+    "pred_spans": [
+      [
+        104,
+        119,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Xem thêm: Phòng ngừa ung thư đại trực tràng Ung thư trực tràng kiêng ăn gì hỗ trợ quá trình điều trị hiệu quả?",
+    "pred_spans": [
+      [
+        21,
+        43,
+        "Bệnh_lý"
+      ],
+      [
+        44,
+        62,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Hệ thống phân giai đoạn ung thư để xây dựng kế hoạch điều trị và xác định tiên lượng bệnh. ",
+    "pred_spans": [
+      [
+        24,
+        31,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Yếu tố làm tăng nguy cơ mắc phải glocom tân mạch Các yếu tố nguy cơ của các bệnh này bao gồm các bệnh lý tăng huyết áp , tiểu đường và bệnh tim . ",
+    "pred_spans": [
+      [
+        33,
+        48,
+        "Bệnh_lý"
+      ],
+      [
+        97,
+        104,
+        "Bệnh_lý"
+      ],
+      [
+        105,
+        118,
+        "Bệnh_lý"
+      ],
+      [
+        121,
+        131,
+        "Bệnh_lý"
+      ],
+      [
+        135,
+        143,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Bệnh u lympho Hodgkin có thể ảnh hưởng đến những người trong độ tuổi từ 20 đến 39 và ở độ tuổi từ 65 trở lên.",
+    "pred_spans": [
+      [
+        0,
+        21,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Triệu chứng Những triệu chứng của glocom tân mạch Ở giai đoạn đầu, một người có thể không có triệu chứng của NVG. ",
+    "pred_spans": [
+      [
+        37,
+        52,
+        "Bệnh_lý"
+      ],
+      [
+        112,
+        117,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Trẻ sơ sinh, trẻ mới biết đi và trẻ nhỏ có thể bị nhiễm trùng sau khi chơi với ốc sên hoặc các động vật khác và sau đó chạm tay vào miệng. ",
+    "pred_spans": [
+      [
+        50,
+        61,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Tuổi tác: Tuổi tác là một trong những yếu tố nguy cơ quan trọng trong tất cả các bệnh lý ung thư. ",
+    "pred_spans": [
+      [
+        89,
+        98,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Chẩn đoán & Điều trị Phương pháp xét nghiệm và chẩn đoán ung thư thanh quản Chẩn đoán ung thư thanh quản bắt đầu bằng tiền sử bệnh và những triệu chứng lâm sàng. ",
+    "pred_spans": [
+      [
+        60,
+        78,
+        "Bệnh_lý"
+      ],
+      [
+        89,
+        107,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Yếu tố nguy cơ Những ai có nguy cơ mắc ung thư gan nguyên phát? ",
+    "pred_spans": [
+      [
+        42,
+        67,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Gia đình có con mắc bệnh có thể tham gia cộng đồng phụ huynh có con mắc ASD để chia sẻ kinh nghiệm và nhận được sự hỗ trợ từ cộng đồng. ",
+    "pred_spans": [
+      [
+        72,
+        75,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Tầm soát: Sàng lọc, tầm soát bệnh thường xuyên ở những đối tượng có nguy cơ mắc bệnh cao có thể phát hiện sớm từ những thay đổi tiền ung thư.",
+    "pred_spans": [
+      [
+        133,
+        141,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Chẩn đoán và điều trị sớm viêm màng não do tăng bạch cầu ái toan sẽ giảm nguy cơ tăng nặng của bệnh và giúp bạn mau chóng hồi phục sức khỏe. ",
+    "pred_spans": [
+      [
+        26,
+        64,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Đái tháo đường tuýp 2: Là một yếu tố làm tăng nguy cơ mắc ung thư gan. ",
+    "pred_spans": [
+      [
+        0,
+        19,
+        "Bệnh_lý"
+      ],
+      [
+        58,
+        71,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Người có yếu tố di truyền: Những người có tiền sử gia đình về các bệnh sarcoma hoặc các rối loạn di truyền liên quan có nguy cơ cao hơn. ",
+    "pred_spans": [
+      [
+        66,
+        78,
+        "Bệnh_lý"
+      ],
+      [
+        88,
+        106,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Chế độ ăn giàu trái cây rau quả và chất xơ là yếu tố bảo vệ đối với ung thư đại tràng",
+    "pred_spans": [
+      [
+        68,
+        85,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Nguyên nhân Nguyên nhân dẫn đến hội chứng rung giật cơ lành tính Sự co giật cơ xảy ra khi một dây thần kinh ngoại biên cụ thể chịu trách nhiệm kiểm soát cơ trở nên hoạt động quá mức, dẫn đến các chuyển động không tự chủ của cơ. ",
+    "pred_spans": [
+      [
+        35,
+        67,
+        "Bệnh_lý"
+      ],
+      [
+        71,
+        81,
+        "Triệu_chứng"
+      ],
+      [
+        227,
+        231,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Nếu bạn được chẩn đoán mắc bệnh u tủy thượng thận, bác sĩ có thể đề nghị tư vấn di truyền để tìm ra nguy cơ mắc hội chứng di truyền và các bệnh ung thư liên quan khác. ",
+    "pred_spans": [
+      [
+        27,
+        51,
+        "Bệnh_lý"
+      ],
+      [
+        112,
+        131,
+        "Bệnh_lý"
+      ],
+      [
+        139,
+        151,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Ung thư máu cấp tính là gì? ",
+    "pred_spans": [
+      [
+        0,
+        20,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Bác sĩ có thể yêu cầu một số xét nghiệm để xác nhận chẩn đoán và xem liệu ung thư có lan rộng hay không. ",
+    "pred_spans": [
+      [
+        29,
+        39,
+        "Chẩn_đoán"
+      ],
+      [
+        74,
+        81,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Yếu tố nguy cơ Những ai có nguy cơ mắc phải viêm màng não do tăng bạch cầu ái toan? ",
+    "pred_spans": [
+      [
+        47,
+        87,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Do đó, việc tìm ra phương pháp giúp ngăn ngừa mắc các rối loạn vận động là vô cùng khó khăn.",
+    "pred_spans": [
+      [
+        54,
+        71,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Tìm hiểu thêm: Dấu hiệu của ung thư cổ tử cung giai đoạn đầu mà phụ nữ cần nhận biết Ung thư cổ tử cung thường diễn tiến rất thầm lặng Tác động của ung thư cổ tử cung đối với sức khỏe Ung thư cổ tử cung là một căn bệnh nguy hiểm và thường thì bệnh nhân phải tới giai đoạn bệnh nặng với các triệu chứng biểu hiện rõ ràng mới phát hiện ra bệnh. ",
+    "pred_spans": [
+      [
+        28,
+        46,
+        "Bệnh_lý"
+      ],
+      [
+        85,
+        103,
+        "Bệnh_lý"
+      ],
+      [
+        148,
+        166,
+        "Bệnh_lý"
+      ],
+      [
+        184,
+        202,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Yếu tố làm tăng nguy cơ mắc phải bệnh tăng trương lực cơ thần kinh Các dấu hiệu của bệnh tăng trương lực cơ thần kinh thường bắt đầu trong độ tuổi từ 15 đến 60 tuổi. ",
+    "pred_spans": [
+      [
+        33,
+        66,
+        "Bệnh_lý"
+      ],
+      [
+        84,
+        117,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Nội tiết tố nữ: U màng não thường gặp ở phụ nữ, có thể do liên quan đến nội tiết tố nữ. ",
+    "pred_spans": [
+      [
+        16,
+        26,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Khi bạn hoặc người thân có bất kỳ dấu hiệu và triệu chứng của hội chứng mất trí nhớ Korsakoff, hãy đi khám bác sĩ chuyên khoa tâm thần ngay để được chẩn đoán sớm. ",
+    "pred_spans": [
+      [
+        62,
+        95,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Nếu bạn được chẩn đoán mắc Hội chứng Lynch, bác sĩ sẽ đề nghị các xét nghiệm để kiểm tra phát hiện ung thư. ",
+    "pred_spans": [
+      [
+        27,
+        44,
+        "Bệnh_lý"
+      ],
+      [
+        99,
+        108,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Hội chứng Down có thể là nguyên nhân của ung thư máu ác tính ## Yếu tố nguy cơ Yếu tố làm tăng nguy cơ mắc phải ung thư máu cấp tính Các yếu tố nguy cơ có thể xảy ra đối với các loại bệnh bạch cầu khác nhau đều tồn tại, nhưng bạn vẫn có thể mắc bệnh bạch cầu ngay cả khi không có bất kỳ yếu tố nguy cơ nào.",
+    "pred_spans": [
+      [
+        0,
+        14,
+        "Bệnh_lý"
+      ],
+      [
+        41,
+        60,
+        "Bệnh_lý"
+      ],
+      [
+        112,
+        132,
+        "Bệnh_lý"
+      ],
+      [
+        183,
+        196,
+        "Bệnh_lý"
+      ],
+      [
+        245,
+        258,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Điều trị những triệu chứng của ung thư tiến triển. ",
+    "pred_spans": [
+      [
+        31,
+        38,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Biến chứng có thể gặp khi mắc glocom tân mạch Biến chứng của glocom tân mạch có thể đến từ diễn tiến tự nhiên của bệnh như mù lòa,... ",
+    "pred_spans": [
+      [
+        30,
+        45,
+        "Bệnh_lý"
+      ],
+      [
+        61,
+        76,
+        "Bệnh_lý"
+      ],
+      [
+        123,
+        130,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Một số nghiên cứu lớn cho thấy u màng não xảy ra nhiều hơn ở người béo phì, mặc dù mối liên hệ này chưa được hiểu rõ hoàn toàn. ",
+    "pred_spans": [
+      [
+        31,
+        41,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Giới thiệu U tuyến yên là gì? ",
+    "pred_spans": [
+      [
+        14,
+        25,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Phòng ngừa & Lối sống Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của u nguyên bào thần kinh Chế độ sinh hoạt: Tham khảo ý kiến bác sĩ và tuân theo chỉ định của chuyên gia trong điều trị bệnh. ",
+    "pred_spans": [
+      [
+        89,
+        111,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Nguyên nhân chính xác của Hội chứng rung giật cơ lành tính vẫn chưa được biết chính xác nên được gọi là vô căn. ",
+    "pred_spans": [
+      [
+        26,
+        58,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Tuy nhiên, có một số cách bạn có thể phòng ngừa để giảm nguy cơ mắc các tình trạng sức khỏe liên quan đến chảy máu tai. ",
+    "pred_spans": [
+      [
+        106,
+        120,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Điều trị viêm bờ trên mi mắt Viêm bờ trên mi mắt có thể được điều trị bằng cách tự chăm sóc tại nhà, phần này sẽ được đề cập ở chế độ sinh hoạt bên dưới. ",
+    "pred_spans": [
+      [
+        9,
+        28,
+        "Bệnh_lý"
+      ],
+      [
+        29,
+        48,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Trọng tâm của việc này là đảm bảo các bác sĩ lâm sàng và người dân có mức độ nghi ngờ cao đối với các trường hợp mắc bệnh virus Nipah và sau đó tiến hành truy tìm dấu vết tiếp xúc chi tiết và cách ly những cá nhân có thể bị nhiễm bệnh.",
+    "pred_spans": [
+      [
+        117,
+        133,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Người mắc bệnh đái tháo đường cần tái khám mắt thường xuyên Phòng ngừa glocom tân mạch Bệnh tăng nhãn áp tân mạch luôn là một thách thức trong việc điều trị, nhưng một số trường hợp có thể bảo tồn được thị lực, đặc biệt nếu NVG được phát hiện và điều trị sớm trong quá trình phát bệnh. ",
+    "pred_spans": [
+      [
+        10,
+        29,
+        "Bệnh_lý"
+      ],
+      [
+        34,
+        59,
+        "Phòng_ngừa"
+      ],
+      [
+        71,
+        86,
+        "Bệnh_lý"
+      ],
+      [
+        87,
+        113,
+        "Bệnh_lý"
+      ],
+      [
+        224,
+        227,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Mặc dù tỷ lệ mắc, tử vong do ung thư phổi có thể khác nhau giữa các giới và các nhóm dân cư khác nhau. ",
+    "pred_spans": [
+      [
+        29,
+        41,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Triệu chứng Những dấu hiệu và triệu chứng của ung thư máu cấp tính Các đặc điểm lâm sàng của ung thư máu cấp tính có thể liên quan đến suy tuỷ xương, sự xâm nhập của các tế bào bạch cầu vào các cơ quan hoặc kết hợp cả hai. ",
+    "pred_spans": [
+      [
+        49,
+        69,
+        "Bệnh_lý"
+      ],
+      [
+        96,
+        116,
+        "Bệnh_lý"
+      ],
+      [
+        138,
+        153,
+        "Bệnh_lý"
+      ],
+      [
+        173,
+        188,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Xem thêm: Bệnh nhân ung thư máu nên ăn gì để nâng cao sức khỏe? ",
+    "pred_spans": [
+      [
+        20,
+        31,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Phương pháp điều trị ung thư đại tràng giai đoạn 1 Ung thư đại tràng giai đoạn 1 là khi ung thư đã lan rộng đến lớp lót, niêm mạc hoặc có thể đến lớp cơ, tuy nhiên chưa lan đến thành ngoài hay các hạch lân cận và bộ phận khác. ",
+    "pred_spans": [
+      [
+        21,
+        38,
+        "Bệnh_lý"
+      ],
+      [
+        51,
+        68,
+        "Bệnh_lý"
+      ],
+      [
+        88,
+        95,
+        "Bệnh_lý"
+      ],
+      [
+        112,
+        121,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        121,
+        129,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        146,
+        154,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Tuy nhiên, u màng não ác tính lại thường xuất hiện ở nam giới hơn. ",
+    "pred_spans": [
+      [
+        11,
+        29,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Vỡ xương hốc mắt có thể xảy ra ở người lớn và trẻ em. ",
+    "pred_spans": [
+      [
+        0,
+        16,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Rối loạn vận động thường được phân loại thành 2 nhóm: Rối loạn giảm hoặc chậm vận động; Rối loạn tăng động. ",
+    "pred_spans": [
+      [
+        0,
+        17,
+        "Bệnh_lý"
+      ],
+      [
+        54,
+        67,
+        "Triệu_chứng"
+      ],
+      [
+        73,
+        88,
+        "Triệu_chứng"
+      ],
+      [
+        88,
+        108,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Thận: U phát triển ở thận có thể gây ra tiểu máu. ",
+    "pred_spans": [
+      [
+        0,
+        6,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        21,
+        25,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        40,
+        50,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "U tế bào quanh mạch (Hemangiopericytoma) là các khối u hình thành từ mô mềm và các mạch máu bao quanh mô mềm đó trong cơ thể. ",
+    "pred_spans": [
+      [
+        0,
+        19,
+        "Bệnh_lý"
+      ],
+      [
+        21,
+        41,
+        "Bệnh_lý"
+      ],
+      [
+        48,
+        54,
+        "Nguyên_nhân"
+      ],
+      [
+        69,
+        75,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        83,
+        91,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        102,
+        108,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Nhiễm trùng này có thể dẫn đến tổn thương xương và hình thành các nang chứa đầy mủ. ",
+    "pred_spans": [
+      [
+        66,
+        84,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Các khối u này có thể xuất hiện ở bất kỳ vị trí nào trong cơ thể có mạch máu, nhưng thường gặp nhất ở vùng đầu và cổ, đặc biệt là tại nền sọ. ",
+    "pred_spans": [
+      [
+        4,
+        10,
+        "Nguyên_nhân"
+      ],
+      [
+        68,
+        78,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        107,
+        110,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        114,
+        118,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Tế bào ung thư có thể xảy ra ở bất cứ vị trí nào của thanh quản như nắp thanh quản, bên trên hoặc bên dưới dây thanh âm. ",
+    "pred_spans": [
+      [
+        0,
+        14,
+        "Nguyên_nhân"
+      ],
+      [
+        68,
+        84,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        107,
+        121,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Tiên lượng phụ thuộc vào việc ung thư có lan đến não và tủy sống hay không. ",
+    "pred_spans": [
+      [
+        30,
+        37,
+        "Bệnh_lý"
+      ],
+      [
+        49,
+        52,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        56,
+        64,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Mắt bị glocom tân mạch thường kèm theo tình trạng viêm đặc biệt là trong giai đoạn cấp tính, có thể điều trị bằng thuốc nhỏ mắt corticosteroid tại chỗ. ",
+    "pred_spans": [
+      [
+        7,
+        22,
+        "Bệnh_lý"
+      ],
+      [
+        50,
+        54,
+        "Triệu_chứng"
+      ],
+      [
+        114,
+        142,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Yếu cơ tiến triển đến tử vong do suy hô hấp sau vài năm. ",
+    "pred_spans": [
+      [
+        0,
+        6,
+        "Triệu_chứng"
+      ],
+      [
+        33,
+        43,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Vì vậy, những bệnh nhân bị tắc tĩnh mạch trung tâm võng mạc cần được theo dõi chặt chẽ theo thời gian để theo dõi các dấu hiệu sớm của hiện tượng tân mạch.",
+    "pred_spans": [
+      [
+        27,
+        59,
+        "Bệnh_lý"
+      ],
+      [
+        146,
+        155,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Các nhà khoa học vẫn chưa xác định được nguyên nhân gây ra những thay đổi di truyền trong tế bào tủy xương dẫn đến bệnh bạch cầu. ",
+    "pred_spans": [
+      [
+        90,
+        106,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        115,
+        130,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Nguy cơ di căn và tỷ lệ tái phát của ung thư vú đa ổ cao hơn so với ung thư vú đơn ổ, dẫn đến khả năng lây lan đến hạch bạch huyết và các cơ quan khác trong cơ thể, ảnh hưởng đến kết quả điều trị và tiên lượng. ",
+    "pred_spans": [
+      [
+        37,
+        52,
+        "Bệnh_lý"
+      ],
+      [
+        68,
+        86,
+        "Bệnh_lý"
+      ],
+      [
+        115,
+        130,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Do đó, bất kì sự tăng sinh phát triển không kiểm soát và có khả năng xâm nhập, phá hủy các mô khác của 5 lớp tế bào thành manh tràng đều được coi là ung thư manh tràng.",
+    "pred_spans": [
+      [
+        14,
+        37,
+        "Nguyên_nhân"
+      ],
+      [
+        149,
+        168,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Điều này có thể dẫn đến áp lực phía sau màng nhĩ hoặc nhiễm trùng tai. ",
+    "pred_spans": [
+      [
+        54,
+        71,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Trong đó, bệnh phì đại tim với tình trạng tắc nghẽn tiến triển đường ra của máu là nguyên nhân chính gây tử vong.",
+    "pred_spans": [
+      [
+        10,
+        26,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Phụ nữ mang đột biến gen BRCA1 hoặc BRCA2 có nguy cơ mắc ung thư vú lên tới 50-85%, cao hơn nhiều so với nguy cơ trung bình 12%.",
+    "pred_spans": [
+      [
+        12,
+        24,
+        "Nguyên_nhân"
+      ],
+      [
+        57,
+        67,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Triệu chứng Những dấu hiệu và triệu chứng của viêm màng não do tăng bạch cầu ái toan Các triệu chứng của viêm màng não do tăng bạch cầu ái toan thường khởi phát trong vòng 24 giờ đến vài ngày sau khi ăn phải ký sinh trùng. ",
+    "pred_spans": [
+      [
+        49,
+        87,
+        "Bệnh_lý"
+      ],
+      [
+        108,
+        146,
+        "Bệnh_lý"
+      ],
+      [
+        211,
+        226,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Xem thêm chi tiết: Nguyên nhân gây ung thư cổ tử cung phụ nữ nào cũng cần biết Hầu hết các trường hợp ung thư cổ tử cung là do nhiễm Human papillomavirus (HPV) ## Yếu tố nguy cơ Những ai có nguy cơ mắc phải ung thư cổ tử cung Ung thư cổ tử cung có thể xảy ra ở bất kỳ độ tuổi nào của người phụ nữ. ",
+    "pred_spans": [
+      [
+        35,
+        53,
+        "Bệnh_lý"
+      ],
+      [
+        102,
+        120,
+        "Bệnh_lý"
+      ],
+      [
+        127,
+        153,
+        "Nguyên_nhân"
+      ],
+      [
+        155,
+        160,
+        "Nguyên_nhân"
+      ],
+      [
+        207,
+        225,
+        "Bệnh_lý"
+      ],
+      [
+        226,
+        244,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Nguyên nhân Nguyên nhân dẫn đến viêm màng não do tăng bạch cầu ái toan Theo Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ, những nguyên nhân thường gặp nhất gây viêm màng não do tăng bạch cầu ái toan là: Angiostrongylus cantonensis ( giun lươn , hay giun phổi chuột); Baylisascaris procyonis (giun tròn gấu trúc); Gnathostoma spinigerum. ",
+    "pred_spans": [
+      [
+        35,
+        73,
+        "Bệnh_lý"
+      ],
+      [
+        169,
+        207,
+        "Bệnh_lý"
+      ],
+      [
+        212,
+        239,
+        "Nguyên_nhân"
+      ],
+      [
+        242,
+        251,
+        "Nguyên_nhân"
+      ],
+      [
+        258,
+        274,
+        "Nguyên_nhân"
+      ],
+      [
+        276,
+        299,
+        "Nguyên_nhân"
+      ],
+      [
+        301,
+        310,
+        "Nguyên_nhân"
+      ],
+      [
+        322,
+        346,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Thuốc: Thuốc ức chế yếu tố hoại tử khối u có liên quan đặc biệt đến u lympho tế bào T. ",
+    "pred_spans": [
+      [
+        35,
+        41,
+        "Nguyên_nhân"
+      ],
+      [
+        68,
+        87,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Các giai đoạn của ung thư thanh quản Ung thư thanh quản có 4 giai đoạn: Giai đoạn 0: Tế bào ung thư nằm ở lớp ngoài cùng của thành thực quản. ",
+    "pred_spans": [
+      [
+        18,
+        36,
+        "Bệnh_lý"
+      ],
+      [
+        37,
+        55,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Tuy nhiên người ta thấy rằng ung thư gan nguyên phát thường phát triển ở những người mắc bệnh gan mạn tính kéo dài, có thể do nhiễm virus viêm gan hoặc do xơ gan. ",
+    "pred_spans": [
+      [
+        29,
+        52,
+        "Bệnh_lý"
+      ],
+      [
+        89,
+        106,
+        "Bệnh_lý"
+      ],
+      [
+        126,
+        146,
+        "Nguyên_nhân"
+      ],
+      [
+        155,
+        163,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Người mang đột biến gen liên quan đến ung thư vú: Đột biến gen BRCA1 và BRCA2 làm tăng nguy cơ mắc nhiều loại ung thư, bao gồm ung thư vú đa ổ.",
+    "pred_spans": [
+      [
+        11,
+        23,
+        "Nguyên_nhân"
+      ],
+      [
+        38,
+        50,
+        "Bệnh_lý"
+      ],
+      [
+        50,
+        62,
+        "Nguyên_nhân"
+      ],
+      [
+        110,
+        119,
+        "Bệnh_lý"
+      ],
+      [
+        127,
+        143,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Ô nhiễm môi trường: Tiếp xúc với ô nhiễm môi trường, tia cực tím, bức xạ ion hóa và các chất độc hại khác cũng có thể tăng nguy cơ mắc bệnh ung thư. ",
+    "pred_spans": [
+      [
+        0,
+        20,
+        "Nguyên_nhân"
+      ],
+      [
+        20,
+        53,
+        "Nguyên_nhân"
+      ],
+      [
+        53,
+        66,
+        "Nguyên_nhân"
+      ],
+      [
+        66,
+        80,
+        "Nguyên_nhân"
+      ],
+      [
+        135,
+        149,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Nhiễm trùng dai dẳng với các loại virus như virus Epstein Barr và cytomegalovirus cũng có nguy cơ dẫn đến sự hình thành của bệnh lymphoma. ",
+    "pred_spans": [
+      [
+        0,
+        11,
+        "Nguyên_nhân"
+      ],
+      [
+        34,
+        39,
+        "Nguyên_nhân"
+      ],
+      [
+        44,
+        62,
+        "Nguyên_nhân"
+      ],
+      [
+        66,
+        81,
+        "Nguyên_nhân"
+      ],
+      [
+        124,
+        139,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "## Nguyên nhân Nguyên nhân dẫn đến ung thư hầu họng Có nhiều nguyên nhân gây ra ung thư hầu họng, trong đó HPV là nguyên nhân phổ biến nhất. ",
+    "pred_spans": [
+      [
+        35,
+        51,
+        "Bệnh_lý"
+      ],
+      [
+        80,
+        98,
+        "Bệnh_lý"
+      ],
+      [
+        107,
+        110,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "U dây thần kinh Morton có thể trở nên trầm trọng hơn khi đi giày không vừa vặn hoặc đi giày cao gót. ",
+    "pred_spans": [
+      [
+        0,
+        22,
+        "Bệnh_lý"
+      ],
+      [
+        57,
+        64,
+        "Nguyên_nhân"
+      ],
+      [
+        84,
+        101,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Tiếp xúc với bức xạ hoặc một số hóa chất nhất định như benzen hoặc một số loại thuốc hóa trị cũng có thể gây ra đột biến dẫn đến MDS. ",
+    "pred_spans": [
+      [
+        129,
+        134,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Rối loạn thần kinh: Nếu khối u xuất hiện ở nền sọ, nó có thể gây rối loạn thần kinh, như đau đầu , rối loạn cảm giác , yếu liệt hoặc khó nói .",
+    "pred_spans": [
+      [
+        0,
+        20,
+        "Bệnh_lý"
+      ],
+      [
+        24,
+        30,
+        "Nguyên_nhân"
+      ],
+      [
+        89,
+        96,
+        "Triệu_chứng"
+      ],
+      [
+        99,
+        116,
+        "Triệu_chứng"
+      ],
+      [
+        119,
+        127,
+        "Triệu_chứng"
+      ],
+      [
+        133,
+        140,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Co giật cơ cũng có thể là do chấn thương hoặc có thể là triệu chứng của lo âu hoặc trầm cảm . ",
+    "pred_spans": [
+      [
+        0,
+        10,
+        "Triệu_chứng"
+      ],
+      [
+        29,
+        40,
+        "Nguyên_nhân"
+      ],
+      [
+        72,
+        77,
+        "Triệu_chứng"
+      ],
+      [
+        83,
+        91,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Mất cân bằng điện giải có thể gây co giật hoặc giật cơ vì các chất điện giải như natri, kali, canxi và magie đóng vai trò quan trọng trong hoạt động bình thường của cơ và dây thần kinh.",
+    "pred_spans": [
+      [
+        0,
+        22,
+        "Triệu_chứng"
+      ],
+      [
+        34,
+        41,
+        "Triệu_chứng"
+      ],
+      [
+        47,
+        54,
+        "Triệu_chứng"
+      ],
+      [
+        165,
+        167,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Vấn đề về mũi: Nghẹt mũi mãn tính hoặc vẹo vách ngăn mũi có thể góp phần khiến bạn ngáy.",
+    "pred_spans": [
+      [
+        15,
+        33,
+        "Triệu_chứng"
+      ],
+      [
+        39,
+        56,
+        "Nguyên_nhân"
+      ],
+      [
+        83,
+        88,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Đau đầu nếu có u tế bào quanh mạch chèn ép Biến chứng của u tế bào quanh mạch Xâm lấn mô xung quanh: Khối u có thể phát triển lớn và chèn ép mô hoặc cơ quan lân cận, gây đau, hạn chế chức năng, hoặc biến dạng khu vực bị ảnh hưởng. ",
+    "pred_spans": [
+      [
+        0,
+        7,
+        "Triệu_chứng"
+      ],
+      [
+        15,
+        34,
+        "Bệnh_lý"
+      ],
+      [
+        58,
+        77,
+        "Bệnh_lý"
+      ],
+      [
+        78,
+        83,
+        "Bệnh_lý"
+      ],
+      [
+        101,
+        107,
+        "Nguyên_nhân"
+      ],
+      [
+        141,
+        143,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        170,
+        175,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Tổn thương hạch nền có thể dẫn đến múa giật, múa vờn, loạn trương lực cơ và bệnh Parkinson .",
+    "pred_spans": [
+      [
+        35,
+        45,
+        "Triệu_chứng"
+      ],
+      [
+        45,
+        54,
+        "Triệu_chứng"
+      ],
+      [
+        54,
+        72,
+        "Triệu_chứng"
+      ],
+      [
+        76,
+        90,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Rối loạn thần kinh: U ở nền sọ có thể gây tổn thương thần kinh, dẫn đến các vấn đề như mất cảm giác, suy giảm thị lực hoặc thính giác, hoặc yếu cơ.",
+    "pred_spans": [
+      [
+        0,
+        20,
+        "Bệnh_lý"
+      ],
+      [
+        87,
+        101,
+        "Triệu_chứng"
+      ],
+      [
+        101,
+        117,
+        "Triệu_chứng"
+      ],
+      [
+        123,
+        135,
+        "Triệu_chứng"
+      ],
+      [
+        140,
+        147,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Tổn thương vỏ não vận động sơ cấp có thể dẫn đến co cứng, rung giật cơ và các vấn đề về vận động tinh vi. ",
+    "pred_spans": [
+      [
+        11,
+        33,
+        "Bệnh_lý"
+      ],
+      [
+        49,
+        58,
+        "Triệu_chứng"
+      ],
+      [
+        58,
+        70,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Tiết dịch ở núm vú: Có thể xuất hiện dịch, bao gồm máu, từ núm vú. ",
+    "pred_spans": [
+      [
+        0,
+        14,
+        "Triệu_chứng"
+      ],
+      [
+        59,
+        67,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Nếu tai bạn bị chảy máu, bạn nên đến gặp bác sĩ để kiểm tra. ",
+    "pred_spans": [
+      [
+        4,
+        7,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        15,
+        25,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Người tiếp xúc với hóa chất độc hại: Tiếp xúc với các hóa chất như herbicide (thuốc diệt cỏ) và vinyl chloride có thể tăng nguy cơ. ",
+    "pred_spans": [
+      [
+        0,
+        37,
+        "Nguyên_nhân"
+      ],
+      [
+        37,
+        62,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Không tự ý dùng NSAID kéo dài mà không có chỉ định của bác sĩ. ",
+    "pred_spans": [
+      [
+        16,
+        21,
+        "Tên_thuốc"
+      ]
+    ]
+  },
+  {
+    "text": "Synflorix và Prevenar 13 là vắc xin phế cầu liên hợp, bảo vệ chống lại các chủng phế cầu khuẩn, một nguyên nhân phổ biến gây ra viêm màng não, viêm phổi và các bệnh nhiễm trùng khác. ",
+    "pred_spans": [
+      [
+        0,
+        9,
+        "Tên_thuốc"
+      ],
+      [
+        13,
+        24,
+        "Tên_thuốc"
+      ],
+      [
+        75,
+        96,
+        "Nguyên_nhân"
+      ],
+      [
+        128,
+        143,
+        "Bệnh_lý"
+      ],
+      [
+        143,
+        152,
+        "Bệnh_lý"
+      ],
+      [
+        160,
+        176,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Các vấn đề trước khi sinh: Trong lúc mang thai , mẹ có thể sử dụng một số loại thuốc có thể truyền qua nhau thai và ảnh hưởng đến trẻ, môi trường sống ô nhiễm, tiếp xúc nhiều hóa chất độc hại là các nguyên nhân dẫn đến bệnh. ",
+    "pred_spans": [
+      [
+        0,
+        27,
+        "Phòng_ngừa"
+      ],
+      [
+        135,
+        160,
+        "Nguyên_nhân"
+      ],
+      [
+        160,
+        191,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Yếu tố môi trường: Hóa trị liệu alkyl hóa, bức xạ ion hóa, tiếp xúc với benzen, hút thuốc lá. ",
+    "pred_spans": [
+      [
+        19,
+        43,
+        "Điều_trị"
+      ],
+      [
+        59,
+        80,
+        "Nguyên_nhân"
+      ],
+      [
+        80,
+        94,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Trẻ nhỏ thường tò mò sau đó nhét những vật nhỏ như thức ăn, sỏi, đồ chơi hoặc các loại hạt vào tai. ",
+    "pred_spans": [
+      [
+        95,
+        100,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Một số đột biến thường thấy nhất trong các tế bào MDS bao gồm những đột biến ở các gen DNMT3A, TET2, ASXL1, TP53, RUNX1, SRSF2 và SF3B1. ",
+    "pred_spans": [
+      [
+        50,
+        53,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Các triệu chứng bệnh thường xuất hiện từ 4 - 14 ngày sau khi tiếp xúc với virus Nipah.",
+    "pred_spans": [
+      [
+        74,
+        86,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Tìm hiểu thêm: Virus HPV gây bệnh gì? ",
+    "pred_spans": [
+      [
+        15,
+        24,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Borrelia burgdorferi , Chlamydia psittaci , Campylobacter jejuni. ",
+    "pred_spans": [
+      [
+        0,
+        20,
+        "Nguyên_nhân"
+      ],
+      [
+        23,
+        41,
+        "Nguyên_nhân"
+      ],
+      [
+        44,
+        66,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Chấn thương sọ não (hiếm). ",
+    "pred_spans": [
+      [
+        12,
+        18,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Các yếu tố nguy cơ khác bao gồm hành vi tình dục, như phụ nữ có sinh hoạt tình dục sớm hoặc có nhiều bạn tình, điều này làm tăng nguy cơ nhiễm HPV và các loại nhiễm trùng khác. ",
+    "pred_spans": [
+      [
+        137,
+        146,
+        "Nguyên_nhân"
+      ],
+      [
+        159,
+        170,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Khởi phát muộn (trẻ vị thành niên/người lớn) là kết quả của tình trạng thiếu hụt một phần GAA và có thể bắt đầu sớm nhất là vào mười năm đầu tiên của thời thơ ấu hoặc kéo dài đến tận tuổi trưởng thành. ",
+    "pred_spans": []
+  },
+  {
+    "text": "Đặc điểm của khối u khi sờ nắn: Chắc và kém di động, đôi khi dính vào cơ ngực lớn. ",
+    "pred_spans": [
+      [
+        13,
+        19,
+        "Nguyên_nhân"
+      ],
+      [
+        70,
+        77,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Tăng cường lượng chất xơ: Chất xơ giúp duy trì hệ tiêu hóa và hỗ trợ hệ miễn dịch. ",
+    "pred_spans": [
+      [
+        0,
+        26,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Giữ tinh thần lạc quan, yêu đời.",
+    "pred_spans": [
+      [
+        0,
+        32,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Tránh thực phẩm không lành mạnh: Hạn chế thực phẩm chế biến sẵn, đồ ăn nhiều dầu mỡ, đường tinh luyện. ",
+    "pred_spans": [
+      [
+        0,
+        33,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Chế độ dinh dưỡng: Người bệnh cần duy trì chế độ ăn uống lành mạnh và cung cấp đủ dinh dưỡng để hỗ trợ quá trình phục hồi. ",
+    "pred_spans": []
+  },
+  {
+    "text": "Chế độ dinh dưỡng: Một số nghiên cứu đã phát hiện ra rằng, việc bổ sung omega-3 (có trong cá hoặc dầu hạt lanh) có thể giúp các tuyến ở mắt hoạt động tốt hơn.",
+    "pred_spans": [
+      [
+        64,
+        79,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Hạn chế uống nước ngọt có ga, đồ uống có cồn. ",
+    "pred_spans": [
+      [
+        0,
+        46,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Luôn năng động, tập thể dục nhiều và duy trì cân nặng khỏe mạnh. ",
+    "pred_spans": [
+      [
+        0,
+        16,
+        "Phòng_ngừa"
+      ],
+      [
+        16,
+        33,
+        "Phòng_ngừa"
+      ],
+      [
+        37,
+        65,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Chế độ dinh dưỡng: Bổ sung đầy đủ dưỡng chất thiết yếu theo hướng dẫn từ chuyên gia y tế. ",
+    "pred_spans": [
+      [
+        19,
+        54,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Đeo bảo vệ tai khi tiếp xúc với tiếng ồn lớn. ",
+    "pred_spans": [
+      [
+        0,
+        46,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Kiên trì luyện tập các bài tập vật lý trị liệu, tập thở theo hướng dẫn.",
+    "pred_spans": [
+      [
+        0,
+        48,
+        "Phòng_ngừa"
+      ],
+      [
+        48,
+        71,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Nâng cao đầu khi ngủ để cải thiện luồng không khí hoặc mua một chiếc gối giảm ngáy để giữ đầu bạn ở đúng tư thế khi ngủ.",
+    "pred_spans": [
+      [
+        0,
+        8,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Tuân thủ lịch trình điều trị: Rất quan trọng, người bệnh nên tuân thủ lịch trình điều trị do bác sĩ chuyên khoa chỉ định, bao gồm uống thuốc đúng giờ và đến các buổi tái khám định kỳ. ",
+    "pred_spans": [
+      [
+        0,
+        30,
+        "Phòng_ngừa"
+      ],
+      [
+        61,
+        89,
+        "Phòng_ngừa"
+      ],
+      [
+        130,
+        149,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Thiết lập lịch trình ngủ đều đặn: Giấc ngủ đủ giấc và chất lượng có thể giúp cải thiện tinh thần và sức khỏe tổng thể. ",
+    "pred_spans": [
+      [
+        0,
+        34,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Hạn chế uống nước ngọt có ga, đồ uống có cồn. ",
+    "pred_spans": [
+      [
+        0,
+        46,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Tập thể dục đều đặn: Nếu tình trạng sức khỏe của bạn cho phép, hãy tham gia vào hoạt động thể dục nhẹ nhàng như đi bộ, bơi lội hoặc yoga.",
+    "pred_spans": [
+      [
+        0,
+        21,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Bệnh nhân có thể được yêu cầu kiểm tra MRI hoặc CT định kỳ để theo dõi sự phát triển của khối u. ",
+    "pred_spans": [
+      [
+        39,
+        42,
+        "Chẩn_đoán"
+      ],
+      [
+        48,
+        50,
+        "Chẩn_đoán"
+      ],
+      [
+        89,
+        97,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Chụp xạ hình xương (Bone scans): Dùng để phát hiện khối u đã di căn tới xương hay chưa (nếu nghi ngờ). ",
+    "pred_spans": [
+      [
+        0,
+        18,
+        "Chẩn_đoán"
+      ],
+      [
+        20,
+        31,
+        "Chẩn_đoán"
+      ],
+      [
+        51,
+        57,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Điện di protein huyết thanh để đánh giá protein đơn dòng (protein M), là những protein bất thường mà tế bào plasma tạo ra. ",
+    "pred_spans": [
+      [
+        0,
+        27,
+        "Chẩn_đoán"
+      ]
+    ]
+  },
+  {
+    "text": "Siêu âm: Sử dụng sóng siêu âm để tạo ra hình ảnh thực của các cấu trúc bên trong. ",
+    "pred_spans": [
+      [
+        0,
+        9,
+        "Chẩn_đoán"
+      ],
+      [
+        17,
+        29,
+        "Chẩn_đoán"
+      ]
+    ]
+  },
+  {
+    "text": "Chụp cộng hưởng từ: MRI được sử dụng để cung cấp hình ảnh chi tiết hơn nếu phát hiện có bất thường trên phim X-quang hoặc CT-scan. ",
+    "pred_spans": [
+      [
+        0,
+        20,
+        "Chẩn_đoán"
+      ],
+      [
+        20,
+        23,
+        "Chẩn_đoán"
+      ],
+      [
+        104,
+        116,
+        "Chẩn_đoán"
+      ],
+      [
+        122,
+        131,
+        "Chẩn_đoán"
+      ]
+    ]
+  },
+  {
+    "text": "Chụp CT scan: Chụp CT giúp phát hiện vôi hóa, nhưng do rủi ro về bức xạ nên phương pháp này ít được thực hiện . ",
+    "pred_spans": [
+      [
+        0,
+        14,
+        "Chẩn_đoán"
+      ],
+      [
+        14,
+        21,
+        "Chẩn_đoán"
+      ],
+      [
+        37,
+        46,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Các xét nghiệm có thể được chỉ định bao gồm: Xét nghiệm máu để kiểm tra nồng độ hormone. ",
+    "pred_spans": [
+      [
+        45,
+        59,
+        "Chẩn_đoán"
+      ]
+    ]
+  },
+  {
+    "text": "Chọc hút sinh thiết: Là thủ thuật chẩn đoán đầu tiên được ưu tiên, có độ nhạy cao (90%) và độ đặc hiệu rất cao (98 - 100%). ",
+    "pred_spans": [
+      [
+        0,
+        21,
+        "Chẩn_đoán"
+      ]
+    ]
+  },
+  {
+    "text": "Xét nghiệm di truyền : Xét nghiệm giúp tìm các gen đột biến gây bệnh và đánh giá mức độ di truyền trong gia đình. ",
+    "pred_spans": [
+      [
+        0,
+        20,
+        "Chẩn_đoán"
+      ]
+    ]
+  },
+  {
+    "text": "Đầu tiên bác sĩ sẽ bắt đầu với hỏi bệnh sử chi tiết, khám thực thể và khám thần kinh. ",
+    "pred_spans": [
+      [
+        70,
+        74,
+        "Chẩn_đoán"
+      ]
+    ]
+  },
+  {
+    "text": "Hình ảnh học Siêu âm bụng, CT scan hoặc MRI giúp bác sĩ có thể nhìn được chi tiết cấu trúc gan và các cơ quan khác trong ổ bụng. ",
+    "pred_spans": [
+      [
+        13,
+        27,
+        "Chẩn_đoán"
+      ],
+      [
+        27,
+        34,
+        "Chẩn_đoán"
+      ],
+      [
+        40,
+        43,
+        "Chẩn_đoán"
+      ],
+      [
+        91,
+        94,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        121,
+        129,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Bác sĩ sẽ làm xét nghiệm máu và tủy xương thường xuyên để xác định xem đáp ứng của bệnh đối với phương pháp điều trị mà bạn đang tiếp nhận như thế nào. ",
+    "pred_spans": [
+      [
+        14,
+        41,
+        "Chẩn_đoán"
+      ]
+    ]
+  },
+  {
+    "text": "Kết quả sinh thiết giúp xác định: Bản chất khối u: Lành tính hay ác tính; Phân biệt với các loại ung thư khác dựa vào hình thái tế bào. ",
+    "pred_spans": [
+      [
+        8,
+        18,
+        "Chẩn_đoán"
+      ],
+      [
+        43,
+        51,
+        "Nguyên_nhân"
+      ],
+      [
+        97,
+        104,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Trong phương pháp phẫu thuật này, bác sĩ sẽ sửa chữa các lỗ hoặc vết rách trên màng nhĩ của bạn.",
+    "pred_spans": [
+      [
+        18,
+        28,
+        "Điều_trị"
+      ],
+      [
+        79,
+        87,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Giai đoạn 4: Điều trị triệu chứng là chủ yếu, trong một số trường hợp có điều kiện có thể điều trị hóa chất. ",
+    "pred_spans": [
+      [
+        13,
+        33,
+        "Điều_trị"
+      ],
+      [
+        90,
+        109,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Liệu pháp ức chế miễn dịch: Antithymocyte globulin (ATG) có tác dụng ức chế hoặc làm suy yếu hệ thống miễn dịch.",
+    "pred_spans": [
+      [
+        0,
+        28,
+        "Điều_trị"
+      ],
+      [
+        28,
+        50,
+        "Điều_trị"
+      ],
+      [
+        52,
+        57,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Tuy nhiện ở giai đoạn này tỷ lệ điều trị phẫu thuật bảo tồn được áp dụng với tỷ lệ nhỏ hơn. ",
+    "pred_spans": [
+      [
+        41,
+        51,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Mục tiêu là cắt bỏ hoàn toàn khối u để giảm nguy cơ tái phát. ",
+    "pred_spans": [
+      [
+        29,
+        35,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Bác sĩ có thể đề nghị phẫu thuật nếu các phương pháp điều trị khác không làm giảm các triệu chứng của bạn hoặc việc đi lại vô cùng đau đớn.",
+    "pred_spans": [
+      [
+        22,
+        32,
+        "Điều_trị"
+      ],
+      [
+        131,
+        134,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Cắt bỏ toàn bộ vú: Loại bỏ toàn bộ mô vú và nạo các hạch bạch huyết xung quanh để ngăn ngừa tái phát. ",
+    "pred_spans": [
+      [
+        0,
+        16,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Vật lý trị liệu được khuyến khích để cải thiện sức mạnh và khả năng thể chất. ",
+    "pred_spans": [
+      [
+        0,
+        15,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Cắt amidan: Cắt amidan phía sau cổ họng hoặc phía sau mũi của bạn giúp đường thở thông thoáng hơn. ",
+    "pred_spans": [
+      [
+        0,
+        12,
+        "Điều_trị"
+      ],
+      [
+        32,
+        39,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Nhà ngôn ngữ trị liệu sẽ làm việc với trẻ để phát triển kỹ năng giao tiếp bằng lời nói và không lời. ",
+    "pred_spans": []
+  },
+  {
+    "text": "Ở giai đoạn sớm bác sĩ thường sử dụng phương pháp phẫu thuật hoặc xạ trị. ",
+    "pred_spans": [
+      [
+        50,
+        60,
+        "Điều_trị"
+      ],
+      [
+        66,
+        74,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Tiền sử xạ trị vùng ngực. ",
+    "pred_spans": [
+      [
+        8,
+        26,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Phẫu thuật Phẫu thuật được tiến hành để cắt bỏ khối u trong thanh quản. ",
+    "pred_spans": [
+      [
+        0,
+        10,
+        "Điều_trị"
+      ],
+      [
+        11,
+        21,
+        "Điều_trị"
+      ],
+      [
+        47,
+        53,
+        "Nguyên_nhân"
+      ],
+      [
+        60,
+        72,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Ngoài ra bạn có thể cần bổ sung các hormone nếu u tuyến yên làm giảm sản xuất hormone cho cơ thể hoặc nếu nồng độ hormone bị suy giảm sau phẫu thuật. ",
+    "pred_spans": [
+      [
+        24,
+        43,
+        "Phòng_ngừa"
+      ],
+      [
+        48,
+        59,
+        "Bệnh_lý"
+      ],
+      [
+        138,
+        150,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Liệu pháp miễn dịch là lựa chọn điều trị đầu tay cho bệnh ung thư hầu họng tái phát hoặc di căn.",
+    "pred_spans": [
+      [
+        0,
+        19,
+        "Điều_trị"
+      ],
+      [
+        53,
+        74,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Phẫu thuật thông qua nội soi đường mũi có thể giúp cắt bỏ u tuyến yên ## Phòng ngừa & Lối sống Những thói quen sinh hoạt giúp hạn chế diễn tiến của u tuyến yên Chế độ sinh hoạt: Kiểm tra sức khỏe định kỳ để theo dõi tình trạng và điều chỉnh phương pháp điều trị nếu cần.",
+    "pred_spans": [
+      [
+        0,
+        10,
+        "Điều_trị"
+      ],
+      [
+        21,
+        38,
+        "Điều_trị"
+      ],
+      [
+        58,
+        69,
+        "Bệnh_lý"
+      ],
+      [
+        148,
+        159,
+        "Bệnh_lý"
+      ],
+      [
+        178,
+        203,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Liệu pháp nhắm trúng đích: Các phương pháp điều trị bằng thuốc nhắm trúng đích tập trung vào những bất thường cụ thể có trong tế bào ung thư. ",
+    "pred_spans": [
+      [
+        0,
+        27,
+        "Điều_trị"
+      ],
+      [
+        57,
+        78,
+        "Điều_trị"
+      ],
+      [
+        133,
+        142,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Những người mắc bất kỳ dạng hội chứng tiểu não nào cũng có thể cần vật lý trị liệu, trị liệu nghề nghiệp hoặc trị liệu ngôn ngữ. ",
+    "pred_spans": [
+      [
+        28,
+        46,
+        "Bệnh_lý"
+      ],
+      [
+        67,
+        84,
+        "Điều_trị"
+      ],
+      [
+        84,
+        104,
+        "Điều_trị"
+      ],
+      [
+        110,
+        129,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "## Phòng ngừa & Lối sống Những thói quen sinh hoạt giúp hạn chế diễn tiến của ung thư mô liên kết Chế độ sinh hoạt: Sau khi điều trị, bạn cần tham gia các chương trình phục hồi chức năng sau phẫu thuật để lấy lại một số chức năng của cơ thể. ",
+    "pred_spans": [
+      [
+        78,
+        97,
+        "Bệnh_lý"
+      ],
+      [
+        191,
+        201,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Laser liệu pháp có thể cải thiện sự xuất hiện của các khối u trên da. ",
+    "pred_spans": [
+      [
+        0,
+        15,
+        "Điều_trị"
+      ],
+      [
+        54,
+        60,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Tiền căn điều trị bằng hóa trị hoặc xạ trị: Phương pháp này thường được dùng cho các bệnh nhân ung thư.",
+    "pred_spans": [
+      [
+        23,
+        30,
+        "Điều_trị"
+      ],
+      [
+        36,
+        44,
+        "Điều_trị"
+      ],
+      [
+        95,
+        103,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Xạ trị: Xạ trị sử dụng mức độ phóng xạ cao để nhắm vào các tế bào ung thư, giúp tiêu diệt các tế bào ung thư.",
+    "pred_spans": [
+      [
+        0,
+        8,
+        "Điều_trị"
+      ],
+      [
+        8,
+        14,
+        "Điều_trị"
+      ],
+      [
+        66,
+        75,
+        "Bệnh_lý"
+      ],
+      [
+        101,
+        109,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Liệu pháp nhắm trúng đích : Các liệu pháp nhắm trúng đích là các kháng thể đơn dòng (một protein trong hệ thống miễn dịch) được tạo ra trong phòng thí nghiệm nhắm trúng mục tiêu bằng cách ngăn chặn một loại protein cụ thể mà tế bào ung thư dựa vào để phân chia, phát triển và lây lan. ",
+    "pred_spans": [
+      [
+        0,
+        25,
+        "Điều_trị"
+      ],
+      [
+        32,
+        57,
+        "Điều_trị"
+      ],
+      [
+        232,
+        239,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Phương pháp điều trị riêng biệt phụ thuộc vào vị trí giải phẫu, kích thước và mức độ của tổn thương nguyên phát, sự di căn của khối u, tuổi và sức khỏe tổng thể của bệnh nhân cũng như các bệnh lý liên quan và mong muốn của bệnh nhân.",
+    "pred_spans": [
+      [
+        53,
+        64,
+        "Điều_trị"
+      ],
+      [
+        127,
+        135,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Hóa trị Hóa trị là một biện pháp điều trị ung thư bằng hóa chất, được sử dụng để tiêu diệt các tế bào ung thư hoặc kiểm soát sự phát triển của các khối u. ",
+    "pred_spans": [
+      [
+        0,
+        7,
+        "Điều_trị"
+      ],
+      [
+        8,
+        15,
+        "Điều_trị"
+      ],
+      [
+        42,
+        49,
+        "Bệnh_lý"
+      ],
+      [
+        102,
+        109,
+        "Bệnh_lý"
+      ],
+      [
+        147,
+        155,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Các triệu chứng có thể bao gồm: Nhìn mờ, nhìn đôi hoặc suy giảm thị lực ; Sưng mắt; Vết bầm đen, xanh hoặc tím quanh mắt; Tụ máu ở phần tròng trắng mắt; Sưng má hoặc trán; Tê hoặc yếu mặt; Khó di chuyển mắt theo bất kỳ hướng nào; Nhãn cầu bị trũng hoặc nhãn cầu lồi; Chảy máu cam . ",
+    "pred_spans": [
+      [
+        32,
+        41,
+        "Triệu_chứng"
+      ],
+      [
+        41,
+        49,
+        "Triệu_chứng"
+      ],
+      [
+        55,
+        71,
+        "Triệu_chứng"
+      ],
+      [
+        74,
+        84,
+        "Triệu_chứng"
+      ],
+      [
+        84,
+        97,
+        "Triệu_chứng"
+      ],
+      [
+        97,
+        122,
+        "Triệu_chứng"
+      ],
+      [
+        122,
+        153,
+        "Triệu_chứng"
+      ],
+      [
+        153,
+        160,
+        "Triệu_chứng"
+      ],
+      [
+        166,
+        172,
+        "Triệu_chứng"
+      ],
+      [
+        172,
+        174,
+        "Triệu_chứng"
+      ],
+      [
+        180,
+        189,
+        "Triệu_chứng"
+      ],
+      [
+        189,
+        211,
+        "Triệu_chứng"
+      ],
+      [
+        230,
+        247,
+        "Triệu_chứng"
+      ],
+      [
+        253,
+        267,
+        "Triệu_chứng"
+      ],
+      [
+        267,
+        279,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Các triệu chứng nặng hơn có thể xảy ra sau đó, như: Mất phương hướng, buồn ngủ hoặc lú lẫn; Co giật ; Hôn mê; Phù não (viêm não). ",
+    "pred_spans": [
+      [
+        52,
+        70,
+        "Triệu_chứng"
+      ],
+      [
+        70,
+        78,
+        "Triệu_chứng"
+      ],
+      [
+        84,
+        92,
+        "Triệu_chứng"
+      ],
+      [
+        92,
+        99,
+        "Triệu_chứng"
+      ],
+      [
+        102,
+        110,
+        "Triệu_chứng"
+      ],
+      [
+        110,
+        117,
+        "Bệnh_lý"
+      ],
+      [
+        119,
+        128,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Tiêu chảy , táo bón, đau dạ dày hoặc chán ăn. ",
+    "pred_spans": [
+      [
+        0,
+        9,
+        "Triệu_chứng"
+      ],
+      [
+        12,
+        21,
+        "Triệu_chứng"
+      ],
+      [
+        21,
+        31,
+        "Triệu_chứng"
+      ],
+      [
+        37,
+        46,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Có thể có sự khó chịu hay phản ứng quá khích khi gặp phải những thay đổi hay kích thích từ môi trường. ",
+    "pred_spans": [
+      [
+        10,
+        21,
+        "Triệu_chứng"
+      ],
+      [
+        26,
+        44,
+        "Triệu_chứng"
+      ],
+      [
+        77,
+        87,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Vòm miệng mềm và lưỡi gà rung lên và đập vào thành sau cổ họng khiến đường đi bị thu hẹp hoặc bị tắc làm cản trở luồng không khí gây ra ngáy. ",
+    "pred_spans": [
+      [
+        0,
+        13,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Trẻ em bị nghe kém có thể gặp khó khăn ở trường và đạt điểm kém. ",
+    "pred_spans": [
+      [
+        10,
+        18,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Đi tiêu phân nhầy máu là triệu chứng hay gặp.",
+    "pred_spans": [
+      [
+        0,
+        21,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Nhìn chung, bạn có thể đang mắc nghe kém nếu: Bạn thường yêu cầu mọi người lặp lại. ",
+    "pred_spans": [
+      [
+        32,
+        40,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Ngoài ra có thể là đi tiêu phân đen, phân sẫm màu, thay đổi hình dạng phân. ",
+    "pred_spans": [
+      [
+        19,
+        37,
+        "Triệu_chứng"
+      ],
+      [
+        37,
+        51,
+        "Triệu_chứng"
+      ],
+      [
+        51,
+        76,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Rung giật nhãn cầu, phản ứng chậm với ánh sáng. ",
+    "pred_spans": [
+      [
+        0,
+        20,
+        "Triệu_chứng"
+      ],
+      [
+        20,
+        48,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Lú lẫn , dễ bị nhầm lẫn. ",
+    "pred_spans": [
+      [
+        0,
+        6,
+        "Triệu_chứng"
+      ],
+      [
+        9,
+        25,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Nghe kém hỗn hợp: Là sự kết hợp của nghe kém dẫn truyền và nghe kém thần kinh.",
+    "pred_spans": [
+      [
+        0,
+        18,
+        "Triệu_chứng"
+      ],
+      [
+        36,
+        55,
+        "Triệu_chứng"
+      ],
+      [
+        59,
+        78,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "## Chẩn đoán & Điều trị Phương pháp xét nghiệm và chẩn đoán ngủ ngáy Những người không có triệu chứng hoặc dấu hiệu rối loạn giấc ngủ ngoài việc ngáy không cần kiểm tra nhưng phải được theo dõi lâm sàng để phát hiện các biểu hiện như vậy. ",
+    "pred_spans": [
+      [
+        60,
+        68,
+        "Triệu_chứng"
+      ],
+      [
+        116,
+        133,
+        "Triệu_chứng"
+      ],
+      [
+        145,
+        149,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Đau buốt, rát khi đi hoặc đứng. ",
+    "pred_spans": [
+      [
+        0,
+        10,
+        "Triệu_chứng"
+      ],
+      [
+        10,
+        32,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Đau bụng kèm đi tiêu nhiều lần, đầy chướng bụng khó tiêu, buồn nôn, nôn. ",
+    "pred_spans": [
+      [
+        0,
+        32,
+        "Triệu_chứng"
+      ],
+      [
+        32,
+        58,
+        "Triệu_chứng"
+      ],
+      [
+        58,
+        68,
+        "Triệu_chứng"
+      ],
+      [
+        68,
+        73,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Đau ở xương, lưng hoặc chân. ",
+    "pred_spans": [
+      [
+        0,
+        29,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Mệt mỏi, ho và sốt.",
+    "pred_spans": [
+      [
+        0,
+        9,
+        "Triệu_chứng"
+      ],
+      [
+        9,
+        11,
+        "Triệu_chứng"
+      ],
+      [
+        15,
+        19,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Đau, tức ngực: Cảm giác đau tức hoặc khó chịu ở ngực, có thể không liên quan đến hoạt động thể lực chất. ",
+    "pred_spans": [
+      [
+        0,
+        5,
+        "Triệu_chứng"
+      ],
+      [
+        5,
+        15,
+        "Triệu_chứng"
+      ],
+      [
+        24,
+        31,
+        "Triệu_chứng"
+      ],
+      [
+        37,
+        54,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Suy giảm thị lực . ",
+    "pred_spans": [
+      [
+        0,
+        16,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Sụt cân không rõ nguyên nhân, bạn giảm từ hơn 10% tổng trọng lượng cơ thể trong vòng 6 tháng mà không ăn kiêng hay tập thể dục. ",
+    "pred_spans": [
+      [
+        0,
+        7,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "## Phòng ngừa & Lối sống Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến rối loạn phát triển lan tỏa Một số thói quen có thể giúp bạn ngăn ngừa diễn tiến bệnh ở trẻ, giúp trẻ dễ hòa nhập với xã hội, bạn bè và gia đình như: Tạo môi trường an toàn và thân thiện cho trẻ: Trẻ mắc chứng rối loạn phát triển lan tỏa dễ bị kích thích bởi ngoại cảnh bên ngoài như ánh sáng, âm thanh,... ",
+    "pred_spans": [
+      [
+        85,
+        112,
+        "Bệnh_lý"
+      ],
+      [
+        289,
+        322,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Chế độ ăn tốt cho hệ thần kinh trong bệnh U dây thần kinh Morton Phương pháp phòng ngừa U dây thần kinh Morton Có thể tham khảo một số biện pháp để phòng ngừa bệnh U dây thần kinh Morton như: Không đi giày chật hoặc giày cao gót trong thời gian dài, mang giày có mũi ngón chân rộng. ",
+    "pred_spans": [
+      [
+        37,
+        64,
+        "Bệnh_lý"
+      ],
+      [
+        88,
+        110,
+        "Bệnh_lý"
+      ],
+      [
+        159,
+        186,
+        "Bệnh_lý"
+      ],
+      [
+        192,
+        250,
+        "Phòng_ngừa"
+      ],
+      [
+        250,
+        283,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Duy trì cân nặng hợp lý: Tránh thừa cân hoặc béo phì vì điều này có thể làm tăng nguy cơ ung thư. ",
+    "pred_spans": [
+      [
+        0,
+        25,
+        "Phòng_ngừa"
+      ],
+      [
+        25,
+        52,
+        "Phòng_ngừa"
+      ],
+      [
+        89,
+        98,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Hạn chế tiếp xúc với hóa chất độc hại: Tránh tiếp xúc với các chất gây ung thư tiềm tàng trong môi trường hoặc công việc. ",
+    "pred_spans": [
+      [
+        0,
+        39,
+        "Phòng_ngừa"
+      ],
+      [
+        39,
+        44,
+        "Phòng_ngừa"
+      ],
+      [
+        71,
+        78,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Không hút thuốc và hạn chế rượu bia: Cả thuốc lá và đồ uống có cồn đều liên quan đến nguy cơ phát triển ung thư vú. ",
+    "pred_spans": [
+      [
+        0,
+        37,
+        "Phòng_ngừa"
+      ],
+      [
+        104,
+        116,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Phòng ngừa u màng não Hiện chưa có biện pháp phòng ngừa cụ thể cho u màng não, nhưng có thể giảm nguy cơ thông qua các hành động sau: Tránh tiếp xúc với phóng xạ: Giảm thiểu tiếp xúc với tia phóng xạ, đặc biệt là tia X trong vùng đầu, trừ khi cần thiết trong chẩn đoán và điều trị. ",
+    "pred_spans": [
+      [
+        11,
+        21,
+        "Bệnh_lý"
+      ],
+      [
+        67,
+        79,
+        "Bệnh_lý"
+      ],
+      [
+        134,
+        163,
+        "Phòng_ngừa"
+      ],
+      [
+        163,
+        201,
+        "Phòng_ngừa"
+      ],
+      [
+        230,
+        235,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Ví dụ như nhiễm trùng tai gây đau tai. ",
+    "pred_spans": [
+      [
+        10,
+        25,
+        "Bệnh_lý"
+      ],
+      [
+        30,
+        39,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Nếu bạn nhận thấy bất kỳ dấu hiệu nào sau đây hoặc có bất kỳ nghi ngờ nào về sức khỏe của vú, hãy đến gặp bác sĩ chuyên khoa càng sớm càng tốt để được chẩn đoán và điều trị kịp thời: Sưng, đau hoặc da vùng vú bất thường; Phát hiện khối u bất thường khi tự kiểm tra vú; Núm vú bị tụt vào trong hoặc chảy dịch bất thường (màu vàng, máu, hoặc dạng mủ); Da vú bị đỏ, ngứa, bong tróc hoặc kích ứng kéo dài; Mệt mỏi hoặc sụt cân không rõ nguyên nhân; Có tiền sử ung thư vú hoặc tiền sử gia đình bị ung thư vú.",
+    "pred_spans": [
+      [
+        90,
+        94,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        183,
+        189,
+        "Triệu_chứng"
+      ],
+      [
+        189,
+        192,
+        "Triệu_chứng"
+      ],
+      [
+        198,
+        221,
+        "Triệu_chứng"
+      ],
+      [
+        231,
+        237,
+        "Nguyên_nhân"
+      ],
+      [
+        265,
+        269,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        269,
+        292,
+        "Triệu_chứng"
+      ],
+      [
+        298,
+        318,
+        "Triệu_chứng"
+      ],
+      [
+        350,
+        355,
+        "Triệu_chứng"
+      ],
+      [
+        359,
+        363,
+        "Triệu_chứng"
+      ],
+      [
+        363,
+        369,
+        "Triệu_chứng"
+      ],
+      [
+        369,
+        378,
+        "Triệu_chứng"
+      ],
+      [
+        384,
+        402,
+        "Triệu_chứng"
+      ],
+      [
+        402,
+        409,
+        "Triệu_chứng"
+      ],
+      [
+        415,
+        422,
+        "Triệu_chứng"
+      ],
+      [
+        456,
+        466,
+        "Bệnh_lý"
+      ],
+      [
+        492,
+        503,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Yếu tố làm tăng nguy cơ mắc phải rối loạn vận động Một số yếu tố làm tăng nguy cơ phát triển chứng rối loạn vận động, bao gồm: Chấn thương sọ não ; Nhiễm trùng; Ngộ độc; Đột quỵ ; Tác dụng phụ của thuốc an thần.",
+    "pred_spans": [
+      [
+        33,
+        50,
+        "Bệnh_lý"
+      ],
+      [
+        93,
+        118,
+        "Bệnh_lý"
+      ],
+      [
+        127,
+        138,
+        "Nguyên_nhân"
+      ],
+      [
+        148,
+        161,
+        "Nguyên_nhân"
+      ],
+      [
+        161,
+        170,
+        "Nguyên_nhân"
+      ],
+      [
+        170,
+        177,
+        "Nguyên_nhân"
+      ],
+      [
+        180,
+        211,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Các triệu chứng và dấu hiệu thường gặp nhất của viêm màng não do tăng bạch cầu ái toan là: Đau đầu đột ngột dữ dội; Cứng cổ và không thể gập cổ về phía trước; Dị cảm (cảm giác như kim châm trên da); Đau bụng ; Buồn nôn; Nôn mửa; Sợ ánh sáng (nhạy cảm với ánh sáng); Sốt ; Phát ban ngứa.",
+    "pred_spans": [
+      [
+        48,
+        86,
+        "Bệnh_lý"
+      ],
+      [
+        91,
+        116,
+        "Triệu_chứng"
+      ],
+      [
+        116,
+        123,
+        "Triệu_chứng"
+      ],
+      [
+        127,
+        159,
+        "Triệu_chứng"
+      ],
+      [
+        159,
+        165,
+        "Triệu_chứng"
+      ],
+      [
+        199,
+        207,
+        "Triệu_chứng"
+      ],
+      [
+        210,
+        220,
+        "Triệu_chứng"
+      ],
+      [
+        220,
+        229,
+        "Triệu_chứng"
+      ],
+      [
+        229,
+        240,
+        "Triệu_chứng"
+      ],
+      [
+        266,
+        269,
+        "Triệu_chứng"
+      ],
+      [
+        272,
+        286,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "## Triệu chứng Những dấu hiệu và triệu chứng của rối loạn phát triển lan tỏa Nhìn chung, rối loạn phát triển lan tỏa có những rối loạn thuộc 3 khía cạnh sau: Khó khăn trong giao tiếp: Trẻ có rối loạn trong quá trình phát triển ngôn ngữ, khó khăn trong việc nói, sử dụng từ ngữ và hiểu những gì người khác nói, trẻ có sử dụng ngôn ngữ không phù hợp với hoàn cảnh, phát ra những âm thanh bất thường có tính lặp đi lặp lại. ",
+    "pred_spans": [
+      [
+        49,
+        76,
+        "Bệnh_lý"
+      ],
+      [
+        89,
+        116,
+        "Bệnh_lý"
+      ],
+      [
+        158,
+        184,
+        "Triệu_chứng"
+      ],
+      [
+        191,
+        237,
+        "Triệu_chứng"
+      ],
+      [
+        237,
+        310,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "U dây thần kinh Morton có thể gây đau đớn. ",
+    "pred_spans": [
+      [
+        0,
+        22,
+        "Bệnh_lý"
+      ],
+      [
+        34,
+        43,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Trẻ mắc dị tật Dandy-Walker có thể có triệu chứng chậm phát triển vận động Khi nào cần gặp bác sĩ? ",
+    "pred_spans": [
+      [
+        8,
+        27,
+        "Bệnh_lý"
+      ],
+      [
+        50,
+        74,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Sốt là triệu chứng thường gặp ở trẻ mắc u nguyên bào thần kinh Khi nào cần gặp bác sĩ? ",
+    "pred_spans": [
+      [
+        0,
+        3,
+        "Triệu_chứng"
+      ],
+      [
+        40,
+        62,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Giáo dục phụ nữ về các triệu chứng của ung thư nội mạc tử cung (ví dụ: Chảy máu tử cung bất thường, chảy máu sau mãn kinh). ",
+    "pred_spans": [
+      [
+        39,
+        62,
+        "Bệnh_lý"
+      ],
+      [
+        71,
+        100,
+        "Triệu_chứng"
+      ],
+      [
+        100,
+        122,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Vấn đề trong tư duy, lý luận và học tập: Bệnh xơ cứng củ có thể dẫn đến sự chậm phát triển trí tuệ.",
+    "pred_spans": [
+      [
+        0,
+        41,
+        "Triệu_chứng"
+      ],
+      [
+        41,
+        56,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Viêm bờ trên mi mắt có thể có các triệu chứng như đỏ hoặc khó chịu ở mắt Biến chứng có thể gặp khi mắc bệnh viêm bờ trên mi mắt Các biến chứng có thể gặp khi mắc viêm bờ trên mí mắt bao gồm: Lẹo: Vết sưng, đỏ, đau trên mí mắt do tuyến dầu bị tắc. ",
+    "pred_spans": [
+      [
+        0,
+        19,
+        "Bệnh_lý"
+      ],
+      [
+        50,
+        52,
+        "Triệu_chứng"
+      ],
+      [
+        58,
+        72,
+        "Triệu_chứng"
+      ],
+      [
+        103,
+        127,
+        "Bệnh_lý"
+      ],
+      [
+        162,
+        181,
+        "Bệnh_lý"
+      ],
+      [
+        196,
+        206,
+        "Triệu_chứng"
+      ],
+      [
+        206,
+        210,
+        "Triệu_chứng"
+      ],
+      [
+        210,
+        225,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Các triệu chứng thường gặp bao gồm co giật , thiểu năng trí tuệ, chậm phát triển, các vấn đề về hành vi, bất thường về da, bệnh phổi và bệnh thận. ",
+    "pred_spans": [
+      [
+        35,
+        42,
+        "Triệu_chứng"
+      ],
+      [
+        45,
+        65,
+        "Triệu_chứng"
+      ],
+      [
+        65,
+        82,
+        "Triệu_chứng"
+      ],
+      [
+        86,
+        105,
+        "Triệu_chứng"
+      ],
+      [
+        105,
+        123,
+        "Triệu_chứng"
+      ],
+      [
+        123,
+        132,
+        "Bệnh_lý"
+      ],
+      [
+        136,
+        147,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Các triệu chứng thường gặp của hội chứng Lynch liên quan đến ung thư đại trực tràng bao gồm: Máu trong phân; Táo bón ; Đau bụng; Tiêu chảy hoặc phân nhỏ hơn bình thường; Mệt mỏi; Cảm thấy no hoặc đầy hơi; Buồn nôn hoặc nôn. ",
+    "pred_spans": [
+      [
+        31,
+        46,
+        "Bệnh_lý"
+      ],
+      [
+        61,
+        83,
+        "Bệnh_lý"
+      ],
+      [
+        93,
+        109,
+        "Triệu_chứng"
+      ],
+      [
+        109,
+        116,
+        "Triệu_chứng"
+      ],
+      [
+        119,
+        129,
+        "Triệu_chứng"
+      ],
+      [
+        129,
+        138,
+        "Triệu_chứng"
+      ],
+      [
+        144,
+        170,
+        "Triệu_chứng"
+      ],
+      [
+        170,
+        179,
+        "Triệu_chứng"
+      ],
+      [
+        179,
+        190,
+        "Triệu_chứng"
+      ],
+      [
+        196,
+        205,
+        "Triệu_chứng"
+      ],
+      [
+        205,
+        213,
+        "Triệu_chứng"
+      ],
+      [
+        219,
+        224,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Viêm tai ngoài ## Yếu tố nguy cơ Những ai có nguy cơ mắc phải đau tai? ",
+    "pred_spans": [
+      [
+        0,
+        14,
+        "Bệnh_lý"
+      ],
+      [
+        62,
+        71,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Trong giai đoạn lây nhiễm đầu tiên, bác sĩ có thể đề nghị xét nghiệm phản ứng chuỗi polymerase (RT-PCR) để xác định virus Nipah. ",
+    "pred_spans": [
+      [
+        58,
+        94,
+        "Chẩn_đoán"
+      ],
+      [
+        96,
+        104,
+        "Chẩn_đoán"
+      ],
+      [
+        116,
+        129,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "## Chẩn đoán & Điều trị Phương pháp xét nghiệm và chẩn đoán hội chứng rối loạn sinh tủy Người bệnh nghi ngờ mắc hội chứng rối loạn sinh tủy có thể được làm nhiều loại xét nghiệm khác nhau để hỗ trợ chẩn đoán bệnh, bao gồm: Công thức máu toàn bộ : Hiển thị số lượng của từng tế bào máu, một hoặc nhiều loại ở mức thấp nếu bạn có MDS. ",
+    "pred_spans": [
+      [
+        60,
+        87,
+        "Bệnh_lý"
+      ],
+      [
+        112,
+        139,
+        "Bệnh_lý"
+      ],
+      [
+        167,
+        177,
+        "Chẩn_đoán"
+      ],
+      [
+        223,
+        244,
+        "Chẩn_đoán"
+      ],
+      [
+        328,
+        333,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Bác sĩ sẽ hỏi về các triệu chứng khác của rối loạn sử dụng rượu, suy dinh dưỡng Các xét nghiệm có thể hỗ trợ chẩn đoán nguyên nhân: Xét nghiệm máu : Kiểm tra lượng đường và nồng độ thiamine, xét nghiệm nồng độ cồn và chức năng gan. ",
+    "pred_spans": [
+      [
+        42,
+        65,
+        "Bệnh_lý"
+      ],
+      [
+        65,
+        79,
+        "Bệnh_lý"
+      ],
+      [
+        132,
+        146,
+        "Chẩn_đoán"
+      ],
+      [
+        149,
+        191,
+        "Chẩn_đoán"
+      ],
+      [
+        191,
+        213,
+        "Chẩn_đoán"
+      ],
+      [
+        217,
+        232,
+        "Chẩn_đoán"
+      ]
+    ]
+  },
+  {
+    "text": "Xét nghiệm di truyền giúp bác sĩ chẩn đoán được xơ cứng củ Điều trị xơ cứng củ Hiện tại chưa có cách chữa khỏi bệnh xơ cứng củ, nhưng có thể điều trị một số triệu chứng và hỗ trợ, chẳng hạn như can thiệp phát triển sớm để giảm nguy cơ chậm phát triển. ",
+    "pred_spans": [
+      [
+        0,
+        20,
+        "Chẩn_đoán"
+      ],
+      [
+        48,
+        58,
+        "Bệnh_lý"
+      ],
+      [
+        68,
+        78,
+        "Bệnh_lý"
+      ],
+      [
+        111,
+        128,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Xem thêm chi tiết: Một số phương pháp chẩn đoán ung thư vú Siêu âm là phương tiện thay thế cho nhũ ảnh đối với các bệnh nhân trẻ Phương pháp điều trị ung thư vú hiệu quả cho từng giai đoạn Giai đoạn 0: Ung thư thể tiểu thùy tại chỗ: Nhìn chung, việc lựa chọn phương pháp điều trị dựa vào xem xét các yếu tố nguy cơ ở từng trường hợp cụ thể. ",
+    "pred_spans": [
+      [
+        48,
+        58,
+        "Bệnh_lý"
+      ],
+      [
+        59,
+        66,
+        "Chẩn_đoán"
+      ],
+      [
+        150,
+        160,
+        "Bệnh_lý"
+      ],
+      [
+        202,
+        233,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Sinh thiết khối u : Sinh thiết giúp chẩn đoán xác định u nguyên bào thần kinh. ",
+    "pred_spans": [
+      [
+        0,
+        17,
+        "Chẩn_đoán"
+      ],
+      [
+        20,
+        30,
+        "Chẩn_đoán"
+      ],
+      [
+        55,
+        79,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Xét nghiệm máu: Tìm các đột biến gen có liên quan đến ung thư vú. ",
+    "pred_spans": [
+      [
+        0,
+        16,
+        "Chẩn_đoán"
+      ],
+      [
+        54,
+        66,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Sinh thiết tủy xương: Giúp xác định u có lan đến tủy xương hay không. ",
+    "pred_spans": [
+      [
+        0,
+        22,
+        "Chẩn_đoán"
+      ],
+      [
+        36,
+        37,
+        "Nguyên_nhân"
+      ],
+      [
+        49,
+        58,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Liệu pháp miễn dịch điều trị ung thư hầu họng bao gồm pembrolizumab và nivolumab. ",
+    "pred_spans": [
+      [
+        0,
+        19,
+        "Điều_trị"
+      ],
+      [
+        29,
+        45,
+        "Bệnh_lý"
+      ],
+      [
+        54,
+        67,
+        "Tên_thuốc"
+      ],
+      [
+        71,
+        82,
+        "Tên_thuốc"
+      ]
+    ]
+  },
+  {
+    "text": "Tránh tiếp xúc với ký sinh trùng: Làm sạch và vệ sinh thực phẩm một cách cẩn thận để ngăn chặn sự tiếp xúc với ký sinh trùng. ",
+    "pred_spans": [
+      [
+        0,
+        34,
+        "Phòng_ngừa"
+      ],
+      [
+        111,
+        126,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Protein chất lượng cao : Nên bổ sung các nguồn protein từ cá, thịt gà, đậu, đỗ và các sản phẩm từ sữa ít béo để giúp duy trì và sửa chữa các mô. ",
+    "pred_spans": [
+      [
+        0,
+        22,
+        "Phòng_ngừa"
+      ],
+      [
+        29,
+        81,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Da, não, mắt, tim, thận và phổi là những cơ quan thường xuyên bị ảnh hưởng. ",
+    "pred_spans": [
+      [
+        0,
+        4,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        4,
+        9,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        9,
+        14,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        14,
+        19,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        19,
+        23,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        27,
+        31,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "## Nguyên nhân Hiện nay vẫn chưa xác định được nguyên nhân làm cho các tế bào trong dạ dày tăng sinh một cách bất thường.",
+    "pred_spans": [
+      [
+        84,
+        90,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Tại đây có một cấu trúc gọi là màng nhĩ , ngăn cách tai ngoài và tai giữa. ",
+    "pred_spans": [
+      [
+        31,
+        39,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        52,
+        61,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        65,
+        75,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Những vết gãy này có thể không có triệu chứng hoặc gây ra các vấn đề về nhìn đôi hoặc thay đổi vị trí của nhãn cầu và cần phải phẫu thuật sửa chữa.",
+    "pred_spans": [
+      [
+        72,
+        80,
+        "Triệu_chứng"
+      ],
+      [
+        127,
+        137,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Các phần khác của đại tràng bao gồm đại tràng lên, đại tràng ngang, đại tràng xuống, đại tràng sigma và trực tràng. ",
+    "pred_spans": [
+      [
+        18,
+        27,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        36,
+        51,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        51,
+        68,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        68,
+        85,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        85,
+        100,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        104,
+        116,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Nếu không có liệu pháp thay thế enzyme, hầu hết trẻ sơ sinh tử vong do các biến chứng về tim hoặc hô hấp trước sinh nhật đầu tiên của chúng. ",
+    "pred_spans": [
+      [
+        13,
+        40,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Dây thanh âm lúc này có thê không di động được.",
+    "pred_spans": [
+      [
+        0,
+        12,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "nhỏ hơn trong nhu mô phổi đến tận phế nang, nơi trao đổi oxy và carbon dioxide (CO2). ",
+    "pred_spans": [
+      [
+        14,
+        25,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        34,
+        44,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Hiện nay, hai loại vắc xin chính phòng ngừa ung thư cổ tử cung là Gardasil 4 và Gardasil 9 , đều được chứng minh hiệu quả trong việc bảo vệ cơ thể chống lại các chủng HPV nguy cơ cao. ",
+    "pred_spans": [
+      [
+        44,
+        62,
+        "Bệnh_lý"
+      ],
+      [
+        66,
+        76,
+        "Tên_thuốc"
+      ],
+      [
+        80,
+        90,
+        "Tên_thuốc"
+      ],
+      [
+        161,
+        170,
+        "Nguyên_nhân"
+      ]
+    ]
+  },
+  {
+    "text": "Ngủ ngáy có thể chỉ là một triệu chứng sinh lý bình thường không ảnh hưởng gì, nhưng cũng có thể là một trong những triệu chứng chính của chứng ngưng thở khi ngủ do tắc nghẽn và có thể liên quan đến các bệnh tật tiềm ẩn về tim mạch, bệnh hô hấp,... ",
+    "pred_spans": [
+      [
+        0,
+        8,
+        "Triệu_chứng"
+      ],
+      [
+        138,
+        161,
+        "Triệu_chứng"
+      ],
+      [
+        233,
+        245,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Nhiễm vi khuẩn Helicobacter Pylori : Gây viêm và loét dạ dày, làm tăng nguy cơ ung thư. ",
+    "pred_spans": [
+      [
+        0,
+        34,
+        "Nguyên_nhân"
+      ],
+      [
+        41,
+        45,
+        "Triệu_chứng"
+      ],
+      [
+        49,
+        62,
+        "Triệu_chứng"
+      ],
+      [
+        79,
+        88,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Các xét nghiệm có thể giúp xác định nguyên nhân gây ra chứng xơ cứng củ bao gồm: Chụp CT hoặc MRI não: Xét nghiệm này giúp phát hiện các khối u trong não. ",
+    "pred_spans": [
+      [
+        55,
+        71,
+        "Bệnh_lý"
+      ],
+      [
+        81,
+        88,
+        "Chẩn_đoán"
+      ],
+      [
+        94,
+        103,
+        "Chẩn_đoán"
+      ],
+      [
+        137,
+        143,
+        "Nguyên_nhân"
+      ],
+      [
+        150,
+        155,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  },
+  {
+    "text": "Xét nghiệm hình ảnh học: Bao gồm chụp cộng hưởng từ (MRI) hoặc CT scan để chẩn đoán nguyên các nguyên nhân trong não như u não, đột quỵ, đa xơ cứng. ",
+    "pred_spans": [
+      [
+        0,
+        25,
+        "Chẩn_đoán"
+      ],
+      [
+        33,
+        51,
+        "Chẩn_đoán"
+      ],
+      [
+        53,
+        58,
+        "Chẩn_đoán"
+      ],
+      [
+        63,
+        70,
+        "Chẩn_đoán"
+      ],
+      [
+        113,
+        116,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        121,
+        128,
+        "Bệnh_lý"
+      ],
+      [
+        128,
+        137,
+        "Bệnh_lý"
+      ],
+      [
+        137,
+        149,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Phương pháp hỗ trợ: Châm cứu và massage: Giảm đau và cải thiện tinh thần.",
+    "pred_spans": [
+      [
+        20,
+        28,
+        "Điều_trị"
+      ],
+      [
+        32,
+        41,
+        "Phòng_ngừa"
+      ],
+      [
+        46,
+        49,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Thực phẩm giàu magie: Magie giúp thư giãn cơ bắp và mạch máu, có thể giúp giảm đau và viêm trong tai. ",
+    "pred_spans": [
+      [
+        0,
+        22,
+        "Phòng_ngừa"
+      ],
+      [
+        79,
+        82,
+        "Triệu_chứng"
+      ],
+      [
+        86,
+        102,
+        "Triệu_chứng"
+      ]
+    ]
+  },
+  {
+    "text": "Bác sĩ có thể chỉ định phẫu thuật nếu nguyên nhân gây bệnh là do đột quỵ hoặc u não ## Phòng ngừa & Lối sống Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của hội chứng tiểu não Chế độ sinh hoạt: Thực hành lối sống lành mạnh, không uống rượu bia, không hút thuốc lá, ngủ sớm và tập thể dục thường xuyên. ",
+    "pred_spans": [
+      [
+        23,
+        33,
+        "Điều_trị"
+      ],
+      [
+        65,
+        72,
+        "Bệnh_lý"
+      ],
+      [
+        78,
+        83,
+        "Bệnh_lý"
+      ],
+      [
+        173,
+        191,
+        "Bệnh_lý"
+      ],
+      [
+        210,
+        240,
+        "Phòng_ngừa"
+      ],
+      [
+        240,
+        261,
+        "Phòng_ngừa"
+      ],
+      [
+        261,
+        281,
+        "Phòng_ngừa"
+      ],
+      [
+        281,
+        288,
+        "Phòng_ngừa"
+      ],
+      [
+        292,
+        318,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Cơn đau và khó chịu do co thắt thể mi ở mắt do NVG có thể được giảm bớt nhờ sự trợ giúp của thuốc nhỏ mắt liệt mắt như atropine hoặc cyclopentolate. ",
+    "pred_spans": [
+      [
+        0,
+        7,
+        "Triệu_chứng"
+      ],
+      [
+        11,
+        19,
+        "Triệu_chứng"
+      ],
+      [
+        23,
+        43,
+        "Triệu_chứng"
+      ],
+      [
+        47,
+        50,
+        "Bệnh_lý"
+      ],
+      [
+        92,
+        114,
+        "Tên_thuốc"
+      ],
+      [
+        119,
+        127,
+        "Tên_thuốc"
+      ],
+      [
+        133,
+        149,
+        "Tên_thuốc"
+      ]
+    ]
+  },
+  {
+    "text": "Phòng ngừa đau tai Để ngăn ngừa đau tai xảy ra, bạn có thể áp dụng một số phương pháp sau đây: Bảo vệ tai khi đi máy bay để tránh chấn thương do thay đổi áp suất; Làm khô tai sau khi tắm hoặc đi bơi; Vệ sinh tai cẩn thận, không dùng tăm bông để ngoáy tai, tránh ấn sâu ráy tai vào trong ống tai; Tránh xa khói thuốc lá; Giảm nguy cơ nhiễm trùng hô hấp trên bằng cách rửa tay bằng xà phòng, bỏ thói quen chạm tay vào mắt, mũi, miệng, hạn chế tiếp xúc với người bệnh đang có nhiễm trùng hô hấp trên.",
+    "pred_spans": [
+      [
+        11,
+        18,
+        "Triệu_chứng"
+      ],
+      [
+        32,
+        39,
+        "Triệu_chứng"
+      ],
+      [
+        163,
+        174,
+        "Phòng_ngừa"
+      ],
+      [
+        200,
+        222,
+        "Phòng_ngừa"
+      ],
+      [
+        222,
+        256,
+        "Phòng_ngừa"
+      ],
+      [
+        256,
+        296,
+        "Phòng_ngừa"
+      ],
+      [
+        296,
+        320,
+        "Phòng_ngừa"
+      ],
+      [
+        333,
+        351,
+        "Bệnh_lý"
+      ],
+      [
+        416,
+        421,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        421,
+        426,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        473,
+        491,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Giảm tỷ lệ mắc bệnh ung thư cổ tử cung bằng cách tiêm vắc xin HPV Phương pháp phòng ngừa không đặc hiệu: Phòng ngừa ung thư cổ tử cung do nhiễm virus HPV bằng nhiều cách bao gồm: Chế độ dinh dưỡng, nghỉ ngơi, vận động hợp lý: Chế độ dinh dưỡng khoa học góp phần nâng cao sức khỏe, tăng cường sức đề kháng chống lại các yếu tố nguy cơ gây bệnh ung thư nói chung và ung thư cổ tử cung nói riêng. ",
+    "pred_spans": [
+      [
+        15,
+        38,
+        "Bệnh_lý"
+      ],
+      [
+        49,
+        65,
+        "Điều_trị"
+      ],
+      [
+        116,
+        134,
+        "Bệnh_lý"
+      ],
+      [
+        138,
+        153,
+        "Nguyên_nhân"
+      ],
+      [
+        338,
+        350,
+        "Bệnh_lý"
+      ],
+      [
+        364,
+        382,
+        "Bệnh_lý"
+      ]
+    ]
+  },
+  {
+    "text": "Yếu tố làm tăng nguy cơ mắc phải ung thư hầu họng Các yếu tố nguy cơ hàng đầu dẫn đến ung thư hầu họng là hút thuốc lá, uống nhiều rượu và nhiễm HPV đặc biệt là HPV-16, tiền sử ung thư đầu và cổ, tiền sử xạ trị ở đầu và cổ. ",
+    "pred_spans": [
+      [
+        33,
+        49,
+        "Bệnh_lý"
+      ],
+      [
+        86,
+        102,
+        "Bệnh_lý"
+      ],
+      [
+        106,
+        120,
+        "Nguyên_nhân"
+      ],
+      [
+        120,
+        135,
+        "Nguyên_nhân"
+      ],
+      [
+        139,
+        148,
+        "Nguyên_nhân"
+      ],
+      [
+        161,
+        169,
+        "Nguyên_nhân"
+      ],
+      [
+        177,
+        196,
+        "Bệnh_lý"
+      ],
+      [
+        204,
+        205,
+        "Điều_trị"
+      ]
+    ]
+  },
+  {
+    "text": "Nội soi đại tràng giúp nhìn rõ tổn thương bên trong đại tràng ## Phòng ngừa & Lối sống Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến ung thư manh tràng Chế độ sinh hoạt: Duy trì thói quen tập thể dục đều đặn: Tham gia vào các hoạt động thể chất thường xuyên. ",
+    "pred_spans": [
+      [
+        0,
+        17,
+        "Chẩn_đoán"
+      ],
+      [
+        52,
+        60,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        147,
+        165,
+        "Bệnh_lý"
+      ],
+      [
+        223,
+        273,
+        "Phòng_ngừa"
+      ]
+    ]
+  },
+  {
+    "text": "Chụp nhũ ảnh để chụp hình ảnh chi tiết bên trong mô vú, phục vụ cả mục đích sàng lọc và chẩn đoán Phương pháp điều trị ung thư vú đa ổ Việc lựa chọn phương pháp điều trị phụ thuộc vào giai đoạn, độ tuổi, sức khỏe tổng thể và mức độ di căn của ung thư, bao gồm các phương pháp sau: Phẫu thuật Cắt bỏ u: Loại bỏ các khối u cùng phần mô lành xung quanh.",
+    "pred_spans": [
+      [
+        0,
+        12,
+        "Chẩn_đoán"
+      ],
+      [
+        39,
+        56,
+        "Bộ_phận_cơ_thể"
+      ],
+      [
+        119,
+        134,
+        "Bệnh_lý"
+      ],
+      [
+        243,
+        252,
+        "Bệnh_lý"
+      ],
+      [
+        281,
+        291,
+        "Điều_trị"
+      ],
+      [
+        292,
+        302,
+        "Điều_trị"
+      ],
+      [
+        314,
+        320,
+        "Bộ_phận_cơ_thể"
+      ]
+    ]
+  }
+]

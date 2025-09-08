@@ -1,0 +1,14 @@
+                precision    recall  f1-score   support
+
+       Bệnh_lý       0.91      0.90      0.91       250
+Bộ_phận_cơ_thể       0.63      0.66      0.64        59
+     Chẩn_đoán       0.88      0.88      0.88        42
+   Nguyên_nhân       0.50      0.57      0.53        74
+    Phòng_ngừa       0.58      0.63      0.60        46
+   Triệu_chứng       0.77      0.80      0.78       155
+     Tên_thuốc       0.90      0.69      0.78        13
+      Điều_trị       0.69      0.79      0.74        43
+
+     micro avg       0.77      0.79      0.78       682
+     macro avg       0.73      0.74      0.73       682
+  weighted avg       0.77      0.79      0.78       682
