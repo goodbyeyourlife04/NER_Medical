@@ -3,6 +3,7 @@
 Dự án Nhận diện thực thể y khoa (NER) để huấn luyện mô hình PhoBERT / XLM-R kết hợp BiLSTM + CRF để gán nhãn y khoa (Bệnh_lý, Triệu_chứng, Nguyên_nhân, Điều_trị, Phòng_ngừa, Tên_thuốc, Bộ_phận_cơ_thể, Chẩn_đoán).
 
 ## Cài đặt môi trường
+```bash
 conda create -n ner_env python=3.10 -y
 conda activate ner_env
 
@@ -10,7 +11,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 pip install "transformers==4.41.0" "tokenizers==0.15.2" sentencepiece protobuf
 pip install seqeval scikit-learn pandas matplotlib tqdm torchcrf
-
+```
 ## Chuẩn bị dữ liệu
 Bước 1: Chuẩn hóa & tách câu
 ```bash
