@@ -1,0 +1,8 @@
+Bệnh_lý
+Bộ_phận_cơ_thể
+Chẩn_đoán
+Nguyên_nhân
+Phòng_ngừa
+Triệu_chứng
+Tên_thuốc
+Điều_trị

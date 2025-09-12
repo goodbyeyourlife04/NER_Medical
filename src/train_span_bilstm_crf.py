@@ -1,3 +1,4 @@
+# src/train_span_bilstm_crf.py
 import os, json, time, argparse, random, math
 from pathlib import Path
 from collections import Counter, defaultdict
@@ -14,7 +15,7 @@ from transformers import (
 from seqeval.metrics import precision_score, recall_score, f1_score, classification_report
 from torchcrf import CRF
 
-# AMP mới
+# AMP (API mới)
 from torch import amp
 autocast   = amp.autocast
 GradScaler = amp.GradScaler  # dùng GradScaler('cuda', enabled=...)
@@ -24,7 +25,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-# ---- cấu hình an toàn SDPA (tránh lỗi backend trên Windows khi mask lạ) ----
+# ===== SDPA safe mode (tránh lỗi backend trên Windows khi mask lạ) =====
 os.environ.setdefault("PYTORCH_SDP_BACKEND", "math")
 try:
     if hasattr(torch.backends, "cuda"):
@@ -34,6 +35,7 @@ try:
 except Exception:
     pass
 
+# =================== utils ===================
 def set_seed(sd=42):
     random.seed(sd); np.random.seed(sd)
     torch.manual_seed(sd); torch.cuda.manual_seed_all(sd)
@@ -46,9 +48,6 @@ def read_jsonl(p):
 
 def ensure_dir(p: Path): p.mkdir(parents=True, exist_ok=True)
 
-PUNCT = set(".,;:!?)]}%»”’…")
-SPACE = set(" \t\r\n")
-
 def safe_torch_save(obj, path: Path, tries: int = 5, sleep_sec: float = 1.5):
     p = Path(path)
     for i in range(tries):
@@ -59,6 +58,10 @@ def safe_torch_save(obj, path: Path, tries: int = 5, sleep_sec: float = 1.5):
             p = p.with_name(f"{p.stem}_{i+1}{p.suffix}")
     p = p.with_name(f"{p.stem}_{int(time.time())}{p.suffix}")
     torch.save(obj, p); return str(p)
+
+# =================== span metrics ===================
+PUNCT = set(".,;:!?)]}%»”’…")
+SPACE = set(" \t\r\n")
 
 def strict_span_scores(golds, preds, labels):
     tp=fp=fn=0; per=defaultdict(lambda:{'tp':0,'fp':0,'fn':0})
@@ -101,6 +104,7 @@ def snap_refine_pred_char_spans(text, spans, token_offsets):
         out.append([s,e,l])
     return out
 
+# =================== dataset / collate ===================
 class SpanNERDataset(Dataset):
     def __init__(self, fp, label_list=None, oversample_rare=False):
         raw=list(read_jsonl(fp))
@@ -156,7 +160,8 @@ class SpanNERDataset(Dataset):
                     if rare:
                         k=2 if min(cnt[l] for l in rare) < 0.5*med else 1
                         aug.extend([it]*k)
-                self.items.extend(aug)
+                if aug:
+                    self.items.extend(aug)
 
     def __len__(self): return len(self.items)
     def __getitem__(self,i): return self.items[i]
@@ -191,15 +196,14 @@ class CollateFn:
                      max_length=self.max_len,add_special_tokens=True)
         input_ids=torch.tensor(enc["input_ids"],dtype=torch.long)
         attention=torch.tensor(enc["attention_mask"],dtype=torch.long)
-        # đảm bảo mask là 0/1
-        attention=(attention>0).long()
+        attention=(attention>0).long()  # ép 0/1
         offsets=enc["offset_mapping"]
         labels=torch.zeros_like(input_ids)
         for i,(spans,offs) in enumerate(zip(spans_list,offsets)):
             for (s,e,l) in spans:
                 idxs=[]
                 for j,(ts,te) in enumerate(offs):
-                    if ts==te==0: continue
+                    if ts==te==0: continue           # special tokens
                     if te<=s or ts>=e: continue
                     idxs.append(j)
                 if not idxs: continue
@@ -208,6 +212,7 @@ class CollateFn:
         return {"input_ids":input_ids,"attention_mask":attention,"labels":labels,
                 "texts":texts,"offsets":offsets,"spans_list":spans_list}
 
+# =================== eval ===================
 @torch.no_grad()
 def evaluate(model, loader, device, id2tag, label_types, snap_punct=False):
     model.eval()
@@ -217,11 +222,13 @@ def evaluate(model, loader, device, id2tag, label_types, snap_punct=False):
         in_ids=batch["input_ids"].to(device,non_blocking=True)
         attn  =batch["attention_mask"].to(device,non_blocking=True)
         paths =model(input_ids=in_ids,attention_mask=attn)
+        # token-level pred
         for i,path in enumerate(paths):
             L=int(attn[i].sum().item())
             toks=[id2tag.get(t,"O") for t in path[:L]]
             toks=[t for t,(s,e) in zip(toks,batch["offsets"][i][:L]) if not (s==e==0)]
             all_pred_tags.append(toks)
+        # token-level gold
         for i,(offs,spans) in enumerate(zip(batch["offsets"],batch["spans_list"])):
             L=int(attn[i].sum().item()); offs=offs[:L]; tg=["O"]*len(offs)
             for (s,e,lab) in spans:
@@ -235,6 +242,7 @@ def evaluate(model, loader, device, id2tag, label_types, snap_punct=False):
                 for j in idxs[1:]: tg[j]=f"I-{lab}"
             tg=[t for t,(s,e) in zip(tg,offs) if not (s==e==0)]
             all_gold_tags.append(tg)
+        # span-level
         for i in range(len(batch["texts"])):
             text=batch["texts"][i]; offs=batch["offsets"][i]; L=int(attn[i].sum().item())
             pred_sp=[]; cur=None
@@ -260,6 +268,7 @@ def evaluate(model, loader, device, id2tag, label_types, snap_punct=False):
     return dict(tok_p=tok_p,tok_r=tok_r,tok_f1=tok_f,**span_micro), \
            (all_gold_tags,all_pred_tags,all_gold_spans,all_pred_spans)
 
+# =================== plots & logs ===================
 def save_training_figures(history, out_dir: Path):
     epochs=[r["epoch"] for r in history]
     loss=[r["train_loss"] for r in history]
@@ -296,29 +305,6 @@ def save_span_perlabel_bars(span_table, out_dir: Path, prefix="val"):
     plt.yticks(y,labels); plt.xlabel("(%)"); plt.title(f"{prefix.upper()} Strict-Span P/R/F1 by Label")
     plt.legend(); plt.tight_layout(); plt.savefig(fig_dir/f"{prefix}_span_prf_per_label.png",dpi=180); plt.close()
 
-def run_epoch(model, loader, optimizer, scheduler, device, amp=True, grad_accum=1):
-    model.train(); tot=0.0; n=0
-    scaler=GradScaler('cuda', enabled=amp); optimizer.zero_grad(set_to_none=True)
-    for step,batch in enumerate(loader,1):
-        for k in ["input_ids","attention_mask","labels"]:
-            batch[k]=batch[k].to(device,non_blocking=True)
-        with autocast(device_type='cuda', enabled=amp):
-            loss=model(**{k:batch[k] for k in ["input_ids","attention_mask","labels"]})/max(1,grad_accum)
-        scaler.scale(loss).backward()
-        if step%grad_accum==0:
-            torch.nn.utils.clip_grad_norm_(model.parameters(),1.0)
-            scaler.step(optimizer); scaler.update()
-            optimizer.zero_grad(set_to_none=True); scheduler.step()
-        tot+=float(loss.detach().cpu()); n+=1
-    return tot/max(1,n)
-
-def lengths_for_items(items, tokenizer, max_len):
-    lens=[]
-    for it in items:
-        n=len(tokenizer(it["text"],add_special_tokens=True,truncation=True,max_length=max_len).input_ids)
-        lens.append(n)
-    return np.array(lens)
-
 def save_reports(out_dir: Path, prefix: str, gold_tags, pred_tags, gold_spans, pred_spans, label_types):
     with open(out_dir/f"{prefix}_seqeval_report.txt","w",encoding="utf-8") as f:
         f.write(classification_report(gold_tags,pred_tags,digits=2))
@@ -336,27 +322,75 @@ def append_log_files(out_dir: Path, row: dict):
     with open(out_dir/"training_log.jsonl","a",encoding="utf-8") as f:
         f.write(json.dumps(row,ensure_ascii=False)+"\n")
 
-# ---------- preflight: kiểm tra token id / mask ----------
+# =================== preflight ===================
 def preflight_token_check(sample_texts, tokenizer, max_len, model_name):
-    enc = tokenizer(sample_texts, return_attention_mask=True, truncation=True,
-                    max_length=max_len, add_special_tokens=True)
-    arr = np.array(enc["input_ids"], dtype=np.int64)
-    am  = np.array(enc["attention_mask"], dtype=np.int64)
-    # load tạm model config để lấy vocab_size
+    enc = tokenizer(
+        sample_texts,
+        return_attention_mask=True,
+        truncation=True,
+        max_length=max_len,
+        add_special_tokens=True,
+        padding=False,   # tránh ragged -> ép từng sample
+    )
     tmp = AutoModel.from_pretrained(model_name)
     vocab_size = tmp.config.vocab_size
     del tmp
-    id_min, id_max = int(arr.min()), int(arr.max())
-    if id_min < 0 or id_max >= vocab_size:
-        print("[FATAL] Token ids out-of-range for model vocab.")
-        print("  model:", model_name, "| vocab_size:", vocab_size, "| id_min/id_max:", id_min, id_max)
-        raise RuntimeError("tokenizer/model mismatch")
-    uniq = np.unique(am).tolist()
-    if any(x not in (0,1) for x in uniq):
-        print("[FATAL] attention_mask contains values not in {0,1}:", uniq)
-        raise RuntimeError("attention_mask invalid")
+    for i, (ids, am) in enumerate(zip(enc["input_ids"], enc["attention_mask"])):
+        if not ids:
+            raise RuntimeError(f"[FATAL] preflight: sample {i} input_ids rỗng.")
+        id_min = min(ids); id_max = max(ids)
+        if id_min < 0 or id_max >= vocab_size:
+            print("[FATAL] Token ids out-of-range for model vocab.")
+            print(f"  sample {i} | model: {model_name} | vocab_size: {vocab_size} | id_min/id_max: {id_min}/{id_max}")
+            print("  ids(head):", ids[:24])
+            raise RuntimeError("tokenizer/model mismatch")
+        uniq = set(am)
+        if any(x not in (0, 1) for x in uniq):
+            print("[FATAL] attention_mask has values not in {0,1}:", sorted(uniq))
+            print(f"  sample {i} | am(head): {am[:24]}")
+            raise RuntimeError("attention_mask invalid")
     return True
 
+# =================== train loop ===================
+def lengths_for_items(items, tokenizer, max_len):
+    lens=[]
+    for it in items:
+        n=len(tokenizer(it["text"],add_special_tokens=True,truncation=True,max_length=max_len).input_ids)
+        lens.append(n)
+    return np.array(lens)
+
+def run_epoch(model, loader, optimizer, scheduler, device, amp=True, grad_accum=1):
+    model.train(); tot=0.0; n=0
+    scaler=GradScaler('cuda', enabled=amp); optimizer.zero_grad(set_to_none=True)
+    for step,batch in enumerate(loader,1):
+        # ---- batch guard: bắt id/mask lỗi trước khi vào GPU ----
+        with torch.no_grad():
+            emb = model.backbone.get_input_embeddings()
+            vocab_size = emb.num_embeddings
+            ids = batch["input_ids"]
+            am  = batch["attention_mask"]
+            if ids.min().item() < 0 or ids.max().item() >= vocab_size:
+                bad_min = int(ids.min().item()); bad_max = int(ids.max().item())
+                raise RuntimeError(
+                    f"[FATAL] token id out of range: min={bad_min}, max={bad_max}, vocab_size={vocab_size}"
+                )
+            uniq = torch.unique(am).tolist()
+            if any(x not in (0,1) for x in uniq):
+                raise RuntimeError(f"[FATAL] attention_mask has non-binary values: {uniq}")
+
+        for k in ["input_ids","attention_mask","labels"]:
+            batch[k]=batch[k].to(device,non_blocking=True)
+        with autocast(device_type='cuda', enabled=amp):
+            loss=model(**{k:batch[k] for k in ["input_ids","attention_mask","labels"]})/max(1,grad_accum)
+        scaler.scale(loss).backward()
+        if step%grad_accum==0:
+            torch.nn.utils.clip_grad_norm_(model.parameters(),1.0)
+            scaler.step(optimizer); scaler.update()
+            optimizer.zero_grad(set_to_none=True); scheduler.step()
+        tot+=float(loss.detach().cpu()); n+=1
+    return tot/max(1,n)
+
+# =================== main ===================
 def main():
     ap=argparse.ArgumentParser()
     ap.add_argument("--data_dir", required=True)
@@ -385,14 +419,14 @@ def main():
 
     set_seed(args.seed)
     base_out=Path(args.output_dir); ensure_dir(base_out)
-    run_id=time.strftime("%Y%m%d-%H%M%S")
-    out_dir=base_out/f"run_{run_id}"; ensure_dir(out_dir)
+    run_id=time.strftime("%Y%m%d-%H%M%S"); out_dir=base_out/f"run_{run_id}"; ensure_dir(out_dir)
 
     train_fp=Path(args.data_dir)/"train.jsonl"
     val_fp  =Path(args.data_dir)/"val.jsonl"
     test_fp =Path(args.data_dir)/"test.jsonl"
     assert train_fp.exists() and val_fp.exists(), "Thiếu train.jsonl hoặc val.jsonl"
 
+    # labels
     label_list=None
     if args.labels_txt and Path(args.labels_txt).exists():
         with open(args.labels_txt,"r",encoding="utf-8") as f:
@@ -403,14 +437,16 @@ def main():
     label_types=ds_tr.types
     print("[INFO] labels:", label_types)
 
-    # ---- tokenizer an toàn cho PhoBERT, giữ nguyên XLM-R ----
+    # ---- tokenizer (an toàn PhoBERT, giữ nguyên XLM-R) ----
     tok=AutoTokenizer.from_pretrained(args.model_name_or_path,use_fast=True)
     if (not getattr(tok,"is_fast",False)) and "phobert" in args.model_name_or_path.lower():
         tok=RobertaTokenizerFast.from_pretrained(args.model_name_or_path,use_fast=True)
     tok.padding_side="right"; tok.truncation_side="right"
+    if tok.pad_token is None:
+        tok.pad_token = getattr(tok, "eos_token", None) or getattr(tok, "sep_token", None)
     assert tok.is_fast, "Phải là tokenizer FAST."
 
-    # PhoBERT: giới hạn max_len thấp hơn
+    # PhoBERT: max_len hợp lý
     if "phobert" in args.model_name_or_path.lower():
         args.max_len=min(args.max_len,256)
 
@@ -420,7 +456,7 @@ def main():
     with open(out_dir/"labels.txt","w",encoding="utf-8") as f:
         for lb in label_types: f.write(lb+"\n")
 
-    # ---- Preflight: thử 5 câu đầu để bắt mismatch sớm ----
+    # ---- preflight: 5 câu đầu để bắt mismatch sớm ----
     probe=[]
     for i,obj in enumerate(read_jsonl(str(train_fp))):
         probe.append(obj.get("text",""))
@@ -433,6 +469,13 @@ def main():
     device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model=BiLSTMCRF(args.model_name_or_path,num_labels=len(ds_tr.tag2id)).to(device)
 
+    # ===== đồng bộ embedding với tokenizer (pad token mới thêm, nếu có) =====
+    try:
+        model.backbone.resize_token_embeddings(len(tok))
+    except Exception:
+        pass
+
+    # optim
     no_decay=["bias","LayerNorm.weight"]
     def is_backbone(n): return n.startswith("backbone.")
     def is_head(n): return not is_backbone(n)
@@ -444,12 +487,16 @@ def main():
     ]
     optimizer=torch.optim.AdamW(grouped)
 
+    # sampler theo length (bucket)
     sampler=None; shuffle=True
     if args.bucket_by_length:
-        lens=lengths_for_items(ds_tr.items,tok,args.max_len)
-        idx=np.argsort(lens)
+        lens=[]
+        for it in ds_tr.items:
+            n=len(tok(it["text"],add_special_tokens=True,truncation=True,max_length=args.max_len).input_ids)
+            lens.append(n)
+        lens=np.array(lens); idx=np.argsort(lens)
         blocks=np.array_split(idx,max(1,len(idx)//(args.batch_size*args.bucket_size)))
-        order=np.concatenate([np.random.permutation(b) for b in blocks])
+        order=np.concatenate([np.random.permutation(b) for b in blocks]) if len(blocks)>1 else idx
         sampler=SubsetRandomSampler(order); shuffle=False
 
     train_loader=DataLoader(ds_tr,batch_size=args.batch_size,shuffle=shuffle,sampler=sampler,
