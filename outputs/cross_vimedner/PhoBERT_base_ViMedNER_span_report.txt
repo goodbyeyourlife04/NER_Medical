@@ -1,0 +1,8 @@
+Label	P(%)	R(%)	F1(%)	Support
+ten_benh	0.0	0.0	0	1822
+trieu_chung_benh	0.1	0.14	0.12	712
+nguyen_nhan_benh	0.0	0.0	0	276
+bien_phap_chan_doan	0.42	0.32	0.37	308
+bien_phap_dieu_tri	0.0	0.0	0	632
+MICRO	0.06	0.05	0.06	-
+MACRO(non-empty)	-	-	0.1	-

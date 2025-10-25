@@ -1,0 +1,11 @@
+                     precision    recall  f1-score   support
+
+bien_phap_chan_doan     0.0042    0.0032    0.0036       308
+ bien_phap_dieu_tri     0.0000    0.0000    0.0000       632
+   nguyen_nhan_benh     0.0000    0.0000    0.0000       276
+           ten_benh     0.0000    0.0000    0.0000      1822
+   trieu_chung_benh     0.0010    0.0014    0.0012       712
+
+          micro avg     0.0006    0.0005    0.0006      3750
+          macro avg     0.0010    0.0009    0.0010      3750
+       weighted avg     0.0005    0.0005    0.0005      3750

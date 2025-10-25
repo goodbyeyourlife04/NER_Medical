@@ -1,0 +1,125 @@
+Đông máu rải rác nội mạch: Hình thành quá nhiều huyết khối trong lòng mạch
+
+## Giới thiệu
+Đông máu rải rác nội mạch là bệnh lý xảy ra do hình thành quá nhiều huyết khối trong lòng mạch và dần kết tụ lại thành
+cục máu đông
+, kèm theo các biến đổi fibrin hay fibrinogen trong vi tuần hoàn.
+Về sinh học máu, đây là tình trạng đông máu do tiêu thụ, nghĩa là các yếu tố đông máu bị lôi cuốn, bị sử dụng hết để hình thành fibrin và thrombin, tạo thành cục máu đông trong lòng mạch.
+Về mặt lâm sàng, đây là hiện tượng chảy máu do đông nhiều, tức là hội chứng chảy máu và hội chứng đông máu biểu hiện đồng thời. Nếu bệnh nhân bị chảy máu và không thể cầm được, có thể dẫn tới tử vong.
+Phân loại:
+DIC tiến triển chậm
+: Biểu hiện huyết khối tắc tĩnh mạch trước như huyết khối tĩnh mạch sâu, tắc mạch phổi (đôi khi triệu chứng này cũng xuất hiện ở bệnh sùi van tim). Có thể xuất huyết bất thường nhưng không phổ biến.
+DIC tiến triển nhanh, nặng:
+Gây giảm tiểu cầu, cạn kiệt các yếu tố đông máu cùng fibrinogen và gây ra
+chảy máu
+. Xuất huyết nội tạng cùng với huyết khối vi mạch có thể gây ra rối loạn chức năng và tổn thương nhiều cơ quan. DIC cũng gây tan máu nội mạch mức độ nhẹ, tạo các mảnh vỡ hồng cầu.
+
+## Triệu chứng
+Những dấu hiệu và triệu chứng của đông máu nội mạch rải rác
+DIC tiến triển chậm
+Có thể xuất hiện triệu chứng của:
+Huyết khối tĩnh mạch: Cơn đau mơ hồ lan dọc theo tĩnh mạch,
+phù nề
+, ban đỏ không đặc hiệu. Các tĩnh mạch nông bị giãn rõ ràng hoặc không giãn. Cảm giác khó chịu bắp chân tăng khi gấp mu bàn cẳng chân vào cẳng chân. Sưng toàn bộ chân, chu vi hai cẳng chân khác nhau > 3cm. Có thể sốt nhẹ.
+Tắc nghẽn phổi:
+Khó thở
+cấp tính, đau ngực kiểu màng phổi, khó thở nhẹ khi nghỉ ngơi và có thể lên khi vận động. Ho hoặc ho ra máu (ít gặp hơn). Hạ huyết áp, nhịp tim nhanh, nhức đầu, mệt mỏi, thở nhanh, ngất.
+DIC nặng, tiến triển nhanh: Xuất huyết nơi tiêm truyền, xuất huyết tiêu hóa (có thể xảy ra).
+Khi nào cần gặp bác sĩ?
+Nếu có bất kỳ triệu chứng nào nêu trên xảy ra, bạn nên liên hệ ngay với bác sĩ để được kiểm tra và tư vấn. Chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh và giúp bạn mau chóng hồi phục sức khỏe.
+
+## Nguyên nhân
+Đông máu nội mạch rải rác thường là kết quả của sự tiếp xúc của yếu tố mô (tissue factor) với máu, bắt đầu dòng chảy đông máu. Ngoài ra, con đường tiêu sợi huyết cũng được kích hoạt trong DIC. Sự kích thích các tế bào nội mô bởi các cytokine và dòng máu vi mạch bị xáo trộn gây ra sự giải phóng chất hoạt hóa plasminogen mô (tPA) từ các tế bào nội mô. Cả tPA và plasminogen đều gắn vào các polyme fibrin, và plasmin (được tạo ra bởi sự phân cắt tPA của plasminogen) phân cắt fibrin thành D-dimers và các sản phẩm phân giải fibrin khác. Do đó, DIC có thể gây ra cả huyết khối và chảy máu (nếu tiêu thụ quá nhiều tiểu cầu và/hoặc các yếu tố đông máu).
+DIC xảy ra thường xuyên nhất trong các trường hợp lâm sàng sau:
+Các biến chứng sản khoa (
+nhau bong non
+, phá thai, thai chết lưu, thuyên tắc nước ối): Yếu tố mô của nhau thai đi vào tuần hoàn máu của mẹ gây kích hoạt đông máu.
+Nhiễm trùng, đặc biệt là vi khuẩn Gram âm: Nội độc tố gram âm kích thích tạo ra hoặc kích hoạt hoạt động của yếu tố mô trong các tế bào thực bào, nội mô và mô.
+Ung thư, đặc biệt là ung thư biểu mô tuyến tiết mucin của tuyến tụy, ung thư biểu mô tuyến của tuyến tiền liệt và bệnh bạch cầu nguyên bào cấp tính: Tế bào khối u biểu hiện và bộc lộ (hoặc giải phóng) yếu tố mô.
+Sốc do bất kỳ nguyên nhân nào gây tổn thương mô do thiếu máu cục bộ và tiếp xúc hoặc giải phóng yếu tố mô.
+Các nguyên nhân ít phổ biến hơn bao gồm:
+Tổn thương mô nghiêm trọng do chấn thương đầu, bỏng, tê cóng hoặc vết thương do súng bắn.
+Các biến chứng của phẫu thuật tuyến tiền liệt dẫn đến mô tuyến tiền liệt có hoạt tính của yếu tố mô (cùng với chất hoạt hóa plasminogen) đi vào tuần hoàn.
+Các enzym trong một số nọc rắn xâm nhập vào hệ tuần hoàn, kích hoạt một hoặc một số yếu tố đông máu, tạo ra thrombin hoặc chuyển đổi trực tiếp fibrinogen thành fibrin.
+Tan máu nội mạch sâu.
+Phình động mạch chủ hoặc u máu thể hang (hội chứng Kasabach-Merritt) liên quan đến tổn thương thành mạch và các khu vực ứ máu.
+Đông máu nội mạch rải rác tiến triển chậm thường do
+ung thư
+, chứng phình động mạch hoặc u máu thể hang.
+
+## Yếu tố nguy cơ
+Những ai có nguy cơ mắc phải đông máu rải rác nội mạch?
+Những bệnh nhân đang mắc các bệnh lý nhiễm trùng, các bệnh lý ác tính, các biến chứng sản khoa, cơ địa quá mẫn, ngộ độc nọc rắn,
+viêm tụy cấp
+, mất máu cấp, cơ thể thiếu oxy,... đều có nguy cơ bị đông máu nội mạch rải rác.
+Yếu tố làm tăng nguy cơ mắc phải đông máu rải rác nội mạch
+Một số yếu tố làm tăng nguy cơ mắc đông máu rải rác nội mạch, bao gồm:
+Phản ứng truyền máu;
+Ung thư, đặc biệt là một số loại bệnh bạch cầu;
+Viêm tụy
+;
+Nhiễm trùng máu, đặc biệt là do vi khuẩn hoặc nấm;
+Bệnh gan;
+Các biến chứng khi mang thai (sót nhau sau sinh, sảy thai...);
+Phẫu thuật hoặc gây mê gần đây;
+Tổn thương mô nghiêm trọng (chấn thương đầu, bỏng);
+U máu
+.
+
+## Chẩn đoán & Điều trị
+Phương pháp xét nghiệm và chẩn đoán đông máu rải rác nội mạch
+Định lượng tiểu cầu, PT, PTT, fibrinogen, D-dimer
+Nghi ngờ DIC ở những bệnh nhân chảy máu không rõ nguyên nhân hoặc huyết khối tắc mạch, đặc biệt nếu mắc bệnh lý nền phù hợp và chỉ định xét nghiệm số lượng tiểu cầu, PT, PTT,
+fibrinogen
+,
+D-dimer
+(hoặc các sản phẩm thoái giáng khác của fibrin).
+DIC tiến triển chậm
+Giảm tiểu cầu nhẹ.
+PT bình thường đến tăng nhẹ (kết quả thường được thể hiện bằng tỷ lệ chuẩn hóa quốc tế [INR]) và PTT).
+Fibrinogen bình thường hoặc giảm nhẹ.
+D-dimer tăng.
+Bởi vì các bệnh lý khác nhau kích thích tăng tổng hợp fibrinogen như một chất phản ứng ở giai đoạn cấp tính, mức fibrinogen giảm trong 2 lần đo liên tiếp có thể giúp chẩn đoán DIC. Giá trị PTT ban đầu trong DIC tiến triển chậm thực sự có thể ngắn hơn bình thường, có thể là do sự hiện diện của các yếu tố đông máu đã hoạt hóa trong huyết tương.
+DIC tiến triển nhanh
+Giảm tiểu cầu nghiêm trọng hơn.
+PT và PTT kéo dài hơn.
+Fibrinogen huyết tương giảm nhanh.
+D-dimer huyết tương tăng cao.
+Yếu tố VIII có thể giúp phân biệt DIC cấp tính nặng với hoại tử gan lớn - bệnh lý gây ra các bất thường tương tự trong xét nghiệm đông máu. Nồng độ yếu tố VIII tăng cao trong hoại tử gan vì nó được tạo ra trong các tế bào nội mô gan và được giải phóng khi mô bị phá hủy. Yếu tố VIII có thể bị giảm trong DIC do thrombin và tạo ra protein C hoạt hóa, protein này phân giải yếu tố VIII dạng hoạt động.
+Phương pháp điều trị đông máu rải rác nội mạch hiệu quả
+Điều trị bệnh nguyên
+Điều trị nguyên nhân gây bệnh trước (ví dụ: Nạo tử cung nếu sót rau, dùng
+kháng sinh phổ rộng
+nếu nghi ngờ nhiễm khuẩn gram âm...). Nếu điều trị hiệu quả, DIC có thể giảm nhanh chóng.
+Xử lý xuất huyết nghiêm trọng
+Nếu xuất huyết trầm trọng hoặc xảy ra ở cơ quan quan trọng (não, đường tiêu hoá...), hoặc nếu có chỉ định phẫu thuật, cần truyền chế phẩm máu bổ trợ, bao gồm:
+Tiểu cầu (trong trường hợp tiểu cầu giảm nhanh < 10.000 - 20.000/µl [< 10 - 20 x 10^9/L]).
+Kết tủa yếu tố VIII để bổ sung fibrinogen nếu nồng độ fibrinogen đang giảm nhanh hoặc < 100mg/dL (< 2,9µmol/L).
+Huyết tương tươi đông lạnh: Bổ sung các yếu tố đông máu khác và các chất kháng đông tự nhiên (antithrombin, protein C, S, và Z).
+Hiệu quả khi sử dụng antithrombin trong các trường hợp DIC nặng, tiến triển nhanh chưa được khẳng định. Để ngưng DIC, cần truyền dịch khi bị hạ huyết áp thấp.
+DIC tiến triển chậm
+Heparin
+: Hữu ích trong điều trị đông máu nội mạch rải rác tiến triển chậm có huyết khối tĩnh mạch hoặc tắc mạch phổi. Heparin thường không được chỉ định điều trị DIC tiến triển nhanh vì có nguy cơ gây xuất huyết cao. Ngoại trừ trường hợp bệnh nhân có thai đã chết lưu và có dấu hiệu DIC tiến triển như giảm tiểu cầu, fibrinogen và các yếu tố đông máu rất nhanh. Ở những bệnh nhân này, chỉ định tiêm heparin trong nhiều ngày để kiểm soát DIC, giảm tiêu thụ yếu tố đông máu và làm tăng tiểu cầu cùng với fibrinogen. Khi đã ổn định, ngừng heparin và tiến hành nạo tử cung.
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của đông máu rải rác nội mạch
+Chế độ sinh hoạt:
+Tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị.
+Duy trì lối sống tích cực, hạn chế sự căng thẳng.
+Liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị.
+Thăm khám định kỳ để được theo dõi tình trạng sức khỏe, diễn tiến của bệnh và để bác sĩ tìm hướng điều trị phù hợp trong thời gian tiếp theo nếu bệnh chưa có dấu hiệu thuyên giảm.
+Bệnh nhân cần lạc quan vì tâm lý có ảnh hưởng rất lớn đến hiệu quả điều trị.
+Không
+hút thuốc lá
+và hạn chế tối đa sử dụng rượu bia.
+Vận động và tập thể dục điều độ, tránh chơi các môn thể thao đối kháng, dễ gây chấn thương.
+Chế độ dinh dưỡng:
+Bổ sung thức ăn giàu vitamin K vào bữa ăn mỗi ngày với lượng bằng nhau. Một số thực phẩm chứa nhiều
+vitamin K
+như: Cải bó xôi, húng quế, măng tây, cải xoăn, bắp cải, cần tây, rau mùi tây, bông cải xanh, rau xà lách, trứng, dầu olive, cà rốt, trái cây sấy khô (việt quất, mận, sung, nho, đào), dưa chuột,...
+Phương pháp phòng ngừa đông máu rải rác nội mạch hiệu quả
+Để phòng ngừa bệnh hiệu quả, bạn có thể tham khảo một số gợi ý dưới đây:
+Điều trị sớm những bệnh lý có thể gây ra đông máu rải rác nội mạch.
+Đánh giá tình trạng bệnh nhân và chỉ định sớm
+thuốc chống đông
+nếu nhận thấy có nguy cơ đông máu cao.

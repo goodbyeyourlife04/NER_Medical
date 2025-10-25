@@ -1,0 +1,119 @@
+Nhịp nhanh thất là gì? Nguyên nhân gây bệnh và nguyên tắc phòng ngừa
+
+## Giới thiệu
+Nhịp nhanh thất là gì?
+Nhịp nhanh thất (Ventricular tachycardia - VT) là một
+rối loạn nhịp nhanh
+có ≥ 3 phức bộ thất liên tiếp với tần số ≥ 100 nhịp/phút, phức bộ QRS giãn rộng (> 120ms) xuất hiện khi khử cực ở thất chậm một cách bất thường, có nguồn gốc ngoài hệ thống dẫn truyền thông thường. Nhịp nhanh thất bao gồm các rối loạn trên lâm sàng khác từ lành tính đến đe dọa tính mạng.
+Đa số bệnh nhân có nhịp thanh thất có bệnh tim thực tổn như bệnh cơ tim hay
+nhồi máu cơ tim
+trước đó.
+Rối loạn điện giải
+như hạ kali máu hay hạ magie máu, rối loạn kiềm toan, giảm oxy máu và tác dụng không mong muốn của một số thuốc cũng gây nên nhịp nhanh thất.
+Hội chứng QT kéo dài
+(bẩm sinh hay mắc phải) có liên quan đến dạng nhịp nhanh thất đặc trưng là cơn xoắn đỉnh (torsades de pointes).
+Nhịp nhanh thất có thể đơn hình hay đa hình, dai dẳng hoặc không dai dẳng:
+Nhịp nhanh thất đơn hình: Phức bộ QRS giống nhau ở trên cùng một chuyển đạo trên tất cả các chuyển đạo ECG bề mặt.
+Nhịp nhanh thất đa hình: Phức bộ QRS thay đổi từ nhịp này đến nhịp khác ở cùng một chuyển đạo trên bất kỳ một chuyển đạo nào.
+Nhịp nhanh thất dai dẳng: Kéo dài ≥ 30giây.
+Nhịp nhanh thất không dai dẳng: Kéo dài < 30giây.
+
+## Triệu chứng
+Những dấu hiệu và triệu chứng của nhịp nhanh thất
+Nhịp nhanh thất với thời gian ngắn và tần suất chậm có thể không có triệu chứng lâm sàng. Nhịp nhanh thất bền bỉ luôn có triệu chứng và biểu hiện lâm sàng đầu tiên là
+đánh trống ngực
+, sau có là rối loạn huyết động hay đột tử.
+Biến chứng có thể gặp khi mắc nhịp nhanh thất
+Nhịp nhanh thất có thể tiến triển thành rung thất (VF) và gây
+ngừng tim
+.
+Khi nào cần gặp bác sĩ?
+Nếu có bất kỳ triệu chứng nào nêu trên xảy ra, bạn nên liên hệ ngay với bác sĩ để được kiểm tra và tư vấn. Chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh và giúp bạn mau chóng hồi phục sức khỏe.
+
+## Nguyên nhân
+Nguyên nhân dẫn đến nhịp nhanh thất
+Nhịp nhanh thất có bệnh tim cấu trúc đi kèm: Bẩm sinh, bệnh cơ tim, bệnh
+mạch vành
+.
+Nhịp nhanh thất không có bệnh tim cấu trúc đi kèm: Rối loạn điện giải, nhanh nhịp thất đa dạng liên quan giao cảm, tác dụng phụ của thuốc, bất thường kênh ion dẫn truyền.
+Nhịp nhanh thất vô căn: Nhịp nhanh thất khởi phát từ đường ra thất phải (RVOT-VT); nhịp nhanh thất khởi phát từ đường ra thất trái (LVOT-VT), nhịp nhanh thất phân nhánh.
+
+## Yếu tố nguy cơ
+Những ai có nguy cơ mắc phải nhịp nhanh thất?
+Người có bệnh tim thực tổn trước đó;
+Người có
+tăng huyết áp
+, đái tháo đường, cường giáp.
+Yếu tố làm tăng nguy cơ mắc phải nhịp nhanh thất
+Một số yếu tố làm tăng nguy cơ mắc nhịp nhanh thất, bao gồm:
+Rối loạn điện giải (hạ kali máu, hạ magie máu);
+Rối loạn kiềm toan;
+Giảm oxy máu
+;
+Tác dụng không mong muốn của một số thuốc;
+Hút thuốc lá;
+Uống nhiều rượu bia;
+Nghiện ma túy;
+Stress
+.
+
+## Chẩn đoán & Điều trị
+Phương pháp xét nghiệm và chẩn đoán nhịp nhanh thất
+Điện tâm đồ ECG
+Chẩn đoán nhịp nhanh thất bằng
+ECG
+. Bất kỳ nhịp nhanh nào có QRS giãn rộng (≥ 0,12 giây) đều nên được coi là nhịp nhanh thất cho đến khi xác định được chẩn đoán.
+Chẩn đoán dựa vào dấu hiệu trên ECG: dấu hiệu phân ly nhĩ thất (AV), nhịp bắt được thất hay nhịp phối hợp, QRS đồng hướng dương hay đồng hướng âm ở những chuyển đạo trước tim với sóng T đảo ngược, trục điện tim vô định.
+Chẩn đoán phân biệt bao gồm nhịp nhanh trên thất kèm block nhánh hay
+hội chứng Brugada
+.
+Một số bệnh nhân có nhịp nhanh thất nhưng lại có khả năng dung nạp cực tốt, dẫn đến kết luận sai lầm rằng cơn tim nhanh QRS rộng là cơn tim nhanh nguồn gốc trên thất, sau đó sử dụng thuốc cắt cơn tim nhanh trên thất như verapamil hay
+diltiazem
+có thể làm trầm trọng hơn tình trạng bệnh, gây rối loạn huyết động và thậm chí là tử vong.
+Phương pháp điều trị nhịp nhanh thất hiệu quả
+Cấp tính: Shock điện đồng bộ chuyển nhịp, có thể dùng thuốc chống loạn nhịp nhóm I hay nhóm III.
+Điều trị lâu dài:
+Đặt máy phá rung tự động (ICD)
+.
+Cấp tính
+Điều trị cắt cơn nhịp thanh thất cáp tính tùy thuộc vào triệu chứng và thời gian của cơn.
+Nhịp nhanh thất vô mạch: Cần shock điện khử rung ngay với mức ≥100 joules.
+Nhịp nhanh thất thất dai dẳng không có rối loạn huyết động: Có thể dùng thuốc chống loạn nhịp nhóm I hay nhóm III truyền tĩnh mạch.
+Lidocaine
+cho tác dụng nhanh nhưng thường không cho hiệu quả. Nếu lidocaine không cho hiệu quả, truyền tĩnh mạch procainamide (thường phải mất 1 giờ mới có tác dụng). Dùng amiodarone truyền tĩnh mạch để cắt cơn nhưng cũng không cho tác dụng nhanh chóng. Chuyển nhịp thất bại khi truyền tĩnh mạch amiodarone hay procainamide, chỉ định shock điện chuyển nhịp.
+Nhịp nhanh thất không dai dẳng: Không cần điều trị ngay (trừ khi cơn xuất hiện thường xuyên và thời gian đủ lâu để gây ra triệu chứng). Chỉ định dùng thuốc chống loạn nhịp tương tự như điều trị cơn nhịp nhanh thất dai dẳng.
+Điều trị lâu dài
+Mục tiêu chính là ngăn đột tử thay vì chỉ đơn giản là ngăn loạn nhịp. Tối ưu nhất là đặt máy phá rung tự động (ICD). Tuy nhiên, việc quyết định điều trị cho bệnh nhân khá phức tạp và phụ thuộc vào xác suất cơn nhịp nhanh thất đe dọa đến tính mạng cũng như mức độ của bệnh tim thực tổn trước đó.
+Không cần điều trị lâu dài ở bệnh nhân có nhịp nhanh thất do nguyên nhân thoáng qua (ví dụ như cơn nhịp nhanh thất xuất hiện trong 48 giờ sau khi nhồi máu cơ tim) hay nguyên nhân có thể đảo ngược (như rối loạn acid – base, rối loạn điện giải hay do tác dụng không mong muốn của thuốc).
+Nếu bệnh nhân bị nhịp nhanh thất không do nguyên nhân thoáng qua hay nguyên nhân có thể đảo ngược, chỉ định đặt máy ICD cho bệnh nhân có nhịp nhanh thất dai dẳng. Đa số bệnh nhân bị nhịp nhanh thất dai dẳng kèm bệnh tim cấu trúc cần được chỉ định thuốc beta blocker giao cảm. Nếu không thể đặt ICD, chỉ định dùng amiodarone để phòng ngừa đột tử.
+Cũng cần cân nhắc đặt ICD ở những bệnh nhân bị nhịp nhanh thất không bền bỉ có kèm bệnh tim cấu trúc, đặc biệt nếu có phân suất tống máu < 0,35.
+Dự phòng nhịp nhanh thất là việc rất quan trọng (thường ở người bệnh đã đặt máy ICD và có cơn nhịp nhanh thất tái phát thường xuyên), cần sử dụng thêm thuốc chống loạn nhịp, cắt đốt điện bằng catheter. Có thể dùng bất kỳ thuốc chống loạn nhịp nhóm nào (Ia, Ib, Ic, II, III) để dự phòng tái phát. Beta blocker giao cảm thường được dùng đầu tiên vì an toàn (trừ khi có chống chỉ định). Nếu cần sử dụng thêm thuốc, cân nhắc sotalol, sau đó đến
+amiodarone
+.
+Cắt đốt điện bằng catheter được dùng phổ biến nhất ở bệnh nhân có nhịp nhanh thất với các hội chứng được xác định rõ ràng (ví dụ như nhịp nhanh thất khởi phát từ đường ra thất phải; nhịp nhanh thất khởi phát từ đường ra thất trái (nhịp nhanh thất belhassen, nhịp nhanh thất trái nhạy cảm với
+verapamil
+); nhịp nhanh thất trên bệnh nhân không có bệnh tim cấu trúc).
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của nhịp nhanh thất
+Chế độ sinh hoạt:
+Hạn chế căng thẳng, chú ý nghỉ ngơi;
+Ngủ đủ giấc đủ 6 – 8 tiếng mỗi ngày;
+Ngừng
+hút thuốc lá
+;
+Khám sức khỏe định kỳ.
+Chế độ dinh dưỡng:
+Dùng các
+thực phẩm giàu omega-3
+như cá thu, cá chim trắng, cá trích, cá ngừ, hạt óc chó, việt quốc.,..
+Bổ sung vừa đủ magie, natri, calci, kali;
+Ăn nhiều rau xanh và trái cây;
+Hạn chế bia rượu.
+Phương pháp phòng ngừa nhịp nhanh thất
+Để phòng ngừa bệnh hiệu quả, bạn có thể tham khảo một số gợi ý dưới đây:
+Điều chỉnh chế độ ăn hợp lý và khoa học;
+Uống nhiều nước, ăn nhiều rau củ;
+Kiểm soát cân nặng, huyết áp và đường huyết;
+Ngủ đủ giấc
+.

@@ -1,0 +1,156 @@
+Viêm đại tràng màng giả: Viêm đại tràng do kháng sinh
+
+## Giới thiệu
+Viêm đại tràng màng giả là gì?
+Viêm đại tràng màng giả
+(Pseudomembranous colitis), còn được gọi là viêm đại tràng liên quan đến kháng sinh hoặc viêm đại tràng do
+C. difficile
+, là tình trạng viêm nhiễm ở vùng đại tràng do vi khuẩn
+Clostridioides difficile
+(trước đây là
+Clostridium difficile
+) phát triển quá mức gây ra.
+Bệnh lý này thường liên quan đến thời gian nằm viện gần đây hoặc điều trị bằng kháng sinh.
+
+## Triệu chứng
+Những dấu hiệu và triệu chứng của viêm đại tràng màng giả
+Các triệu chứng của tiêu chảy do
+C. difficile
+thường bắt đầu trong 5 - 10 ngày sau khi bắt đầu dùng kháng sinh nhưng cũng có thể xảy ra vào ngày đầu tiên hoặc đến 2 tháng sau đó. Tiêu chảy thường xuyên, mức độ nhẹ, phân bán lỏng hoặc đôi khi có lẫn máu.
+Chuột rút
+hoặc đau là phổ biến, nhưng hiếm khi buồn nôn và nôn. Bụng có thể hơi mềm.
+Bệnh nhân bị viêm đại tràng nhiễm độc (viêm đại tràng tối cấp) đau nhiều hơn và mệt mỏi,
+nhịp tim nhanh
+, chướng bụng và đau. Nếu thủng đại tràng thì có dấu hiệu phúc mạc.
+Biến chứng có thể gặp khi mắc bệnh viêm đại tràng màng giả
+Mất nước: Tiêu chảy nặng gây mất nhiều dịch và chất điện giải. Điều này khiến cơ thể khó hoạt động bình thường và tụt huyết áp đến mức nguy hiểm.
+Suy thận: Trong một số trường hợp, tình trạng mất nước có thể xảy ra quá nhanh khiến chức năng thận bị suy giảm nhanh chóng (suy thận).
+Phình đại tràng nhiễm độc: Trong tình trạng hiếm gặp này, đại tràng không thể tống khí và phân ra ngoài dẫn đến bị căng phồng rất nhiều (megacolon). Nếu không được điều trị kịp thời, đại tràng có thể bị vỡ và vi khuẩn từ đại tràng xâm nhập vào ổ bụng. Bệnh nhân bị phình hoặc vỡ đại tràng cần được phẫu thuật khẩn cấp vì nhanh chóng tiến triển thành tử vong.
+Thủng ruột: Hiếm gặp và là kết quả của việc niêm mạc đại tràng bị tổn thương nhiều hoặc sau khi gặp biến chứng phình đại tràng nhiễm độc. Ruột bị thủng làm vi khuẩn tràn từ ruột vào khoang bụng, dẫn đến nhiễm trùng đe dọa tính mạng (viêm phúc mạc).
+Tử vong: Ngay cả khi nhiễm
+C. difficile
+nhẹ đến trung bình cũng có thể nhanh chóng tiến triển thành bệnh gây tử vong nếu không được điều trị kịp thời.
+Khi nào cần gặp bác sĩ?
+Nếu có bất kỳ triệu chứng nào nêu trên xảy ra, bạn nên liên hệ ngay với bác sĩ để được kiểm tra và tư vấn. Chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh và giúp bạn mau chóng hồi phục sức khỏe.
+
+## Nguyên nhân
+Nguyên nhân dẫn đến viêm đại tràng màng giả
+Cơ thể con người thường có nhiều vi khuẩn cộng sinh tự nhiên trong đại tràng ở trạng thái cân bằng, nhưng thuốc kháng sinh và các loại thuốc khác có thể làm đảo lộn sự cân bằng này. Viêm đại tràng màng giả xảy ra khi một số vi khuẩn nhất định - thường là
+C. difficile
+- phát triển nhanh chóng do các vi khuẩn có lợi thường giữ chúng trong tầm kiểm soát đã bị tiêu diệt bởi kháng sinh. Một số độc tố do
+C. difficile
+sản xuất, thường chỉ tồn tại ở một lượng nhỏ, tăng cao và gây hại cho đại tràng.
+Mặc dù hầu hết mọi loại kháng sinh đều có thể gây ra viêm đại tràng màng giả, nhưng một số loại thường gây viêm đại tràng màng giả hơn bao gồm:
+Fluoroquinolon, như ciprofloxacin và levofloxacin;
+Penicillin
+, như amoxicillin và ampicillin;
+Clindamycin;
+Cephalosporin, như cefixime.
+Các nguyên nhân khác:
+Thuốc hóa trị được chỉ định để điều trị ung thư có thể phá vỡ sự cân bằng của vi khuẩn trong đại tràng.
+Một số bệnh ảnh hưởng đến đại tràng, như viêm loét đại tràng hoặc bệnh Crohn, cũng có thể khiến mắc bệnh viêm đại tràng màng giả.
+Các bào tử của
+C. difficile
+kháng nhiều chất khử trùng thông thường và có thể được lây truyền từ nhân viên y tế sang bệnh nhân. Càng ngày, số lượng bệnh nhân không có yếu tố nguy cơ nhiễm
+C. difficile
+càng tăng, bao gồm cả những người gần đây không khám chữa bệnh hoặc sử dụng kháng sinh. Đây được gọi là
+C. difficile
+mắc phải cộng đồng.
+
+## Yếu tố nguy cơ
+Những ai có nguy cơ mắc phải viêm đại tràng màng giả?
+Mọi đối tượng đều có nguy cơ mắc viêm đại tràng màng giả.
+Yếu tố làm tăng nguy cơ mắc phải viêm đại tràng màng giả
+Một số yếu tố làm tăng nguy cơ mắc Viêm đại tràng màng giả, bao gồm:
+Uống thuốc kháng sinh;
+Điều trị nội trú trong bệnh viện hoặc viện dưỡng lão;
+Tuổi cao, đặc biệt là trên 65 tuổi;
+Hệ thống miễn dịch suy yếu
+do bệnh lý hoặc sử dụng thuốc ức chế miễn dịch;
+Bị bệnh đại tràng, như bệnh viêm ruột hoặc
+ung thư đại trực tràng
+;
+Đang phẫu thuật ruột;
+Đang hóa trị liệu điều trị ung thư.
+
+## Chẩn đoán & Điều trị
+Phương pháp xét nghiệm và chẩn đoán viêm đại tràng màng giả
+Xét nghiệm phân tìm kháng nguyên glutamate dehydrogenase (GDH) và độc tố C. difficile, xét nghiệm phản ứng chuỗi polymerase (PCR) cho gen quy định độc tố
+Nội soi đại tràng
+Nghi ngờ bệnh nhân bị tiêu chảy do
+C. difficile
+nếu khởi phát tiêu chảy trong vòng 2 tháng sau khi sử dụng kháng sinh hoặc 72 giờ sau khi nhập viện.
+Tất cả các chủng
+C. difficile
+đều sinh kháng nguyên glutamate dehydrogenase (GDH) . Xét nghiệm miễn dịch hấp thụ liên kết với enzym (ELISA) để tìm kháng nguyên nhạy cảm và được thực hiện rất nhanh chóng. Tuy nhiên, xét nghiệm dương tính chỉ cho thấy sự hiện diện của vi khuẩn chứ không xác định được chúng có sản xuất độc tố hay không.
+Các xét nghiệm độc tố sử dụng ELISA cũng được thực hiện nhanh chóng và rất đặc hiệu đối với bệnh đang hoạt động nhưng không nhạy. Do vậy, một số sẽ cho kết quả âm tính giả.
+Thử nghiệm khuếch đại acid nucleic (NAAT) sử dụng PCR để kiểm tra gen độc tố rất nhạy đối với các chủng sinh độc tố nhưng không thể biết liệu chúng có đang sản xuất độc tố nhiều hay không. Sau khi điều trị thành công, xét nghiệm này thường vẫn cho kết quả dương tính.
+Do có khả năng xảy ra tình trạng mang mầm bệnh, xét nghiệm thường chỉ được thực hiện trên những bệnh nhân có triệu chứng (tức là người đi phân lỏng). Để cải thiện độ chính xác của chẩn đoán, trước tiên cần thực hiện xét nghiệm GDH và độc tố. Nếu kết quả hai xét nghiệm phù hợp (tức là cả hai đều dương tính hoặc âm tính), thì xác nhận hoặc loại trừ khả năng mắc bệnh. Kết quả thử nghiệm không phù hợp (một dương tính, một âm tính), dựa trên kết quả xét nghiệm NAAT để đưa ra kết luận.
+Thường chỉ cần dùng một mẫu phân. Nếu mẫu đầu tiên âm tính, không nên gửi các mẫu lặp lại trong tối thiểu 7 ngày trừ khi có thay đổi lâm sàng và nghi ngờ cao. Thường có bạch cầu trong phân nhưng không đặc hiệu.
+Nội soi đại tràng có thể xác nhận sự hiện diện của màng giả, nên được thực hiện nếu bệnh nhân bị tắc ruột hoặc nếu không thể chẩn đoán dựa trên các xét nghiệm độc tố.
+Thực hiện chụp X quang bụng, CT, hoặc cả hai thường nếu nghi ngờ viêm đại tràng tối cấp, thủng hoặc phình đại tràng.
+Phương pháp điều trị viêm đại tràng màng giả hiệu quả
+Nội khoa
+Ngừng thuốc kháng sinh hoặc thuốc nghi ngờ gây dấu hiệu và triệu chứng bệnh và chuyển sang thuốc khác hiệu quả tương đương nếu có thể. Đôi khi, chỉ cần vậy là đủ để giải quyết tình trạng hoặc ít nhất là làm giảm triệu chứng, chẳng hạn như tiêu chảy.
+Bắt đầu dùng kháng sinh có hiệu quả chống lại
+C. difficile
+để các vi khuẩn bình thường phát triển trở lại, khôi phục sự cân bằng lành mạnh của vi khuẩn trong đại tràng.
+Metronidazole không còn được khuyến cáo là liệu pháp đầu tay cho bệnh tiêu chảy do
+C. difficile.
+Tuy nhiên, có thể chỉ định metronidazole đường uống nếu vancomycin hoặc fidaxomicin không có sẵn.
+Vancomycin
+: 125 - 500 mg cứ 6 giờ một lần trong 10 ngày khi bị bệnh nặng (số lượng bạch cầu > 15.000/mcL [15 × 109/L] và/hoặc creatinine > 1,5 lần ban đầu).
+Trong trường hợp ngoại lệ, có thể dùng vancomycin đường thụt tháo; liều lượng tương tự như vancomycin uống .
+Fidaxomicin: 200 mg cứ 12 giờ một lần trong 10 ngày là thuốc thay thế; giúp làm giảm nguy cơ tái phát hơn vancomycin .
+Cholestyramine, men Saccharomyces boulardii và men vi sinh chưa được chứng minh là có lợi nhưng cũng cần thường xuyên bổ sung.
+Nitazoxanide
+: 500 mg uống mỗi 12 giờ, có thể tương đương với vancomycin 125 mg uống.
+Cấy vi sinh vật trong phân (FMT)
+Nếu tình trạng cực kỳ nghiêm trọng hoặc tái phát nhiễm trùng nhiều lần, có thể chỉ định cấy phân chứa vi sinh vật có lợi từngười hiến tặng khỏe mạnh để khôi phục sự cân bằng của vi khuẩn trong đại tràng. Đưa phân của người hiến tặng qua ống thông mũi dạ dày vào đại tràng hoặc được đặt trong viên nang rồi nuốt. Các bác sĩ có thể sử dụng kết hợp điều trị kháng sinh và tiếp theo là FMT .
+Các dấu hiệu và triệu chứng có thể bắt đầu cải thiện trong vòng vài ngày sau khi bắt đầu điều trị bệnh.
+Điều trị viêm đại tràng màng giả tái phát.
+Sự xuất hiện tự nhiên của các chủng
+C. difficile
+mới, mạnh hơn, có khả năng kháng thuốc kháng sinh cao hơn, đã làm cho việc điều trị viêm đại tràng màng giả ngày càng trở nên khó khăn và tình trạng tái phát trở nên phổ biến hơn. Với mỗi lần tái phát, cơ khả năng tái phát lần nữa lại tăng lên.
+Các lựa chọn điều trị có thể bao gồm:
+Kháng sinh lặp lại: Lặp lại đợt kháng sinh thứ hai hoặc thứ ba để giải quyết tình trạng với thời gian điều trị lâu hơn.
+Tiêu chảy do
+C. difficile
+tái phát ở 15 - 20% bệnh nhân, thường trong vòng vài tuần sau khi ngừng điều trị. Sự tái phát thường là kết quả của sự tái nhiễm (với cùng một chủng hoặc khác chủng), nhưng một số trường hợp có thể liên quan đến các bào tử tồn tại dai dẳng từ lần nhiễm trùng ban đầu. Các đợt tái phát đầu tiên được điều trị theo phác đồ giống như đợt chính. Đối với nhiều lần tái phát, vancomycin uống 125 mg mỗi 6 giờ trong 10 - 14 ngày và giảm dần trong vài tuần, tiếp theo là uống rifaximin 400 mg x 3 lần/ngày trong 20 ngày. Hoặc fidaxomicin 200 mg uống 2 lần/ngày trong 10 ngày.
+Phẫu thuật: Phẫu thuật có thể là một lựa chọn cho bệnh nhân bị suy cơ quan tiến triển, vỡ đại tràng và viêm niêm mạc thành bụng (viêm phúc mạc). Phẫu thuật thường bao gồm loại bỏ tất cả hoặc một phần đại tràng.
+Phương pháp phẫu thuật mới bao gồm nội soi để tạo một quai đại tràng và làm sạch (phẫu thuật cắt hồi tràng và rửa đại tràng) ít xâm lấn hơn và đã cho kết quả khả quan.
+Cấy vi sinh vật trong phân (FMT): FMT được sử dụng để điều trị viêm đại tràng màng giả tái phát.
+Bezlotoxumab: Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã phê duyệt sử dụng kháng thể đơn dòng bezlotoxumab cho người để giảm nguy cơ tái phát nhiễm
+C. difficile.
+Thuốc được sử dụng kết hợp với kháng sinh, và đã được chứng minh là làm giảm đáng kể sự tái phát của nhiễm trùng. Tuy nhiên, giá thành bezlotoxumab khá cao.
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của viêm đại tràng màng giả
+Chế độ sinh hoạt:
+Tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị.
+Duy trì lối sống tích cực, hạn chế sự căng thẳng.
+Liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị.
+Thăm khám định kỳ để được theo dõi tình trạng sức khỏe, diễn tiến của bệnh và để bác sĩ tìm hướng điều trị phù hợp trong thời gian tiếp theo nếu bệnh chưa có dấu hiệu thuyên giảm.
+Bệnh nhân cần lạc quan. Tâm lý có ảnh hưởng rất lớn đến điều trị, hãy nói chuyện với những người đáng tin cậy, chia sẻ với những thành viên trong gia đình, nuôi thú cưng hay đơn giản là đọc sách, làm bất cứ thứ gì khiến bạn thấy thoải mái.
+Rửa tay thường xuyên để giữ cho
+C. difficile
+không lây lan và xâm nhập trở lại cơ thể. Nước rửa tay không có tác dụng ngăn ngừa nhiễm trùng tái phát.
+Chế độ dinh dưỡng:
+Ăn thức ăn mềm dễ tiêu hóa như cháo, cơm hoặc chuối.
+Tránh ăn đậu, các loại hạt và rau quả nhiều chất xơ. Đến khi các triệu chứng được cải thiện có thể từ từ ăn thêm các chất xơ
+Ăn nhiều bữa nhỏ trong ngày thay vì một vài bữa lớn và tránh xa thức ăn chiên, cay hoặc béo. Chúng có thể gây kích ứng dạ dày và làm cho các triệu chứng tồi tệ hơn.
+Uống nhiều nước, nước trái cây.
+Tránh xa đồ uống ngọt và đồ uống có cồn, caffeine: trà, cà phê, cola, có thể làm nặng thêm các triệu chứng của bệnh;
+Phương pháp phòng ngừa viêm đại tràng màng giả hiệu quả
+Để phòng ngừa bệnh hiệu quả, bạn có thể tham khảo một số gợi ý dưới đây:
+Rửa tay: Nhân viên y tế nên vệ sinh tay kỹ lưỡng trước và sau khi tiếp xúc với từng bệnh nhân. Trong trường hợp
+C. difficile
+bùng phát, sử dụng xà phòng và nước ấm là lựa chọn tốt hơn để vệ sinh tay, vì chất khử trùng tay chứa cồn không tiêu diệt hiệu quả các bào tử của
+C. difficile.
+Người bệnh cũng nên rửa tay bằng xà phòng và nước ấm trước và sau khi ra khỏi phòng hoặc đi vệ sinh.
+Các biện pháp phòng ngừa khi tiếp xúc: Những người nhập viện vì
+C. difficile
+có phòng riêng hoặc ở chung phòng với người mắc bệnh giống như vậy. Nhân viên bệnh viện và người bệnh đeo găng tay dùng một lần và áo choàng cách ly khi ở trong phòng cho đến ít nhất 48 giờ sau khi hết tiêu chảy.
+Vệ sinh kỹ lưỡng: Trong bất kỳ môi trường nào, tất cả các bề mặt phải được khử trùng cẩn thận bằng sản phẩm có chứa chất tẩy clo để tiêu diệt các bào tử
+C. difficile.
+Tránh sử dụng kháng sinh không cần thiết: Thuốc kháng sinh đôi khi được kê đơn cho các bệnh do virus gây ra mà những loại thuốc này không hiệu quả. Nếu cần dùng thuốc kháng sinh, hãy yêu cầu bác sĩ kê đơn thuốc có phạm vi hẹp và dùng trong thời gian ngắn nhất có thể.

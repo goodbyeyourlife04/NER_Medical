@@ -1,0 +1,191 @@
+Covid-19 là gì? Nguyên nhân gây bệnh và cách phòng ngừa
+
+## Giới thiệu
+SARS-CoV-2 là một loại coronavirus mới được xác định là nguyên nhân gây ra bệnh coronavirus 2019 (Covid-19) bắt đầu ở Vũ Hán, Trung Quốc vào cuối năm 2019 và lan rộng trên toàn thế giới.
+Vi rút Corona (CoV) là một họ vi rút ARN lớn, có thể gây bệnh cho cả động vật và con người. Ở người, coronavirus có thể gây ra một loạt bệnh, từ
+cảm lạnh
+thông thường đến các tình trạng bệnh nặng như Hội chứng hô hấp cấp tính nặng (SARS-CoV-2).
+Phổ bệnh của Covid-19 đa dạng từ người nhiễm không có triệu chứng, có các triệu chứng nhẹ cho tới những biểu hiện bệnh lý nặng như
+viêm phổi
+nặng, hội chứng suy hô hấp cấp tiến triển (ARDS) nhiễm khuẩn huyết suy chức năng đa cơ quan và tử vong. Người cao tuổi, người có bệnh mạn tính hay suy giảm miễn dịch, hoặc có đồng nhiễm hay bội nhiễm các căn nguyên khác như vi khuẩn, nấm sẽ có nguy cơ diễn biến nặng nhiều hơn.
+
+## Triệu chứng
+Những dấu hiệu và triệu chứng của bệnh Covid-19
+Thời gian ủ bệnh
+Từ 2 - 14 ngày, trung bình từ 5 - 7 ngày, thể delta có thời gian ủ bệnh ngắn hơn.
+Chủng alpha: Sốt, ho khan, mệt mỏi, đau họng, đau đầu. Một số trường hợp bị nghẹt mũi, chảy nước mũi, mất vị giác và khứu giác, buồn nôn, tiêu chảy, đau bụng…
+Chủng mới (delta): Đau đầu, đau họng, chảy nước mũi, ho, sốt,
+tiêu chảy
+, khó thở, đau cơ.
+Diễn biến
+Đối với thể alpha: 80% có triệu chứng nhẹ, 20% bệnh nhân diễn biến nặng và diễn biến nặng thường khoảng 5 - 10 ngày và 5% cần phải điều trị tại các đơn vị hồi sức tích cực với biểu hiện
+suy hô hấp cấp
+, tổn thương phổi do Covid-19, tổn thương vi mạch gây huyết khối và tắc mạch,
+viêm cơ tim
+, sốc nhiễm trùng, suy chức năng cơ quan bao gồm tổn thương thận cấp, tổn thương não, tổn thương tim và dẫn đến tử vong.
+Đối với thể delta: Tỉ lệ nhập viện cấp cứu 5,7% (cao hơn 4,2% alpha), tỉ lệ nhập viện, nhập ICU và tử vong tăng hơn trước. Ngoài ra chủng delta liên quan đến tăng mức độ nặng của bệnh biểu hiện bởi tăng nhu cầu oxy, nhập ICU hoặc tử vong so với những chủng khác. Ngoài ra chủng delta có tải lượng vi rút cao hơn 1.260 lần so với 19A/19B và khả năng lây cao hơn 15 - 20% so với chủng khác.
+Biến chứng có thể gặp khi mắc bệnh Covid-19
+Hô hấp
+Ho nhiều hơn, đau ngực, cảm giác ngạt thở, sợ hãi, tuỳ mức độ bệnh nhân, thở sâu, phổi thường không ran, mạch thường không nhanh. Khoảng 5 - 10% bệnh nhân có thể giảm oxy máu thầm lặng. Những trường hợp này bệnh nhân không có cảm giác khó thở nhưng SpO2 giảm rất dễ bị bỏ qua. Thể nặng của bệnh có biểu hiện giống ARDS.
+Mức độ trung bình: Khó thở tần số thở > 20 lần/phút và/hoặc SpO2 94 - 96%.
+Mức độ nặng nhịp thở > 25 lần/phút và/hoặc SpO2 < 94%, cần cung cấp oxy hoặc thở máy dòng cao hoặc thở không xâm nhập.
+Mức độ nguy kịch nhịp thở > 30 lần/phút có dấu hiệu suy hô hấp nặng với thở gắng sức nhiều, thở bất thường hoặc chậm < 10 lần/phút hoặc bệnh nhân tím tái, cần hỗ trợ hô hấp ngay với đặt ống nội khí quản thở máy xâm lấn.
+Một số ít khác có thể có:
+Ho ra máu
+, tràn khí, dịch màng phổi (do hoại tử nhu mô).
+Tuần hoàn
+Các triệu chứng thường không đặc hiệu: Đau ngực, mệt mỏi,
+khó thở
+, ho.
+Sốc tim: Huyết áp tụt, mạch nhanh, rối loạn nhịp, da, đầu chi lạnh, gan to, tĩnh mạch cổ nổi.
+Rối loạn nhịp chậm hoặc nhanh, suy tim cấp và sốc tim do suy tim trái (như Hội chứng trái tim vỡ, viêm cơ tim) hoặc suy tim phải cấp, thuyên tắc động mạch phổi, tràn dịch màng ngoài tim, nhồi máu cơ tim cấp, sốc nhiễm khuẩn thứ phát do Covid-19, tâm phế cấp (Acute cor pulmonary).
+Thận
+Bệnh nhân có thể thiểu niệu hoặc đái nhiều, nước tiểu có protein, đái máu vi thể hoặc đại thể, các biểu hiện của hội chứng ure máu cao ít gặp, nhưng thường nặng trên người bệnh đã có
+suy thận
+từ trước.
+Thần kinh
+Nhồi máu não: Liên quan đông máu do “bão cytokin”, hoặc do cục máu đông nguồn gốc từ tim, hoặc tĩnh mạch phổi, đặc biệt trên những người có yếu tố nguy cơ: Tuổi cao, đái tháo đường,
+rối loạn lipid máu
+, thuốc lá, béo phì, kháng thể kháng phospholipid.
+Lâm sàng xuất hiện đột ngột:
+Rối loạn ý thức theo các mức độ: Nhẹ thì còn tỉnh, nặng nhất là hôn mê.
+Hội chứng liệt nửa người: Liệt vận động có hoặc không tê bì, dị cảm.
+Thất ngôn.
+Mất thị lực, bán manh, góc manh.
+Liệt dây thần kinh sọ.
+Rối loạn cơ tròn.
+Giảm hoặc mất khứu giác
+Viêm não màng não
+, thoái hoá não, viêm đa rễ và dây thần kinh như hội chứng Guillain Barre, bệnh não do Covid-19.
+Dạ dày - ruột
+Vi rút xâm nhập vào tế bào dẫn tới viêm tế bào biểu mô làm giảm hấp thu, mất cân bằng bài tiết ở ruột và hoạt hóa hệ thống thần kinh của ruột, dẫn tới ỉa chảy. Ngoài ra có thể do dùng kháng sinh hay do thay đổi hệ vi sinh vật ở ruột, ít gặp hơn có thể liên quan đến huyết khối tắc mạch mạc treo. Tỷ lệ xuất hiện tiêu chảy từ 2 - 50% trong những bệnh nhân nhiễm Covid-19. Tiêu chảy phân lỏng cũng có khi phân toàn nước 7 - 8 lần/ngày và thường xuất hiện vào ngày thứ tư của khởi phát bệnh.
+Gan mật
+Có thể có vàng da, suy gan, tăng men gan, suy gan cấp, hôn mê gan.
+Nội tiết
+Tăng đường máu ở bệnh nhân có đái tháo đường từ trước, hoặc tăng đường máu liên quan sử dụng corticoid có thể biến chứng: Đái tháo đường mất bù, toan ceton, tăng áp lực thẩm thấu máu…
+Huyết học
+Huyết học: Tăng đông, rối loạn đông máu do nhiễm trùng (SIC) và đông máu nội mạch (DIC), hội chứng thực bào máu/hội chứng hoạt hoá đại thực bào, bệnh vi mạch huyết khối (TMA) với ban giảm tiểu cầu huyết khối (TTP) và hội chứng tăng ure huyết tán huyết (HUS), giảm tiểu cầu do heparin (HIT) do điều trị thuốc chống đông (LMWH: heparin trọng lượng phân tử thấp).
+Mạch máu: Có thể gặp huyết khối gây tắc động mạch hoặc tĩnh mạch chi 2 bên.
+Da
+Biểu hiện với ngứa, đau/bỏng rát ở da với hình thái bao gồm các ban dạng mề đay, các ban dạng hồng ban, phát ban dạng mụn nước mụn mủ, phát ban giống dạng cước ở đầu ngón tay chân, ít gặp hơn phát ban dạng lưới (chỉ điểm bệnh diễn tiến nặng), giống tổn thương xuất huyết chủ yếu ở chi, ban đỏ đa hình thái ở tay chân niêm mạc, kết mạc miệng,
+viêm kết mạc
+ở trẻ em.
+Khi nào cần gặp bác sĩ?
+Người bệnh có sốt và/hoặc
+viêm đường hô hấp cấp tính
+không lý giải được bằng các nguyên nhân khác.
+Người bệnh có bất kỳ triệu chứng hô hấp nào và có tiền sử đến/qua/ở/về từ vùng dịch tễ có bệnh Covid-19 trong khoảng 14 ngày trước khi khởi phát các triệu chứng hoặc tiếp xúc gần với trường hợp bệnh nghi ngờ hoặc xác định Covid-19 trong khoảng 14 ngày trước khi khởi phát các triệu chứng.
+Nếu có bất kỳ triệu chứng nào nêu trên xảy ra, bạn nên liên hệ ngay với bác sĩ để được kiểm tra và tư vấn. Chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh và giúp bạn mau chóng hồi phục sức khỏe.
+
+## Nguyên nhân
+SARS-CoV-2 lây trực tiếp từ người sang người qua đường hô hấp (qua giọt bắn là chủ yếu) và qua tiếp xúc với các vật dụng bị ô nhiễm. SARS-CoV-2 cũng có khả năng lây truyền qua khí dung ở trong những không gian kín, đông người và thông gió hạn chế hoặc nơi có nhiều thao tác tạo khí dung như trong các cơ sở điều trị.
+Người bệnh Covid-19 có thể phát tán vi rút từ 2 ngày trước khi có triệu chứng đầu tiên và phát tán mạnh nhất trong 3 ngày đầu từ khi biểu hiện các triệu chứng. Thời gian phát tán vi rút gây lây nhiễm khoảng 8 ngày kể từ khi xuất hiện triệu chứng, nhưng có thể dài hơn ở những bệnh nhân có
+suy giảm miễn dịch
+. Tuy vậy, những người bệnh không triệu chứng vẫn có thể phát tán vi rút gây lây nhiễm.
+
+## Yếu tố nguy cơ
+Những ai có nguy cơ mắc phải Covid-19?
+Người tiếp xúc gần với người bệnh Covid-19 (F1).
+Yếu tố làm tăng nguy cơ mắc Covid-19
+Người tiếp xúc trực tiếp với giọt bắn của người người bệnh Covid-19.
+
+## Chẩn đoán & Điều trị
+Phương pháp xét nghiệm chẩn đoán Covid-19
+Xét nghiệm Realtime RT - PCR
+Xét nghiệm này được thực hiện trên các mẫu bệnh phẩm hô hấp như mẫu ngoáy dịch tỵ hầu, mẫu phết họng, mẫu dịch hút khí quản… kỹ thuật Realtime RT - PCR là xét nghiệm khẳng định vì có độ nhạy và độ đặc hiệu cao.
+Xét nghiệm nhanh phát hiện kháng nguyên
+Xét nghiệm nhanh phát hiện kháng nguyên vi rút SARS-CoV-2 nhằm phát hiện các protein bề mặt của vi rút (hay các thành phần cấu trúc kháng nguyên khác) trong mẫu bệnh phẩm. Ưu điểm cho kết quả nhanh, nhược điểm độ nhạy và độ đặc hiệu thấp hơn
+kỹ thuật PCR
+. Đây là xét nghiệm tầm soát nên cần thực hiện xét nghiệm PCR để khẳng định chẩn đoán.
+Mẫu bệnh phẩm bao gồm mẫu ngoáy dịch tỵ hầu, mẫu ngoáy dịch họng, mẫu nước bọt và các mẫu khác theo hướng dẫn của nhà sản xuất.
+Xét nghiệm nhanh kháng nguyên dương tính: Cần xử trí như ca xác định dương tính SARS-CoV-2 và thực hiện xét nghiệm Realtime RT-PCR để khẳng định chẩn đoán.
+Xét nghiệm nhanh kháng nguyên âm tính:
+Nếu người bệnh không có triệu chứng và không có yếu tố nguy cơ: Chưa có bằng chứng nhiễm SARS-CoV-2.
+Nếu bệnh nhân có triệu chứng và/hoặc có yếu tố nguy cơ: Thực hiện xét nghiệm Realtime RT - PCR để khẳng định chẩn đoán.
+Phương pháp điều trị Covid 19-hiệu quả
+Tùy vào thể trạng bệnh nhân và mức độ nghiêm trọng của bệnh mà bác sĩ sẽ kê đơn thuốc và áp dụng những phương pháp điều trị phù hợp.
+Điều trị nguyên nhân
+Thuốc kháng vi rút
+Thuốc kháng virus vi rút remdesivir,
+favipiravir
+… được chỉ định điều trị theo diễn biến bệnh lý của người bệnh.
+Điều trị corticoid
+Bệnh nhân được chỉ định thuốc Corticoid theo diễn tiến bệnh:
+Mức độ nhẹ: Chưa dùng.
+Mức độ trung bình:
+Dexamethason 6mg/24 giờ x 7-10 ngày (đường tiêm hoặc đường uống).
+Hoặc
+methylprednisolon 16mg
+: uống 1 viên x 2 lần/ngày x 7-10 ngày.
+Mức độ nặng:
+Dexamethason 6 - 12 mg/ngày tiêm tĩnh mạch x 5 ngày, sau đó giảm 1/2 liều trong 5 ngày).
+Hoặc methylprednisolon 1 - 2 mg/kg/ngày tiêm tĩnh mạch x 5 ngày, sau đó giảm 1/2 liều trong 5 ngày.
+Mức độ nguy kịch:
+Dexamethason 12 - 20 mg/ngày tiêm tĩnh mạch x 5 ngày, sau đó giảm ½ liều trong 5 ngày).
+Hoặc methylprednisolon 2 - 3 mg/kg/ngày tiêm tĩnh mạch x 5 ngày, sau đó giảm ½ liều trong 5 ngày.
+Chú ý trong điều trị chống cơn bão cytokin:
+Khởi đầu tăng liều ngay khi có dấu hiệu chuyển độ nặng của bệnh.
+Sử dụng corticoid liều cao nên duy trì < 7 ngày và giảm liều ngay khi có cải thiện lâm sàng để tránh các tác dụng không mong muốn của thuốc.
+Theo dõi đáp ứng điều trị: Triệu chứng lâm sàng cải thiện, kết quả xét nghiệm các chỉ số viêm (CRP, IL-6, LDH, Ferritin…). Nếu không cải thiện, phối hợp sử dụng kháng thể đơn dòng ức chế IL-6, lọc máu.
+Chú ý tầm soát nhiễm khuẩn, nấm thứ phát.
+Chú ý điều chỉnh đường huyết và điện giải.
+Có thể dùng cùng lúc với các thuốc kháng thể đơn dòng, kháng IL-6 hoặc remdesivir.
+Điều trị chống đông
+Dựa vào phân loại mức độ nặng bệnh nhân Covid-19.
+Mức độ nhẹ:
+Chưa điều trị.
+Nếu bệnh nhân đang duy trì thuốc chống đông theo bệnh lý nền: Tiếp tục duy trì.
+Dùng liều dự phòng nếu bệnh nhân có nguy cơ cao: Bệnh lý nền:
+Tăng huyết áp
+, tiểu đường, ung thư, bệnh phổi mạn tính, bệnh lý mạch vành, tiền sử huyết khối, béo phì.
+Phụ nữ có thai xem xét phối hợp thêm aspirin.
+Dùng liều dự phòng khi điểm Modified IMPROVE-VTE 2 hoặc 3.
+Mức độ trung bình:
+Dùng liều dự phòng tăng cường/hoặc liều điều trị nếu có xét nghiệm theo dõi điều trị.
+Mức độ nặng:
+Dùng liều điều trị/hoặc điều chỉnh theo quy trình của máy lọc máu (nếu bệnh nhân đang lọc máu).
+Mức độ nguy kịch (phụ thuộc tình trạng bệnh nhân):
+Dùng liều dự phòng nếu bệnh nhân có giảm đông.
+Hoặc liều điều trị.
+Liều dùng các thuốc chống đông
+Lựa chọn một trong các thuốc chống đông và liều như sau (ưu tiên dùng enoxaparin liều tăng cường).
+Điều trị bội nhiễm
+Điều trị bội nhiễm theo phân tầng bệnh nhân Covid-19
+Mức độ nhẹ: Không sử dụng kháng sinh (KS), kháng nấm nếu không có bằng chứng nhiễm trùng.
+Mức độ trung bình: Chỉ điều trị KS khi nghi ngờ có bằng chứng nhiễm trùng.
+Mức độ nặng: Dùng kháng sinh theo kinh nghiệm phụ thuộc yếu tố nguy cơ của bệnh nhân hoặc theo kháng sinh đồ nếu có.
+Mức độ nguy kịch có nhiều kỹ thuật-thủ thuật xâm lấn:
+Dùng kháng sinh theo kinh nghiệm phụ thuộc yếu tố nguy cơ của bệnh nhân hoặc theo kháng sinh đồ nếu có.
+Điều trị triệu chứng: Giảm ho, giảm đau.
+Điều trị suy hô hấp: Thở oxy, CPAP, BiPAP, HFNC, nằm sấp, thở máy xâm nhập, ECMO.
+Điều trị suy tuần hoàn
+Điều trị chống cơn bão cytokin: Corticoid, lọc máu, ức chế sản xuất hoặc đối kháng IL receptor.
+Điều trị hỗ trợ khác: Dinh dưỡng, vật lý trị liệu, sức khỏe tâm thần.
+Tâm lý liệu pháp.
+Lưu ý: Các loại thuốc khi dùng phải tuân thủ theo sự hướng dẫn của bác sĩ.
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của Covid-19
+Chế độ sinh hoạt:
+Tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị.
+Duy trì lối sống tích cực, hạn chế sự căng thẳng.
+Liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị.
+Tự theo dõi sức khỏe: Đo thân nhiệt, đếm nhịp thở, đo SpO2 (nếu có) ít nhất hai lần một ngày, hoặc khi cảm thấy mệt,
+khó thở
+.
+Mang khẩu trang liên tục, rửa tay hoặc sát khuẩn tay thường xuyên.
+Rửa mũi, súc họng hàng ngày bằng nước muối sinh lý.
+Thường xuyên tập thở, vận động nâng cao sức khỏe.
+Nơi ở phải thông thoáng, không sử dụng máy lạnh trung tâm; thường xuyên làm vệ sinh các bề mặt, vật dụng, nhà vệ sinh.
+Chế độ dinh dưỡng:
+Uống đủ nước hoặc nhiều hơn nếu có
+sốt
+, tiêu chảy.
+Không bỏ bữa, tăng cường dinh dưỡng, ăn uống đủ chất, tăng cường trái cây tươi, rau xanh.
+Phương pháp phòng ngừa Covid-19 hiệu quả
+Để phòng ngừa bệnh hiệu quả, bạn có thể tham khảo một số gợi ý dưới đây:
+Tiêm phòng vắc xin.
+Phát hiện sớm để cách ly ca bệnh và đảm bảo trang bị phòng hộ cá nhân cho người có nguy cơ phơi nhiễm.
+Vệ sinh tay thường xuyên: Rửa tay thường xuyên bằng xà phòng và nước, sử dụng chất khử trùng tay nào có cồn với ít nhất 60% cồn nếu không có xà phòng và nước.
+Đeo khẩu trang che miệng và mũi, sử dụng găng tay đúng cách.
+Thực hiện theo thông điệp 5K: Khẩu trang, Khử khuẩn, Khoảng cách, Không tụ tập, Khai báo y tế.

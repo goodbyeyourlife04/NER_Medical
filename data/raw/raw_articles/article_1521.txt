@@ -1,0 +1,126 @@
+Cúm A H3N2: Nguyên nhân, triệu chứng và phòng ngừa hiệu quả
+
+## Giới thiệu
+Virus H3N2 là gì?
+Virus cúm
+có vật chất di truyền là RNA, thuộc họ Orthomyxoviridae. Chúng được phân thành bốn loại chính tùy thuộc vào đặc tính kháng nguyên và cấu trúc sinh học khác nhau của chúng. Trong các loại này, cúm A và cúm B là hai loại gây bệnh cho con người. Trong khi cúm B chỉ giới hạn với quy mô dịch mức độ nhẹ đến trung bình, thì cúm A đã gây ra các đại dịch cúm trong lịch sử loài người.
+Virus
+cúm A
+H3N2 là một trong nhiều phân nhóm của cúm A. Tên của virus được đặt dựa trên hai loại protein chính nằm trên vỏ ngoài của nó gồm hemagglutinin H và neuraminidase N. Hai loại protein này đóng vai trò là kháng nguyên quyết định khả năng ngưng kết hồng cầu ở động vật. Có tổng cộng 15 loại kháng nguyên H và 9 loại kháng nguyên N. Với những tổ hợp giữa kháng nguyên H và N khác nhau sẽ tạo nên các phân tuýp khác nhau của virus cúm A.
+Virus cúm A H3N2 tiến hóa từ H2N2 bằng cách thay đổi kháng nguyên. Virus này ban đầu lưu hành ở lợn. Từ khi con người bị nhiễm bệnh, virus này được gọi là virus biến thể, được ký hiệu bằng chữ v phía sau (virus A(H3N2)v).
+Cúm A H3N2 có nguồn gốc từ đâu?
+Virus H3N2 lần đầu tiên được phát hiện ở người vào năm 1968 gây ra đại dịch cúm mang tên là cúm Hồng Kông. Từ năm 1968 đến 1969, đại dịch này đã giết chết khoảng một triệu người trên thế giới, ước tính có 500.000 cư dân Hồng Kông bị lây nhiễm (chiếm 15% dân số) với tỷ lệ tử vong thấp. Tại Hoa Kỳ ghi nhận có khoảng 100.000 người tử vong.
+Cúm do virus H3N2 gây ra chiếm ưu thế trong mùa cúm năm 2017 - 2018. Dữ liệu cho thấy có 808.129 ca nhập viện liên quan đến
+cúm
+được báo cáo tại Mỹ vào thời gian này, trẻ em và người cao tuổi là nhóm nguy cơ cao mắc bệnh, đặc biệt là trẻ em chưa được chủng ngừa.
+Tại Việt Nam, ngày 15/02/2012 Cục Y tế dự phòng trực thuộc Bộ y tế cho biết Việt Nam phát hiện ca nhiễm cúm A H3N2 có nguồn gốc từ lợn đầu tiên được ghi nhận tại Việt Nam.
+
+## Triệu chứng
+Triệu chứng của cúm A H3N2
+Mặc dù cúm A H3N2 có liên quan đến tỷ lệ nhập viện và tử vong cao hơn, nhưng người bệnh cúm A H3N2 không có bất kỳ triệu chứng đặc biệt nào giúp phân biệt với các loại cúm mùa khác. Các triệu chứng thường xuất hiện gồm:
+Sốt
+;
+Ho;
+Ớn lạnh;
+Chảy nước mũi hoặc
+nghẹt mũi
+;
+Đau họng;
+Đau đầu, đau bụng, đau nhức cơ thể;
+Mệt mỏi;
+Tiêu chảy
+;
+Nôn.
+Chảy nước mũi trong nhiễm cúm A H3N2
+Biến chứng của cúm A H3N2
+Những đối tượng được xem là có nguy cơ cao diễn tiến các biến chứng liên quan đến cúm là:
+Trẻ em dưới 5 tuổi (đặc biệt là trẻ dưới 2 tuổi);
+Người lớn từ 65 tuổi trở lên;
+Phụ nữ có thai;
+Người có các bệnh lý như
+hen phế quản
+, đái tháo đường, bệnh tim mạch, bệnh liên quan đến suy giảm hệ thống miễn dịch,...
+Người có tình trạng suy giảm bài tiết chất tiết đường hô hấp như người có bệnh lý tâm thần kinh, rối loạn thần kinh - cơ,
+đột quỵ
+, động kinh,...
+Người bệnh dưới 18 tuổi đang dùng aspirin kéo dài.
+Một số biến chứng có thể gặp khi mắc bệnh cúm A H3N2 như:
+Viêm phổi:
+Có thể là biến chứng của bệnh nếu không điều trị bệnh hoặc điều trị trễ.
+Viêm phổi
+thứ phát có thể xuất hiện sau khi bội nhiễm vi khuẩn, làm triệu chứng nặng hơn, hoặc kéo dài, hoặc tái phát khi các triệu chứng bệnh ban đầu dường như đang thuyên giảm.
+Viêm não,
+viêm cơ tim
+, phân giải cơ gây myoglobin niệu, suy thận:
+Các biến chứng này cũng có thể xảy ra trên nhóm bệnh nhân có nguy cơ biến chứng cao, không điều trị bệnh kịp thời.
+Hội chứng Reye:
+Là một dạng bệnh lý não cấp tính - gan nhiễm mỡ, hầu như chỉ xuất hiện ở trẻ dưới 18 tuổi sau một đợt nhiễm virus như cúm hoặc
+thủy đậu
+, hoặc nhiễm trùng hô hấp trên,... Sau 3 - 5 ngày trẻ có các triệu chứng của cúm, đột nhiên xuất hiện tiêu chảy, nôn mửa, thở nhanh, thay đổi tri giác (hung hăng, động kinh, co giật, mất ý thức), có thể trẻ có các triệu chứng của hội chứng Reye, cần được điều trị khẩn cấp.
+
+## Nguyên nhân
+Người mắc bệnh cúm A H3N2 do họ đã tiếp xúc với người hoặc vật đang nhiễm virus cúm A H3N2. Nguồn chứa virus cúm A có thể là các loài động vật như lợn, ngựa; các đồ vật là nơi ẩn mình của virus như bàn, ghế, vật dụng nơi công cộng,...
+Phương thức lây truyền: Bệnh cúm lây lan qua đường hô hấp, qua giọt li ti của nước bọt hoặc dịch tiết từ mũi họng của người hoặc động vật chứa virus. Virus vào cơ thể qua đường mũi họng.
+Thời gian ủ bệnh thường ngắn, từ 1 - 5 ngày. Thời kỳ lây bệnh kéo dài từ 1 - 2 ngày trước khi khởi phát triệu chứng đầu tiên đến 3 - 5 ngày sau khi có triệu chứng.
+Giọt bắn là nguồn lây nhiễm trực tiếp cúm A H3N2
+
+## Yếu tố nguy cơ
+Những đối tượng nào có nguy cơ mắc phải cúm A H3N2
+Mọi người đều có khả năng cảm nhiễm bệnh cúm, tỷ lệ lên tới 90% ở cả trẻ em hay người lớn.
+Yếu tố làm tăng nguy cơ mắc phải cúm A H3N2
+Một số nhóm đối tượng có nguy cơ cao nhiễm cúm A H3N2 là:
+Trẻ em dưới 5 tuổi (đặc biệt là trẻ dưới 2 tuổi);
+Người lớn từ 65 tuổi trở lên.
+Người làm việc trong các môi trường công cộng đông người như bệnh viện, trường học, chợ, công ty,...
+Người bị suy giảm miễn dịch: Bệnh lý tự miễn, bệnh ung thư đang dùng các thuốc ức chế miễn dịch, người nhiễm
+HIV
+,...
+Người bệnh dưới 18 tuổi đang dùng aspirin kéo dài.
+Phụ nữ mang thai.
+
+## Chẩn đoán & Điều trị
+Phương pháp chẩn đoán
+Vì cúm A H3N2 có thể chuyển biến thành đại dịch, cho nên đối với các trường hợp nghi ngờ mắc bệnh này cần được phát hiện sớm và cách ly kịp thời. Bác sĩ sẽ tiến hành
+thăm khám lâm sàng
+, đánh giá nguy cơ dịch tễ và tiến hành các xét nghiệm chuyên biệt để chẩn đoán xác định bệnh.
+Các xét nghiệm chẩn đoán
+Các xét nghiệm chẩn đoán để phát hiện virus cúm bao gồm:
+Test nhanh: Sử dụng dịch tiết vùng mũi họng kiểm tra nhanh sự xuất hiện của kháng nguyên virus. Kết quả có sau 1 - 1,5 giờ.
+Xét nghiệm phản ứng chuỗi polymerase phiên mã ngược (Real time-PCR): Độ nhạy và độ đặc hiệu cao, hữu ích trong việc phân biệt các loại cúm. Kết quả có sau 4 - 6 giờ.
+Miễn dịch huỳnh quang
+: Xét nghiệm giúp phát hiện kháng nguyên. Độ nhạy và độ đặc hiệu thấp hơn RT-PCR.
+Xét nghiệm khuếch đại nucleic acid (NAAT).
+Điều trị
+Các bệnh cúm nói chung hay cúm A H3N2 nói riêng sẽ tự khỏi trong vòng 1 - 2 tuần. Hầu hết người bệnh được điều trị ngoại trú, trừ trường hợp bệnh tiến triển nặng hoặc xuất hiện các biến chứng. Tùy mức độ bệnh diễn tiến, bác sĩ sẽ đưa ra phác đồ điều trị phù hợp cho mỗi người bệnh.
+Với người bệnh có các triệu chứng từ nhẹ đến trung bình và không có biến chứng, bác sĩ có thể đề nghị điều trị và theo dõi bệnh tại nhà. Người bệnh cần đảm bảo thực hiện điều trị như sau:
+Nghỉ ngơi hợp lý.
+Ăn uống đầy đủ các nhóm chất dinh dưỡng, uống đủ nước, hạn chế ăn uống lạnh.
+Sử dụng thuốc: Các thuốc điều trị triệu chứng như sốt, chảy mũi, ho,...
+Tuân thủ quy tắc phòng tránh lây nhiễm: Không đến nơi đông người hoặc tiếp xúc người khác, nếu có phải sử dụng khẩu trang y tế và thường xuyên rửa tay.
+Sau 1 tuần nếu các triệu chứng không giảm hoặc tiến triển nặng hơn, người bệnh cần được đưa đến các cơ sở y tế uy tín để bác sĩ thăm khám kịp thời.
+Đối với người bệnh thuộc nhóm đối tượng nguy cơ biến chứng cao, hoặc người bệnh diễn tiến nặng cần được theo dõi tại bệnh viện và đưa ra chiến lược điều trị phù hợp:
+Thuốc kháng virus cúm: Được kê toa trong vòng 1 - 2 ngày kể từ khi triệu chứng đầu tiên khởi phát, giúp rút ngắn thời gian bệnh và ngăn ngừa biến chứng phát triển. Các thuốc điều trị cúm gồm oseltamivir, zanamivir, peramivir (ức chế neuraminidase), baloxavir (ức chế endonuclease).
+Kháng sinh
+: Nếu người bệnh có bội nhiễm vi khuẩn.
+Hỗ trợ hô hấp: Oxy liệu pháp.
+Chăm sóc và điều trị tăng cường khác.
+Thuốc kháng virus có kê toa bởi bác sĩ
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của bệnh cúm A H3N2
+Chế độ sinh hoạt:
+Vắc xin phòng cúm A H3N2:
+Vắc xin cúm
+giúp giảm tỷ lệ tử vong do bệnh lên đến 80%, ngăn nhiễm bệnh 60% và giảm 50% các nguy cơ đột quỵ và tử vong do các bệnh liên quan đến tim mạch. Theo Tổ chức Y tế Thế giới (WHO) khuyến cáo tiêm phòng cúm cần thực hiện ở mọi lứa tuổi từ trẻ 6 tháng trở lên, đặc biệt lưu ý với nhóm đối tượng nguy cơ cao có biến chứng nếu mắc cúm. Có ba loại vắc xin phòng cúm gồm Vaxigrip (xuất xứ Pháp), Influvac Tetra (xuất xứ Hà Lan) và GC Flu Quadrivalent (xuất xứ Hàn Quốc).
+Phương pháp phòng ngừa bệnh cúm A H3N2 hiệu quả
+Để phòng ngừa hiệu quả cúm A H3N2 cũng như các loại cúm mùa khác, việc xây dựng một thói quen sinh hoạt lành mạnh là rất cần thiết. Bạn nên thực hiện một số việc làm dưới đây giúp bản thân và cộng đồng chung tay đẩy lùi bệnh cúm:
+Rửa tay thường xuyên bằng nước sạch và xà phòng hoặc dung dịch rửa tay nhanh chứa cồn chuyên dụng.
+Đeo khẩu trang khi đến nơi công cộng, che miệng khi ho hoặc hắt hơi.
+Không khạc nhổ bừa bãi.
+Vệ sinh cá nhân, nơi ở và nơi làm việc thông thoáng, sạch sẽ.
+Hạn chế chạm tay vào mắt, mũi, miệng khi đã tiếp xúc tay với các vật dụng có nguy cơ chứa virus.
+Nếu bạn đang mắc cúm, hạn chế đến nơi công cộng.
+Xây dựng chế độ ăn uống, luyện tập thể dục thể thao và nghỉ ngơi khoa học.
+Hạn chế tiếp xúc với người bệnh.
+Tránh tiếp xúc với các loại gia súc, gia cầm nuôi nhốt hoặc bị chết.
+Rửa tay là cách phòng ngừa cúm đơn giản và hiệu quả

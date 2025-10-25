@@ -1,0 +1,130 @@
+Block nhĩ thất: Triệu chứng, nguyên nhân và cách điều trị
+
+## Giới thiệu
+Block nhĩ thất là sự tắc nghẽn một phần hoặc hoàn toàn dẫn truyền xung động từ
+tâm nhĩ
+xuống
+tâm thất
+. Bệnh biểu hiện bằng sự kéo dài khoảng PR trên điện tâm đồ (ECG).
+Nút nhĩ thất có tác dụng dẫn truyền và kiểm soát các xung động điện từ tâm nhĩ xuống tâm thất. Xung động được phát ra từ nút xoang dẫn truyền đến tâm nhĩ, làm tâm nhĩ co bóp và biểu hiện bằng
+sóng P
+trên ECG. Sau đó tiếp tục truyền xuống nút nhĩ thất, qua bó His, tới mạng Purkinje làm tâm thất co bóp và biểu hiện bằng phức bộ QRS trên ECG. Khi các xung động truyền từ tâm nhĩ xuống tâm thất nhưng bị cản trở tại nút nhĩ thất hoặc bó His thì được gọi là bị block nhĩ thất.
+Tùy vào mức độ tắc nghẽn dẫn truyền xung động từ tâm nhĩ xuống tâm thất, block nhĩ thất được chia thành: Block nhĩ thất độ I, II, III.
+
+## Triệu chứng
+Những dấu hiệu và triệu chứng của block nhĩ thất
+Block nhĩ thất độ I
+Thường không có triệu chứng.
+Dẫn truyền chậm quá mức gây ra
+khó thở
+, suy nhược hoặc chóng mặt.
+Block nhĩ thất độ II
+Có thể không có triệu chứng.
+Đánh trống ngực, suy nhược, choáng váng hoặc ngất.
+Các biểu hiện khi khám sức khỏe là
+nhịp tim chậm
+(đặc biệt là Mobitz II) và/hoặc nhịp tim không đều (trong quá trình block AV Mobitz I).
+Block nhĩ thất độ III
+Mệt mỏi, chóng mặt và choáng váng là phổ biến. Nếu đồng thời mắc phải bệnh tim cấu trúc có thể gây
+suy tim
+, suy nhược, đau ngực, lú lẫn và ngất.
+Có thể gây ra chứng vô tâm thu dẫn đến ngừng tim và/hoặc tử vong.
+Biến chứng có thể gặp khi mắc bệnh block nhĩ thất
+Tử vong do vô tâm thu hoặc xoắn đỉnh (Torsade de pointes).
+Suy tim kèm theo ngất, làm nặng thêm bệnh thiếu máu cơ tim,
+suy tim sung huyết
+và đợt cấp của bệnh thận.
+Khi nào cần gặp bác sĩ?
+Nếu có bất kỳ triệu chứng nào nêu trên xảy ra, bạn nên liên hệ ngay với bác sĩ để được kiểm tra và tư vấn. Chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh và giúp bạn mau chóng hồi phục sức khỏe.
+
+## Nguyên nhân
+Các nguyên nhân phổ biến nhất của block nhĩ thất bao gồm:
+Xơ hóa vô căn và xơ cứng hệ thống dẫn truyền (khoảng 50% bệnh nhân).
+Bệnh tim thiếu máu cục bộ
+(40%).
+Các trường hợp block nhĩ thất còn lại là do:
+Thuốc (ví dụ: Thuốc chẹn beta, thuốc chẹn kênh calci, amiodarone, digoxin...);
+Tăng trương lực phế vị;
+Bệnh van tim
+;
+Tim bẩm sinh
+, di truyền hoặc các rối loạn khác.
+
+## Yếu tố nguy cơ
+Những ai có nguy cơ mắc phải block nhĩ thất?
+Tất cả các loại block nhĩ thất xảy ra thường xuyên hơn ở những người trên 70 tuổi, đặc biệt là ở những người bị bệnh tim cấu trúc.
+Yếu tố làm tăng nguy cơ mắc phải block nhĩ thất
+Một số yếu tố làm tăng nguy cơ mắc Block nhĩ thất, bao gồm:
+Tiền sử bệnh tim, chẳng hạn như
+đau tim
+, suy tim, các vấn đề về van và viêm nội tâm mạc.
+Dị tật tim di truyền.
+Các tình trạng ảnh hưởng đến tim như bệnh sarcoidosis, thấp tim hoặc
+bệnh Lyme
+.
+Các loại thuốc như thuốc chẹn beta, thuốc chẹn kênh calci hoặc digitalis.
+
+## Chẩn đoán & Điều trị
+Phương pháp xét nghiệm và chẩn đoán block nhĩ thất
+Xét nghiệm
+Nồng độ điện giải
+(tăng kali máu) và nồng độ thuốc (ví dụ: Digitalis): Nếu nồng độ kali cao hoặc nghi ngờ do độc tính của thuốc.
+Nồng độ troponin: Nếu nghi ngờ block nhĩ thất do thiếu máu cục bộ/ nhồi máu.
+Xét nghiệm chẩn đoán nhiễm trùng (Lyme titers), myxedema (nồng độ hormone kích thích tuyến giáp [TSH]) hoặc bệnh mô liên kết (ANA) trong các trường hợp có bệnh toàn thân.
+Điện tâm đồ (ECG)
+Điện tâm đồ
+12 đạo trình và/hoặc xung dẫn truyền.
+Giám sát 24 giờ hoặc kéo dài hơn.
+Máy ghi vòng lặp cấy ghép.
+Các cận lâm sàng bổ sung
+Xét nghiệm điện sinh lý: Để xác định vị trí block và các rối loạn nhịp tim khác.
+Siêu âm tim
+: Để đánh giá chức năng thất (đặc biệt nếu cần cấy ghép thiết bị).
+Kiểm tra khi vận động: Để đánh giá block nhĩ thất có xấu đi hoặc cải thiện khi tập thể dục.
+Phương pháp điều trị block nhĩ thất hiệu quả
+Cấy máy tạo nhịp tim
+Cấy
+máy tạo nhịp tim
+(hoặc máy khử rung tim nếu có rối loạn chức năng tâm thất) được chỉ định cho block nhĩ thất (AV) có triệu chứng, không hồi phục. Cấy máy tạo nhịp tim bao gồm các chế độ tạo nhịp thất (VVI) hoặc buồng kép (DDD). Tạo nhịp thất phải (RV) mãn tính có thể làm trầm trọng thêm chức năng thất trái (LV). Liệu pháp tái đồng bộ tim (CRT) cần thiết trong một số trường hợp nhất định, trong đó cần tạo nhịp lâu dài với chức năng thất trái giảm.
+Bác sĩ và kỹ thuật viên cần xác định kiểu tạo nhịp và chế độ tạo nhịp tối ưu dựa trên mức độ block.
+Theo dõi dài hạn
+Bệnh nhân bị block nhĩ thất (AV) cấp độ 1 hoặc Mobitz I không cần theo dõi lâu dài với các dải nhịp/ điện tâm đồ lặp lại hoặc monitor.
+Bệnh nhân có Mobitz II không triệu chứng, gián đoạn, mức độ cao hoặc block nhĩ thất độ III cần được theo dõi trong thời gian dài để đánh giá các triệu chứng, nhịp tim chậm hoặc giai đoạn vô tâm thu, vì sẽ ảnh hưởng đến thời gian cấy máy tạo nhịp tim.
+Điều trị nội khoa dài hạn không được chỉ định trong block nhĩ thất (AV). Dùng máy tạo nhịp vĩnh viễn là liệu pháp được lựa chọn trong block nhĩ thất có triệu chứng và nhịp tim chậm.
+Điều trị nội khoa
+Thuốc kháng cholinergic
+Mục tiêu của chỉ định các
+thuốc kháng cholinergic
+là cải thiện sự dẫn truyền qua nút nhĩ thất (AVN) bằng cách giảm trương lực phế vị thông qua phong tỏa thụ thể muscarinic. Chỉ có hiệu quả nếu vị trí block nằm tại nút nhĩ thất. Đối với những bệnh nhân nghi ngờ có block dưới nút, thuốc này không hiệu quả và có thể làm cho mức độ block trầm trọng hơn nếu nằm trong bó His trở xuống.
+Atropine IV/IM
+Atropine
+làm tăng dẫn truyền nhĩ thất bằng cách giảm trương lực phế vị thông qua phong tỏa thụ thể muscarinic; có thể cải thiện dẫn truyền nhĩ thất nếu block nằm trong nút nhĩ thất nhưng atropine không hiệu quả với block dưới nút và có thể gây block trầm trọng hơn. Liều lượng không đủ có thể làm chậm nhịp tim nghịch lý.
+Chủ vận thụ thể beta1/ beta 2: Isoproterenol
+Isoproterenol liên kết và kích thích các thụ thể beta của tim, cơ trơn và cơ xương, mạch máu và đường tiêu hóa. Thuốc gây tăng nhịp tim và tăng co bóp cơ tim.
+Thuốc vận mạch, chủ vận alpha/beta
+Đối với những bệnh nhân không ổn định về huyết động bị block nhĩ thất, nên bắt đầu dùng dopamine hoặc dobutamine tiêm tĩnh mạch để cải thiện đồng thời sức co bóp và nhịp tim.
+Dopamine
+Truyền dopamine tĩnh mạch thường bắt đầu với liều 3 mcg/kg/phút và có thể tăng lên đến 20mcg/kg/phút để tăng nhịp tim và huyết áp.
+Dobutamine
+Truyền dobutamine tĩnh mạch thường bắt đầu với liều 5 mcg/kg/phút và có thể tăng lên đến 20mcg/kg/phút.
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của block nhĩ thất
+Chế độ sinh hoạt:
+Tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị.
+Duy trì lối sống tích cực, hạn chế sự căng thẳng.
+Liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị.
+Thăm khám định kỳ để được theo dõi tình trạng sức khỏe, diễn tiến của bệnh và để bác sĩ tìm hướng điều trị phù hợp trong thời gian tiếp theo nếu bệnh chưa có dấu hiệu thuyên giảm.
+Bệnh nhân cần lạc quan. Tâm lý có ảnh hưởng rất lớn đến điều trị, hãy nói chuyện với những người đáng tin cậy, chia sẻ với những thành viên trong gia đình, nuôi thú cưng hay đơn giản là đọc sách, làm bất cứ thứ gì khiến bạn thấy thoải mái.
+Bệnh nhân bị block nhĩ thất nên hạn chế hoạt động để giảm nguy cơ chấn thương cho đến khi được đánh giá và điều trị thích hợp.
+Không hút thuốc lá. Hạn chế uống bia rượu.
+Chế độ dinh dưỡng:
+Có chế độ ăn đầy đủ dinh dưỡng, giảm lượng mỡ động vật và tăng cường thu nạp protein.
+Không dùng rượu bia và hạn chế caffeine.
+Bổ sung rau xanh, trái cây tươi, sữa chua chứa nhiều vitamin và khoáng chất để tăng sức đề kháng của cơ thể.
+Phương pháp phòng ngừa block nhĩ thất hiệu quả
+Để phòng ngừa bệnh hiệu quả, bạn có thể tham khảo một số gợi ý dưới đây:
+Thường xuyên vận động và tập thể dục.
+Khám sức khỏe định kỳ và thăm khám với bác sĩ ngay nếu có những triệu chứng gợi ý bệnh tim (đau tức ngực, hụt hơi, hạ huyết áp...) để được chẩn đoán, điều trị kịp thời.
+Không tự ý sử dụng thuốc, bao gồm cả thuốc dược liệu vì một số thuốc có thể gây block nhĩ thất.
+Không làm việc quá sức trong thời gian dài.

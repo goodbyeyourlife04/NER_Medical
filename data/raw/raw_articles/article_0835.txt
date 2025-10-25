@@ -1,0 +1,79 @@
+Hội chứng Brugada là gì? Nguyên nhân gây bệnh và nguyên tắc phòng ngừa
+
+## Giới thiệu
+Hội chứng Brugada là gì?
+Hội chứng Brugada là một rối loạn mang tính di truyền, liên quan đến việc tăng nguy cơ
+đột tử
+do
+rung thất
+trên các bệnh nhân không có bệnh tim thực tổn.
+Về cơ bản, hội chứng Brugada là biểu hiện của sự suy giảm hay thiếu hụt chức năng của kênh natri đi vào ở các mức độ khác nhau của tế bào cơ tim.
+Hiện nay, hội chứng này được chẩn đoán bằng đoạn ST type vòm điển hình > 2 mm ở > 1 chuyển đạo trước tim phải V1 và V2 xảy ra một cách tự phát hay sau test kích thích chẹn kênh Natri mà không có bằng chứng về rối loạn nhịp ác tính trước đó.
+
+## Triệu chứng
+Những dấu hiệu và triệu chứng của hội chứng Brugada
+Một số bệnh nhân mắc hội chứng Brugada không có dấu hiệu hay triệu chứng lâm sàng. Tuy nhiên, ở đa số bệnh nhân thường có các triệu chứng
+ngất xỉu
+hoặc thậm chí là đột tử do các cơn
+nhịp tim nhanh thất
+đa hình hay rung thất. Các triệu chứng này thường xảy ra vào ban đêm và không liên quan đến gắng sức. Triệu chứng này cũng có thể xảy ra khi bệnh nhân đang sốt hoặc uống một số thuốc như thuốc chẹn beta, chẹn kênh natri, chống trầm cảm ba vòng, cocain và lithium.
+Tác động của hội chứng Brugada đối với sức khỏe
+Hội chứng Brugada được xem là tình trạng rối loạn nhịp nghiêm trọng, hiếm gặp nhưng rất nguy hiểm vì có thể gây ngất hoặc đột tử về đêm.
+Khi nào cần gặp bác sĩ?
+Nếu tim đập nhanh hay nhịp tim không đều,
+rối loạn nhịp tim
+nên đến bệnh viện để được các bác sĩ thăm khám.
+Nếu gia đình có người được chẩn đoán mắc hội chứng Brugada, bạn cũng cần đến bệnh viện để thăm khám vì bệnh lý này mang tính di truyền cao.
+
+## Nguyên nhân
+Nguyên nhân dẫn đến hội chứng Brugada
+Nguyên nhân của hội chứng này là do một số đột biến gene khác nhau nhưng chủ yếu là đột biến gene SCN5A – gene mã hóa tiểu đơn vị alpha của kênh Natri. Thông thường, bệnh nhân mắc hội chứng Brugada không có bất thường về cấu trúc tim, nhưng hiện nay, có nhiều bằng chứng về mối liên hệ giữa hội chứng Brugada với một vài bệnh lý liên quan đến cấu trúc tim, một số trường hợp, bệnh nhân mắc đồng thời hội chứng Brugada và hội chứng QT dài type 3 hay
+loạn sản thất phải gây loạn nhịp
+(ARVD).
+
+## Yếu tố nguy cơ
+Những ai có nguy cơ mắc phải hội chứng Brugada?
+Tiền sử người trong gia đình có mắc hội chứng Brugada.
+Nam giới có nguy cơ mắc hội chứng Brugada cao hơn nữ giới.
+Bệnh nhân có bất thường trên thất phải.
+Người cao tuổi (> 40 tuổi).
+Chủng tộc Châu Á thường có tỷ lệ mắc hội chứng này cao hơn các chủng tộc khác.
+Yếu tố làm tăng nguy cơ mắc phải hội chứng Brugada
+Một số yếu tố làm tăng nguy cơ mắc hội chứng Brugada, bao gồm:
+Sử dụng một số loại thuốc như
+thuốc chẹn beta
+, chẹn kênh natri, chống trầm cảm ba vòng, cocain và lithium.
+Đột biến gene SCN5A kênh natri.
+
+## Chẩn đoán & Điều trị
+Phương pháp xét nghiệm và chẩn đoán hội chứng Brugada
+Điện tâm đồ
+(ECG).
+Tiền sử gia đình.
+Cần nghĩ tới hội chứng Brugada khi bệnh nhân ngất hay ngừng tim không rõ nguyên nhân và tiền sử gia đình có người đã từng bị như vậy. Hiệu quả của thủ thuật thăm dò điện sinh lý tim trong hội chứng Brugada vẫn chưa có nhiều bằng chứng và vẫn đang là chủ đề gây tranh cãi.
+Chẩn đoán ban đầu của hội chứng Brugada là dựa trên hình thái điện tâm đồ đặc trưng (điện tâm đồ dạng Brugada type 1). Điện tâm đồ dạng Brugada type 1 có ST chênh cao ở V1 và V2 (có khi là cả V3) khiến cho phức bộ QRS giống như block nhánh phải. Đoạn ST type vòm và đi xuống nối tiếp với sóng T lộn ngược. Điện tâm đồ dạng Brugada type 2 hay type 3, đoạn ST chênh với mức độ ít hơn không được coi là tiêu chuẩn chẩn đoán hội chứng Brugada nhưng 2 loại điện tâm đồ này (type 2, type 3) có thể chuyển đổi thành type 1 một cách tự nhiên hay khi bệnh nhân có sốt hoặc uống một số loại thuốc. Có thể dùng ajmaline và procainamide trong nghiệm pháp chẩn đoán.
+Phương pháp điều trị hội chứng Brugada hiệu quả
+Cấy
+máy phá rung tim tự động
+.
+Quinidine
+.
+Bệnh nhân bị hội chứng Brugada có triệu chứng như ngất hay ngừng tuần hoàn khi được cứu sống cần chỉ định cấy máy tạo nhịp – phá rung tự động (ICD). Việc cấy máy ICD cũng được cân nhắc ở nhóm bệnh nhân có điện tâm đồ dạng Brugada type 1 không có triệu chứng nhưng có cơn tim nhanh thất hoặc rung thất khi làm thăm dò điện sinh lý tim. Mặc dù cấy ICD đem lại hiệu quả ngăn ngừa đột tử do tim nhưng cũng  có nguy cơ gây ra các biến chứng như tạo các các cú sốc không xác định, nhiễm trùng tái phát, việc thay đổi thiết bị hay những thủ thuật nhỏ như nhổ răng cũng gây ra nguy cơ nhiễm trùng điện cực.
+Quinidine có hiệu quả cao trong các thí nghiệm về điện sinh lý và được dùng để ức chế rung thất trong một vài tình huống lâm sàng như cơn bão loạn nhịp hay cú số ICD. Quinidine cũng được xem là biện pháp thay thế cho cấy máy ICD ở trẻ em. Tuy nhiên, việc sử dụng quinidine bị hạn chế do tác dụng phụ cao cũng khi là khá hiếm ở nhiều nơi trên thế giới.
+Hiện nay, những phát hiện về việc lập bản đồ điện học 3D tim nhằm xác định vị trí cơ chất gây loạn nhịp ở bệnh nhân mắc hội chứng Brugada là một trong những lĩnh vực nghiên cứu mới của thế kỷ 21. Lập bản đồ 3D điện thế chứng minh ajmaline có thể làm lộ diện cơ chất biến đổi gây loạn nhịp, được đặc trưng bởi điện thế ngoại mạc kéo dài, phân đoạn bất thường, nhờ đó việc triệt đốt ngoại mạc thành công có tỷ lệ thành công cao hơn.
+Sau khi đốt triệt, kiểm tra lại bằng ajmaline, nếu còn dạng ECG chênh vòm điển hình thì lý do thường là các điện đồ bất thường còn sót lại tương ứng vùng ngoại mạc đường đi ra thất phải. Triệt đốt hết các vùng đó có thể làm mất dạng ECG chênh vòm.
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của hội chứng Brugada
+Chế độ sinh hoạt:
+Chế độ sinh hoạt lành mạnh và khoa học.
+Kiểm soát huyết áp
+, đường huyết và cân nặng.
+Chế độ dinh dưỡng:
+Không sử dụng ma túy và các chất kích thích.
+Không hút thuốc lá.
+Phương pháp phòng ngừa hội chứng Brugada
+Để phòng ngừa bệnh hiệu quả, bạn có thể tham khảo một số gợi ý dưới đây:
+Cần có chế độ sinh hoạt và dinh dưỡng lành mạnh, đúng cách.
+Tránh các việc làm gây căng thẳng dai dẳng.
+Tập thể dục thường xuyên.

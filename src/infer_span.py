@@ -2,7 +2,8 @@ import json, argparse
 from pathlib import Path
 import torch
 from transformers import AutoTokenizer
-from train_span_bilstm_crf import BiLSTMCRF, snap_refine_pred_char_spans
+from src.train_span_bilstm_crf import BiLSTMCRF, snap_refine_pred_char_spans
+
 
 def read_jsonl(p):
     with open(p,"r",encoding="utf-8") as f:

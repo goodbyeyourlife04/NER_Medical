@@ -1,0 +1,11 @@
+{
+  "ten_benh": "Bệnh_lý",
+  "trieu_chung_benh": "Triệu_chứng",
+  "bien_phap_dieu_tri": "Điều_trị",
+  "bien_phap_chan_doan": "Chẩn_đoán",
+  "nguyen_nhan_benh": "Nguyên_nhân",
+
+  "SYMPTOM_AND_DISEASE": "Triệu_chứng",
+  "medical_procedure": "Chẩn_đoán",
+  "drug": "Tên_thuốc"
+}

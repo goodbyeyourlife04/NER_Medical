@@ -1,0 +1,88 @@
+Bệnh Pompe: Một rối loạn di truyền hiếm gặp nhưng nguy hiểm
+
+## Giới thiệu
+Bệnh lý về dữ trữ glycogen có 8 tuýp trong đó bệnh Pompe thuộc tuýp 2. Nó chiếm 15% trong tất các các bệnh lý về dự trữ glycogen.
+Glycogen sẽ tạo ra đường đưa vào máu khi cơ thể cần năng lượng. Vì thiếu men axit alpha glucosidase (GAA) làm glycogen không thể phân hủy, và sẽ tích tụ ở các cơ quan đặc biệt ở cơ như cơ xương, cơ tim và gây ra tổn thương tại các vị trí đó.
+Mức độ nghiêm trọng của bệnh và độ tuổi khởi phát, có liên quan đến mức độ thiếu hụt men GAA.
+Dựa vào thời điểm khởi phát bệnh Pompe chia làm hai:
+Khởi phát sớm (dạng trẻ sơ sinh) là do thiếu hụt hoàn toàn hoặc gần hoàn toàn men GAA. Các triệu chứng bắt đầu trong những tháng đầu đời, với các vấn đề về ăn uống, tăng cân kém, khó thở, yếu cơ, tim to, mềm nhũn... Nếu không có liệu pháp thay thế enzyme, hầu hết trẻ sơ sinh tử vong do các biến chứng về tim hoặc hô hấp trước sinh nhật đầu tiên của chúng.
+Khởi phát muộn (trẻ vị thành niên/người lớn) là kết quả của tình trạng thiếu hụt một phần GAA và có thể bắt đầu sớm nhất là vào mười năm đầu tiên của thời thơ ấu hoặc kéo dài đến tận tuổi trưởng thành. Yếu cơ tiến triển đến tử vong do suy hô hấp sau vài năm. Tim thường không bị ảnh hưởng.
+Bệnh Pompe hiếm gặp được di truyền theo kiểu gen lặn trên nhiễm sắc thể thường nên cần phải có cả hai bản sao của gen lặn từ cả bố và mẹ. Vì vậy, không thể phòng ngừa nếu các đột biến gây bệnh chưa được xác định ở các thành viên trong gia đình.
+Bệnh di truyền theo cơ chế gen lặn rất khó phát hiện ở người mang mầm bệnh vì hầu như không có triệu chứng rõ ràng. Đến khi trẻ sinh ra có triệu chứng thì đã quá muộn nên các cặp vợ chồng nên thực hiện xét nghiệm gen lặn để sàng lọc bệnh Pompe và các bệnh di truyền khác. Xét nghiệm gen cho các thành viên trong gia đình và xét nghiệm trước sinh cho những thai kỳ có nguy cơ cao là phù hợp khi trong gia đình có người ghi nhận độ biến gen. Điều này sẽ giúp giảm thiểu số trẻ em sinh ra bị dị tật bẩm sinh hoặc mắc các bệnh di truyền nguy hiểm đến tính mạng.
+
+## Triệu chứng
+Những dấu hiệu và triệu chứng của bệnh Pompe
+Tùy vào thời điểm khởi phát và triệu chứng mà bệnh được chia làm ba thể:
+Pompe sơ sinh điển hình: Xuất hiện vài tháng sau sinh biểu hiện ở cơ quan:
+Hệ hô hấp: Suy yếu cơ hô hấp có thể gây ra các đợt viêm phổi và nhiễm trùng đường hô hấp trên lặp đi lặp lại, suy hô hấp dẫn đến bệnh tật và tử vong sớm.
+Hệ tim mạch: Bệnh cơ tim phì đại, suy tim sung huyết, rối loạn dẫn truyền.
+Hệ tiêu hóa: Lưỡi to, khó bú do trương lực cơ mặt thấp, yếu cơ miệng và lưỡi to; điều này có thể ảnh hưởng đến sự phát triển và cân nặng, gan to, lách to.
+Hệ cơ xương: Giảm trương lực cơ từ khi sinh, giảm phản xạ/mất phản xạ, Yếu cơ, co cứng và biến dạng khớp, chẳng hạn như cong vẹo cột sống, có thể xảy ra do các kiểu chuyển động bù trừ do yếu cơ lan rộng và hạn chế khả năng vận động.
+Pompe sơ sinh không điển hình: Xuất hiện trong năm đầu tiên với triệu chứng ít nghiêm trọng hơn thể cổ điển.
+Kỹ năng vận động chậm, chẳng hạn như ngồi dậy và lăn qua.
+Yếu cơ tiến triển
+Bệnh tim to - Ít xảy ra hơn so với loại cổ điển.
+Hô hấp kém.
+Pompe người lớn: Biểu hiện ở:
+Hệ cơ xương: Yếu cơ phần trên của tay và chân sau đó là tiến triển đến là cơ hoành và các cơ hô hấp phụ, giảm phản xạ, rối loạn dáng đi, đau cơ và chuột rút, teo cơ, mệt mỏi và uể oải - Không dung nạp gắng sức.
+Hệ hô hấp: Khó thở khi gắng sức, khi nằm, rối loạn hô hấp khi ngủ, ngưng thở khi ngủ, ho kém, nhiễm trùng đường hô hấp thường xuyên.
+Ngoài ra còn có khó nuốt, khó nhai, giảm cân, xuất huyết dưới nhện do vỡ phình mạch.
+Triệu chứng ở trẻ sơ sinh mắc bệnh Pompe
+Biến chứng có thể gặp khi mắc bệnh Pompe
+Thể trưởng thành thì các biến chứng như suy hô hấp hoặc ít gặp hơn vỡ phình động mạch có thể gây ra tử vong. Thể trẻ sơ sinh điển hình thì hầu hết là tử vong và thường xảy ra trong 1 - 2 năm đầu sau sinh nếu không điều trị. Trong đó, bệnh phì đại tim với tình trạng tắc nghẽn tiến triển đường ra của máu là nguyên nhân chính gây tử vong. Yếu cơ hô hấp làm tăng nguy cơ viêm phổi. Khởi phát lâm sàng muộn hơn thường tương ứng với các triệu chứng sẽ tiến triển chậm hơn. Thể sơ sinh không điển hình thì có thể chậm hơn và trẻ nếu không điều trị sẽ tiến triển đến suy hô hấp hoặc ít gặp hơn là suy tim và chết khi còn nhỏ.
+Khi nào cần gặp bác sĩ?
+Nếu bạn hoặc con bạn có dấu hiệu và triệu chứng kể trên của bệnh Pompe, cần đến gặp bác sĩ ngay lập tức. Chẩn đoán sớm và điều trị sớm cải thiện đáng kể chất lượng cuộc sống cũng như tiên lượng sống của trẻ em và người lớn mắc chứng rối loạn này.
+
+## Nguyên nhân
+Đột biến gen GAA gây ra bệnh Pompe. Gen GAA chịu trách nhiệm tạo ra một loại enzyme gọi là axit alpha glucosidase. Cơ thể sử dụng enzyme này để phân hủy glycogen một dạng đường để tạo năng lượng.
+Nếu bạn mắc bệnh Pompe, đột biến gen GAA sẽ làm giảm hoặc thiếu hoàn toàn axit alpha glucosidase. Nếu không có enzyme này, cơ thể bạn không thể phân hủy glycogen một cách hiệu quả. Glycogen tích tụ trong lysosome của bạn, gây tổn thương cơ nghiêm trọng, dẫn đến các triệu chứng của bệnh.
+Nói chung các biến thể này càng gây ra sự thiếu hụt GAA nhiều thì các triệu chứng khởi phát càng sớm, tiến triển bệnh càng nhanh và mức độ nghiêm trọng trên lâm sàng càng lớn.
+
+## Yếu tố nguy cơ
+Những ai có nguy cơ mắc bệnh Pompe?
+Bệnh Pompe có thể xuất hiện ở mọi đối tượng, mọi lứa tuổi từ trẻ sơ sinh đến người trưởng thành. Tuy nhiên, đa số các trường hợp mắc bệnh ở độ tuổi trẻ sơ sinh và trẻ nhỏ. Vì là bệnh di truyền nên nếu bố mẹ mắc bệnh hoặc cùng mang gen lặn gây bệnh thì đứa trẻ sinh ra có nguy cơ mắc bệnh cao hơn.
+Yếu tố làm tăng nguy cơ mắc bệnh Pompe
+Nguy cơ là như nhau ở nam và nữ. Và bố mẹ cùng mang đột biến gen GAA thì bé sẽ có nguy cơ mắc bệnh. Vì vậy nên cần sang lọc và đánh giá kỹ càng trước sinh đối với những người đã có người trong gia đình bị mắc Pompe
+Yếu tố di truyền gen lặn trên nhiễm sắc thể thường trong bệnh Pompe
+
+## Chẩn đoán & Điều trị
+Phương pháp xét nghiệm và chẩn đoán bệnh Pompe
+Việc chẩn đoán bệnh Pompe dựa trên đánh giá lâm sàng kỹ lưỡng, bệnh sử chi tiết của bệnh nhân và gia đình cũng như một loạt các xét nghiệm sinh hóa, trước hết là đo hoạt động của GAA. Xét nghiệm trước khi trứng làm tổ và chẩn đoán trước sinh cũng có thể được thực hiện khi thai kỳ được biết là có nguy cơ mắc bệnh Pompe.
+Xét nghiệm có hai mục đích: Một là để chẩn đoán, và hai là xét nghiệm để đánh giá mức độ tổn thương của cơ quan cũng như bổ trợ cho chẩn đoán.
+Chẩn đoán:
+Xét nghiệm men α-glucosidase trong tế bào lympho và các mẫu mô khác.
+Phân tích các đột biến trong gen GAA.
+Bổ trợ:
+CK, LDH.
+Đo glucose tetrasaccharide (Glc
+4
+) trong nước tiểu.
+MRI cơ, Xquang ngực, điện tim (ECG).
+MRI có cản từ để đánh giá phình mạch trong não.
+Xét nghiệm di truyền nghiên cứu gen trong chẩn đoán bệnh Pompe
+Điều trị bệnh Pompe
+Bệnh Pompe không điều trị khỏi, nhưng điều trị có thể làm giảm triệu chứng và kéo dài tuổi thọ. Điều trị chung của bệnh Pompe là điều trị men thay thế và điều trị hỗ trợ các triệu chứng của từng giai đoạn bệnh. Đó là sự kết hợp đến từ đa chuyên khoa như thần kinh, tim mạch và hô hấp.
+Liệu pháp thay thế enzyme
+FDA đã chấp nhận vài enenzyme thay thế cho GAA bị thiếu hụt gồm:
+Avalglucosidase alfa (Nexviazyme): Chỉ định điều trị cho bệnh nhân từ 1 tuổi trở lên mắc bệnh Pompe khởi phát muộn.
+Alglucosidase alfa (Myozyme): Đã được chứng minh là cải thiện khả năng sống sót không cần thở máy ở những bệnh nhân mắc bệnh Pompe khởi phát ở trẻ sơ sinh.
+Alglucosidase alfa (Lumizyme): Chỉ định cho bệnh Pompe khởi phát ở trẻ sơ sinh và cũng cho bệnh Pompe khởi phát muộn (không phải ở trẻ sơ sinh).
+Cipaglucosidase alfa IV (Pombiliti) kết hợp với miglustat uống (cụ thể là Opfolda): Chỉ định cho người lớn mắc bệnh Pompe khởi phát muộn không cải thiện được liệu pháp thay thế enzyme hiện tại.
+Các liệu pháp hỗ trợ
+Điều trị bổ sung cho bệnh Pompe là điều trị triệu chứng và hỗ trợ. Có thể cần hỗ trợ hô hấp vì hầu hết bệnh nhân đều bị suy hô hấp và/hoặc suy hô hấp ở một mức độ nào đó. Vật lý trị liệu có thể hữu ích để tăng cường cơ hô hấp.
+Vật lý trị liệu được khuyến khích để cải thiện sức mạnh và khả năng thể chất. Liệu pháp lao động, bao gồm cả việc sử dụng gậy hoặc khung tập đi, có thể cần thiết. Cuối cùng, một số bệnh nhân có thể yêu cầu sử dụng xe lăn.
+Trị liệu ngôn ngữ có thể có lợi ở một số bệnh nhân để cải thiện khả năng phát âm và lời nói.
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến bệnh Pompe
+Chế độ sinh hoạt:
+Tuân thủ theo phác đồ của bác sĩ trong suốt quá trình điều trị. Đi tái khám đúng lịch hẹn.
+Liên hệ với bác sĩ ngay khi có triệu chứng bất thường xảy ra.
+Vận động nhẹ nhàng, tập các bài tập thể dục nhịp điệu cường độ vừa phải.
+Kiên trì luyện tập các bài tập vật lý trị liệu, tập thở theo hướng dẫn.
+Nên tìm kiếm sự chăm sóc y tế ngay cả đối với các triệu chứng thông thường như sốt và ho, vì chúng có thể chỉ ra tình trạng bệnh tiềm ẩn nghiêm trọng hơn.
+Chế độ dinh dưỡng:
+Chế độ ăn nhiều protein bao gồm 20 - 25% protein có thể giúp tăng cường chức năng cơ trong trường hợp yếu cơ hoặc không dung nạp vận động. Đặc biệt, chế độ ăn nhiều protein có chứa axit amin chuỗi nhánh có thể làm chậm hoặc ngăn chặn sự tiến triển của bệnh.
+Chế độ ăn tăng cường protein trong bệnh Pompe
+Phương pháp phòng ngừa bệnh Pompe
+Vì đây là bệnh về gen nên không thể phòng ngừa. Vì bệnh di truyền trên nhiễm sắc thể kiểu gen lặn. Nên đối với những người mà có người trong gia đình có người mắc hoặc phát hiện mang gen thì nên sàng lọc và đánh giá cẩn thận trước khi mang thai.

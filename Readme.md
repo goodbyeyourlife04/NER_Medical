@@ -36,9 +36,9 @@ $ python src/train_span_bilstm_crf.py ^
   --data_dir data/processed/jsonl/split_5sent_clean ^
   --model_name_or_path xlm-roberta-base ^
   --output_dir models/xlmr-span-bilstm-crf ^
-  --num_epochs 12 --batch_size 8 ^
+  --num_epochs 15 --batch_size 8 ^
   --lr 2e-5 --lr_lstm 1e-3 --weight_decay 0.01 --warmup_ratio 0.1 ^
-  --max_len 512 ^
+  --max_len 256 ^
   --oversample_rare True --bucket_by_length True ^
   --snap_punct True --save_best True --seed 42 ^
   --amp True --num_workers 2 --pin_memory True
@@ -49,7 +49,7 @@ $ python src/train_span_bilstm_crf.py ^
   --data_dir data/processed/jsonl/split_5sent_clean ^
   --model_name_or_path vinai/phobert-base ^
   --output_dir models/phobert-span-bilstm-crf ^
-  --num_epochs 12 --batch_size 8 ^
+  --num_epochs 15 --batch_size 8 ^
   --lr 2e-5 --lr_lstm 1e-3 --weight_decay 0.01 --warmup_ratio 0.1 ^
   --max_len 256 ^
   --oversample_rare True --bucket_by_length True ^

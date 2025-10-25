@@ -1,0 +1,145 @@
+Ngộ độc paracetamol là gì? Nguyên nhân gây bệnh, phương pháp điều trị và nguyên tắc phòng ngừa
+
+## Giới thiệu
+Ngộ độc paracetamol là gì?
+Paracetamol
+(acetaminophen, N-acetyl-para-aminophenol hoặc APAP) là một loại thuốc chống viêm không steroid (NSAID), có cơ chế hoạt động khác với các NSAIDs. Cơ chế của nó vẫn chưa được hiểu rõ, nhưng thuốc có thể ức chế men cyclooxygenase (COX) trong não một cách có chọn lọc, cho tác dụng hạ sốt và giảm đau.
+Thuốc cũng có thể ức chế tổng hợp prostaglandin trong hệ thần kinh trung ương (CNS). Bên cạnh đó, paracetamol cũng tác động trực tiếp lên vùng dưới đồi tạo ra tác dụng hạ sốt.
+Paracetamol có trong hơn 100 sản phẩm bán không cần đơn, bao gồm nhiều chế phẩm dành cho trẻ em ở dạng lỏng, viên nén, viên nang, chế phẩm trị ho và cảm lạnh. Bên cạnh đó, nhiều loại thuốc kê đơn cũng chứa paracetamol. Do đó, quá liều paracetamol là phổ biến.
+Liều paracetamol tối đa hằng ngày (theo FDA):
+Người lớn: 3 g/ngày, không quá 650 mg mỗi 6 giờ (nếu cần).
+Trẻ em dưới 12 tuổi và/hoặc dưới 50 kg cân nặng: 75 mg/kg/ngày, với liều khuyến cáo 10 đến 15 mg/kg mỗi 4 đến 6 giờ khi cần thiết và không quá 5 liều mỗi 24 giờ.
+Do sự khác biệt về hấp thu, liều lượng thuốc đặt trực tràng tính trên trọng lượng cho trẻ em cao hơn, trong khoảng 15 đến 20 mg/kg mỗi liều, sử dụng cùng khoảng thời gian như đối với paracetamol uống.
+Liều paracetamol gây ngộ độc cấp tính:
+Người lớn: 7,5 đến 10 g/lần.
+Trẻ em: 150 mg/kg/lần.
+Ở trẻ khỏe mạnh từ 1 đến 6 tuổi, ngưỡng này có thể tăng lên 200 mg/kg/lần. Trẻ em trong độ tuổi này ít bị nhiễm độc gan do ngộ độc paracetamol cấp tính. Sự khác biệt về chuyển hóa thuốc ở nhóm tuổi này và khối lượng gan tương đối lớn hơn (tức là tỷ lệ trọng lượng cơ quan trên tổng trọng lượng cơ thể) có thể đóng vai trò trong việc giải độc và loại bỏ NAPQI hiệu quả hơn.
+Liều paracetamol gây ngộ độc mãn tính:
+Uống paracetamol > 4 g/ngày trong nhiều ngày có thể gây ngộ độc mãn tính.
+Các yếu tố nguy cơ gây ngộ độc mãn tính bao gồm:
+Dùng liều cao lặp đi lặp lại;
+Lặp lại liều lượng thích hợp trong khoảng thời gian ngắn;
+Sốt;
+Ăn uống kém;
+Trẻ em.
+Các giai đoạn ngộ độc paracetamol cấp tính:
+Giai đoạn
+Thời gian
+Lâm sàng và cận lâm sàng
+I
+0 - 24 giờ
+Chán ăn, buồn nôn, nôn mửa
+II
+24 - 72 giờ
+Đau bụng hạ sườn phải (thường gặp)
+AST, ALT, và nếu ngộ độc nghiêm trọng, bilirubin và PT (thường là INR) đôi khi tăng cao
+III
+72 - 96 giờ
+Nôn mửa và các triệu chứng của suy gan
+Tăng mức AST, ALT, bilirubin và INR
+Đôi khi suy thận và viêm tụy
+IV
+> 5 ngày
+Giải độc gan hoặc tiến triển thành suy đa tạng (đôi khi gây tử vong)
+AST = aspartate aminotransferase; ALT = alanin aminotransferase; INR = tỷ lệ chuẩn hóa quốc tế; PT = thời gian prothrombin.
+
+## Triệu chứng
+Những dấu hiệu và triệu chứng của ngộ độc paracetamol
+Ngộ độc nhẹ có thể không gây ra triệu chứng và khi có triệu chứng ngộ độc paracetamol cấp tính thường nhẹ cho đến ≥ 48 giờ sau khi uống.
+Các triệu chứng xảy ra theo 4 giai đoạn, bao gồm chán ăn, buồn nôn,
+nôn
+và đau bụng trên bên phải. Có thể xảy ra
+suy thận
+và viêm tụy, đôi khi không có suy gan. Sau 5 ngày, tình trạng nhiễm độc gan tự khỏi hoặc tiến triển thành
+suy đa tạng
+, gây tử vong.
+Biến chứng có thể gặp khi mắc bệnh ngộ độc paracetamol
+Paracetamol có thể gây ra các phản ứng nguy hiểm bao gồm hội chứng Stevens-Johnson (SJS), hoại tử biểu bì nhiễm độc (TEN) và mụn mủ ngoại ban tổng quát cấp tính (AGEP).
+Những tình trạng này gây đau đớn, dẫn đến mù lòa và tử vong. Paracetamol có thể dẫn đến suy gan cấp tính, chỉ có thể được điều trị bằng phương pháp ghép gan khẩn cấp.
+Khi nào cần gặp bác sĩ?
+Nếu có bất kỳ triệu chứng nào nêu trên xảy ra, bạn nên liên hệ ngay với bác sĩ để được kiểm tra và tư vấn. Chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh và giúp bạn mau chóng hồi phục sức khỏe.
+
+## Nguyên nhân
+Nguyên nhân dẫn đến ngộ độc paracetamol
+Chất chuyển hóa độc hại chính của paracetamol là N-acetyl-p-benzoquinone imine (NAPQI), được sản xuất bởi hệ thống enzyme cytochrome P-450 của gan; glutathione dự trữ trong gan giải độc chất chuyển hóa này.
+Quá liều cấp tính làm cạn kiệt dự trữ glutathione trong gan. Kết quả là tích tụ NAPQI, gây hoại tử tế bào gan và có thể gây hại cho các cơ quan khác (ví dụ: Thận, tuyến tụy).
+Về mặt lý thuyết, bệnh gan do rượu hoặc thiếu dinh dưỡng có thể làm tăng nguy cơ nhiễm độc vì điều hòa trước men gan có thể làm tăng sự hình thành NAPQI và do thiếu dinh dưỡng (cũng phổ biến ở những người nghiện rượu) làm giảm dự trữ glutathione ở gan. Tuy nhiên, liều điều trị của paracetamol cho bệnh nhân nghiện rượu không gây tổn thương gan.
+
+## Yếu tố nguy cơ
+Những ai có nguy cơ ngộ độc paracetamol?
+Mọi đối tượng đều có nguy cơ ngộ độc paracetamol, đặc biệt là người cao tuổi, trẻ em, bệnh nhân đang mắc các rối loạn gan mật.
+Yếu tố làm tăng nguy cơ mắc phải ngộ độc paracetamol
+Một số yếu tố làm tăng nguy cơ mắc mắc phải ngộ độc paracetamol, bao gồm:
+Đang sử dụng các thuốc ảnh hưởng đến chức năng gan.
+Bệnh nhân bị đau mãn tính.
+Đang mắc bệnh lý tâm thần có ý nghĩ hoặc hành vi tự sát.
+Bị suy dinh dưỡng.
+Nghiện rượu
+mãn tính.
+
+## Chẩn đoán & Điều trị
+Phương pháp xét nghiệm và chẩn đoán ngộ độc paracetamol
+Ngộ độc paracetamol cấp tính
+Nồng độ paracetamol trong huyết thanh.
+Đồ thị Rumack-Matthew.
+Nghi ngờ quá liều paracetamol ở tất cả bệnh nhân vô tình hoặc không vô tình nuốt (có thể là cố gắng tự sát) và ở trẻ em được vô tình cho sử dụng nhiều chế phẩm có chứa cùng hoạt chất paracetamol.
+Khả năng và mức độ nghiêm trọng của nhiễm độc gan do uống liều độc cấp tính có thể được dự đoán bằng lượng thuốc đã dùng hoặc chính xác hơn là bằng nồng độ paracetamol trong huyết thanh. Chỉ có thể sử dụng đồ thị Rumack-Matthew để ước tính khả năng nhiễm độc gan nếu biết thời gian bệnh nhân dùng thuốc. Đối với quá liều cấp tính đơn liều của paracetamol thông thường hoặc paracetamol giảm đau nhanh (được hấp thu nhanh hơn 7 - 8 phút), nồng độ được đo ≥ 4 giờ sau khi uống và vẽ biểu đồ trên nomogram. Nồng độ ≤ 150 mcg/mL (≤ 990 micromol/L) và không có các triệu chứng độc hại cho thấy khả năng nhiễm độc gan là rất khó xảy ra. Nồng độ cao hơn nghi ngờ có thể nhiễm độc gan. Đối với một trường hợp quá liều cấp tính duy nhất với paracetamol kéo dài (có 2 nồng độ đỉnh trong huyết thanh cách nhau khoảng 4 giờ), nồng độ paracetamol được đo ≥ 4 giờ sau khi uống và 4 giờ sau; nếu một trong hai nồng độ trên mức độc tính của Rumack-Matthew, thì cần phải điều trị.
+Nếu không thể xác nhận thời điểm chính xác bệnh nhân đã uống, thì giả định thời gian có thể xảy ra. Đó là, thời gian uống sớm nhất có thể được ước tính và sau đó được vẽ trên đồ thị Rumack-Matthew. Ví dụ: Nếu một bệnh nhân nói rằng đã dùng quá liều trong khoảng từ 6 - 9 giờ tối, thì 6 giờ được dùng làm thời gian uống thuốc (trường hợp xấu nhất). Trong thực tế, các ước tính trong trường hợp xấu nhất thường khó thực hiện.
+Nếu xác nhận hoặc nghi ngờ có ngộ độc hoặc thời điểm uống không rõ ràng hoặc không xác định, xét nghiệm bổ sung sẽ được chỉ định. Các
+xét nghiệm gan
+được thực hiện và trong trường hợp nghi ngờ ngộ độc nặng, cần
+đo thời gian prothrombin
+. Kết quả nồng độ aspartate aminotransferase (
+AST
+) và alanine aminotransferase (
+ALT
+) tương quan với giai đoạn ngộ độc. Mức AST > 1000 IU/L có nhiều khả năng là do ngộ độc paracetamol hơn là do viêm gan mãn tính hoặc bệnh gan do rượu. Nếu ngộ độc nặng, bilirubin và tỷ lệ chuẩn hóa quốc tế có thể tăng cao.
+Transaminase tăng nhẹ (ví dụ: Lên đến 2 hoặc 3 lần giới hạn trên của mức bình thường) có thể xảy ra ở người lớn dùng liều điều trị của paracetamol trong nhiều ngày hoặc nhiều tuần. Mức tăng này thoáng qua, thường hết hoặc giảm trong vài ngày (ngay cả khi tiếp tục sử dụng paracetamol), thường không có triệu chứng về mặt lâm sàng.
+Ngộ độc paracetamol mãn tính
+Sử dụng liều cao paracetamol trong thời gian dài gây ra độc tính trên gan ở một số bệnh nhân. Thông thường, quá liều mãn tính là kết quả của việc dùng liều cao không thích hợp để điều trị cơn đau. Tình trạng này có thể không có triệu chứng hoặc tương tự bất kỳ triệu chứng nào khi dùng quá liều cấp tính.
+Chẩn đoán
+Aspartate aminotransferase (AST), alanine aminotransferase (ALT) và nồng độ paracetamol trong huyết thanh
+Không thể sử dụng đồ thị Rumack-Matthew, nhưng khả năng nhiễm độc gan đáng kể về mặt lâm sàng có thể được ước tính dựa trên AST, ALT và nồng độ paracetamol trong huyết thanh.
+Nếu mức AST và ALT bình thường (< 50 IU/L [0,83 microkat/L]), và nồng độ paracetamol < 10 mcg/mL (< 66 micromol/L), rất khó xảy ra độc tính với gan.
+Nếu nồng độ AST và ALT bình thường nhưng nồng độ paracetamol ≥ 10 mcg/mL (> 66 micromol/L), có thể gây độc gan đáng kể. Nồng độ AST và ALT được đo lại sau 24 giờ. Nếu nồng độ AST và ALT lặp lại vẫn bình thường, khó có khả năng gây độc gan đáng kể; nếu nồng độ cao, độc tính gan đáng kể có thể xảy ra.
+Nếu nồng độ AST và ALT ban đầu cao, bất kể nồng độ paracetamol thì khả năng nhiễm độc gan là đáng kể.
+Phương pháp điều trị ngộ độc paracetamol hiệu quả
+Ngộ độc paracetamol cấp tính
+Uống hoặc IV N-acetylcysteine;
+Có thể dùng
+than hoạt
+nếu paracetamol vẫn còn trong đường tiêu hóa (GI).
+N-acetylcysteine ​​là thuốc giải độc cho ngộ độc paracetamol. Thuốc này là một tiền chất của glutathione làm giảm độc tính của paracetamol bằng cách tăng dự trữ glutathione ở gan và có thể thông qua các cơ chế khác. Nó giúp ngăn ngừa nhiễm độc gan bằng cách bất hoạt chất chuyển hóa paracetamol độc hại NAPQI (N-acetyl- p-benzoquinone imine) trước khi nó có thể làm tổn thương tế bào gan. Tuy nhiên, thuốc không đảo ngược sự phá hủy các tế bào gan đã xảy ra.
+Đối với ngộ độc cấp tính, chỉ định N-acetylcysteine nếu xét thấy có khả năng gây độc cho gan dựa trên liều paracetamol đã dùng hoặc nồng độ trong huyết thanh. Thuốc có hiệu quả nhất nếu được dùng trong vòng 8 giờ sau khi uống paracetamol. Sau 24 giờ, lợi ích của thuốc giải độc chưa được chứng minh, nhưng vẫn nên chỉ định. Nếu mức độ độc tính không chắc chắn, nên dùng N-acetylcysteine cho đến khi loại trừ được độc tính.
+N-acetylcysteine ​​tiêm tĩnh mạch hoặc uống có hiệu quả như nhau.
+Truyền tĩnh mạch liên tục với liều nạp 150 mg/kg pha với 200mL 5% D/W trong 15 phút, sau đó là liều duy trì 50 mg/kg trong 500mL 5% D/W trong 4 giờ, sau đó 100 mg/kg trong 1000mL D/W 5% trong hơn 16 giờ. Đối với trẻ em, điều chỉnh liều lượng để giảm tổng thể tích chất lỏng truyền vào.
+Liều nạp N-acetylcysteine qua đường uống là 140 mg/kg. Tiếp theo là 17 liều bổ sung 70 mg/kg mỗi 4 giờ. Acetylcysteine ​​uống có vị khó chịu và có thể gây nôn dù được pha loãng với tỷ lệ 1: 4 trong đồ uống có ga hoặc nước trái cây. Nếu bị nôn, có thể dùng thuốc chống nôn. Nếu bệnh nhân nôn trong vòng 1 giờ sau khi dùng một liều, lặp lại liều đó. Tuy nhiên, nếu nôn mửa kéo dài cần hạn chế sử dụng đường uống. Các phản ứng dị ứng là bất thường, có thể xảy ra khi uống và tiêm tĩnh mạch.
+Điều trị tích cực suy gan. Bệnh nhân bị suy gan tối cấp có thể phải
+ghép gan
+.
+Khi dùng quá liều lượng lớn paracetamol, bệnh nhân uống > 50 gam paracetamol có thể bị nhiễm toan chuyển hóa nghiêm trọng, hôn mê và tăng đường huyết trong vòng 4 giờ sau khi uống. Cơ chế chưa được xác định. Điều trị bằng cách truyền liên tục N-acetylcysteine ​​cho đến khi không phát hiện thấy paracetamol trong huyết thanh. Có nhiều trường hợp đã được điều trị ngộ độc paracetamol thành công bằng thẩm tách máu ngắt quãng và thẩm tách máu tĩnh mạch liên tục. Nên tham khảo ý kiến ​​của trung tâm kiểm soát chất độc hoặc bác sĩ chuyên khoa chống độc.
+Ngộ độc paracetamol mãn tính
+Vai trò của N-acetylcysteine ​​trong điều trị ngộ độc paracetamol mãn tính hoặc trong trường hợp nhiễm độc gan cấp tính vẫn chưa xác định rõ ràng. Về mặt lý thuyết, thuốc giải độc có thể có một số lợi ích nếu được sử dụng > 24 giờ sau khi uống nếu còn tồn tại paracetamol (chưa chuyển hóa). Cách điều trị sau đây chưa được chứng minh hiệu quả nhưng có thể sử dụng:
+Nếu nghi ngờ gây độc cho gan (nồng độ aspartate aminotransferase (AST) và alanin aminotransferase (ALT) bình thường và nồng độ paracetamol ban đầu tăng), dùng liều nạp N-acetylcysteine ​140 mg/kg đường uống và 70 mg/kg đường uống mỗi 4 giờ trong 24 giờ đầu tiên. Nếu nồng độ AST và ALT lặp lại (sau 24 giờ) bình thường thì ngừng sử dụng N-acetylcysteine; nếu tần suất lặp lại cao, đo nồng độ paracetamol hàng ngày và tiếp tục dùng N-acetylcysteine ​cho đến khi nồng độ bình thường.
+Nếu có khả năng nhiễm độc gan (đặc biệt nếu nồng độ AST và ALT ban đầu cao), chỉ định N-acetylcysteine ​​với liều nạp như trên, sau đó truyền 70 mg/kg cứ 4 giờ một lần đến khi đủ 17 liều.
+Các yếu tố tiên lượng tương tự như trong ngộ độc paracetamol cấp tính.
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của ngộ độc paracetamol
+Chế độ sinh hoạt:
+Tuân thủ theo hướng dẫn của bác sĩ và liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị.
+Làm việc và nghỉ ngơi điều độ, duy trì lối sống tích cực, hạn chế sự căng thẳng.
+Từ bỏ thói quen sử dụng rượu, liên hệ với bác sĩ nếu cần hỗ trợ cai rượu.
+Không tự ý sử dụng cho bản thân và trẻ em các loại thuốc giảm đau hoặc đồng thời dùng nhiều loại giảm đau khác nhau mà chưa tham khảo ý kiến của chuyên gia y tế, đặc biệt là người đang mắc bệnh gan hoặc nghiện rượu mãn tính.
+Chế độ dinh dưỡng:
+Tăng cường bổ sung dinh dưỡng, đặc biệt là thức ăn giàu vitamin và khoáng chất để cải thiện thể trạng và tăng cường sức đề kháng.
+Một số thực phẩm tốt cho gan như: Cà phê, bột yến mạch, trà xanh, trái cây (nho, lê, bưởi, quả mọng...), tỏi, rau họ cải...
+Tránh sử dụng các thực phẩm có thể gây tác động xấu đến gan như: Chất béo bão hoà, đường và muốn với lượng lớn, tinh bột...
+Phương pháp phòng ngừa ngộ độc paracetamol hiệu quả
+Để phòng ngừa bệnh hiệu quả, bạn có thể tham khảo một số gợi ý dưới đây:
+Điều quan trọng là phải nâng cao nhận thức và hiểu biết của dân chúng nói chung về liều lượng và độc tính của paracetamol. Bác sĩ và dược sĩ đóng một vai trò quan trọng trong việc hướng dẫn về độc tính của paracetamol.
+Để paracetamol xa tầm tay trẻ em.
+Không cho trẻ em uống thuốc có chứa paracetamol trừ khi cần thiết cho cơn đau hoặc cơn sốt của chúng. Sử dụng cân nặng để tính toán hàm lượng thuốc sử dụng (không dùng độ tuổi để tính).
+Luôn đọc và làm theo nhãn thuốc. Không bao giờ dùng nhiều thuốc hơn mức ghi trên nhãn. Nếu cơn đau không thuyên giảm với liều tối đa, đừng dùng thêm paracetamol mà phải đi thăm khám với bác sĩ để được chẩn đoán và chỉ định phương pháp điều trị khác. Paracetamol chỉ dùng để giảm đau nhẹ đến trung bình.
+Hỏi ý kiến bác sĩ trước khi dùng paracetamol nếu đang mắc bệnh gan hoặc điều trị bằng warfarin cũng như các thuốc có ảnh hưởng đến chức năng gan.
+Không sử dụng đồ uống có cồn trong thời gian dùng thuốc.

@@ -1,0 +1,180 @@
+Bệnh Parkinson: Dấu hiệu, nguyên nhân, chẩn đoán và điều trị
+
+## Giới thiệu
+Bệnh Parkinson
+là một rối loạn thoái hóa chậm tiến triển ảnh hưởng đến
+hệ thần kinh
+và các bộ phận của cơ thể do
+dây thần kinh
+điều khiển. Các triệu chứng bắt đầu chậm. Triệu chứng đầu tiên có thể là run nhẹ ở một tay. Run rẩy (Tremor) là hiện tượng phổ biến nhưng chứng rối loạn này cũng có thể gây cứng khớp hoặc cử động chậm lại.
+Parkinson thứ phát là một rối loạn chức năng não đặc trưng do sự tắc nghẽn dopaminergic tương tự bệnh Parkinson nhưng do nguyên nhân khác như do thuốc, chấn thương, bệnh mạch não,...
+Parkinson không điển hình là một nhóm bệnh lý thoái hóa thần kinh tương tự bệnh Parkinson nhưng khác ở một số đặc điểm lâm sàng, tiên lượng thường xấu hơn, không cho đáp ứng với levodopa.
+
+## Triệu chứng
+Những dấu hiệu của Parkinson
+Các triệu chứng thường gặp của bệnh Parkinson bao gồm:
+Run rẩy
+(tremor), cứng cơ (rigidity), chậm động (akinesia hoặc bradykinesia), và mất ổn định tư thế (postural instability). Các triệu chứng này thường được gọi tắt là TRAP, tương ứng với các từ đầu của mỗi triệu chứng.
+Run (tremor):
+Khi nghỉ ngơi ở một tay (hãy còn gọi là run “tĩnh”) thường là triệu chứng đầu tiên, được miêu tả như sau:
+Chậm, từ từ.
+Run mạnh nhất khi nghỉ ngơi, giảm trong quá trình vận động và thường biến mất khi đang ngủ.
+Khi căng thẳng hay mệt mỏi, run tăng biên độ.
+Thường xuất hiện run ở cổ tay và ngón tay, đôi lúc bị khi ngón cái di chuyển ngược với hướng ngón trỏ (như hành động lăn viên thuốc).
+Hầu hết các trường hợp người bệnh sẽ bị run tay hoặc chân đầu tiên, thường bị bất đối xương. Lưỡi và hàm cũng có thể bị ảnh hưởng nhưng không ảnh hưởng tới tiếng nói. Khi bệnh tiến triển, triệu chứng run có thể ít nổi trội hơn.
+Cứng cơ (tăng trương lực cơ - rigidity):
+Thường tiến triển một cách độc lập với triệu chứng run trên nhiều bệnh nhân. Khi bác sĩ di chuyển một khớp bị co cứng, thường xảy ra hiện tượng giật theo chu kỳ do sự thay đổi cường độ của trương lực cơ, gây ra hiệu ứng gọi là bánh xe răng cưa.
+Giảm vận động và vận động chậm (cử động chậm - bradykinesia):
+Triệu chứng điển hình của Parkinson. Những chuyển động ở tay, chân và mặt có biên độ chuyển động thấp hơn. Khuôn mặt ít biểu cảm hơn (như đang mang “mặt nạ” - hypomimic). Chữ viết bằng tay thường chậm hơn và nhỏ hơn và các hoạt động bình thường mất nhiều thời gian hơn.
+Việc vừa
+tăng trương lực cơ
+và giảm vận động có thể làm đau cơ và mệt mỏi. Khuôn mặt, miệng bị cứng lại, bệnh nhân phát âm thì thào và âm tính đơn điệu, nhiều khi nói lắp.
+Người bệnh Parkison gặp khó khăn trong khi bắt đầu đi bộ, thực hiện động tác xoay vòng và dừng lại
+Mất thăng bằng (Postural instability):
+Thường xuất hiện muộn hơn trong Parkinson. Nếu dấu hiệu này xuất hiện sớm ngay khi khởi phát bệnh, cần nghi ngờ chẩn đoán thay thế. Người bệnh gặp khó khăn trong khi bắt đầu đi bộ, thực hiện động tác xoay vòng và dừng lại. Người bệnh thường đi theo kiểu lê bước, các bước chân ngắn lại, người bệnh thường không vung cánh tay khi di chuyển.
+Khi dáng đi thay đổi bất thường thường là dấu hiệu cho hiện tượng đông cứng dáng đi (là một cơn ngắn xảy ra từng lúc, mà trong cơn đó có sự mất hoặc giảm sự tiến về phía trước của bàn chân dù người bệnh đang mong muốn đi tới, người bệnh cảm thấy bàn chân như dính vào sàn nhà).
+Sa sút trí tuệ:
+Thường xuất hiện trong khoảng 1/3 số người bệnh, khởi phát muộn trong bệnh Parkinson. Một số dấu hiệu xuất hiện dự báo trước của
+sa sút trí tuệ
+có thể làm việc người bệnh bị suy giảm khả năng cảm nhân không gian (như lạc đường), giảm khả năng nói chuyện trôi chảy.
+Rối loạn giấc ngủ:
+Mà một triệu chứng phổ biến, có thể do tiểu đêm hay do người bệnh không thể thay đổi tư thế (trở mình) trên giường. Việc
+mất ngủ
+lâu dài thường gây suy giảm nhận thức hay trầm cảm, tăng buồn ngủ vào ban ngày. Rối loạn hành vi giấc ngủ REM có thể xuất hiện, trong rối loạn này, người bệnh thường hành động mạnh trong mơ, là kết quả của sự giảm giai đoạn liệt trong giấc ngủ.
+Các triệu chứng thần kinh khác:
+Tiến triển do bệnh lý synuclein xuất hiện trong các vùng khác của hệ thần kinh trung ương, thần kinh ngoại biên và thần kinh tự chủ, bao gồm:
+Thoái hóa thần kinh
+toàn bộ hệ thần kinh giao cảm liên quan đến tim, làm hạ huyết áp tư thế.
+Rối loạn vận động (Dyskinesia) thực quản gây triệu chứng khó nuốt hay viêm phổi hít.
+Rối loạn vận động trực tràng, gây táo bón.
+Tiểu gấp và/hay tiểu ngắt quãng, gây đái dầm.
+Mất khứu giác (khá thường gặp).
+Các triệu chứng này xuất hiện trước triệu chứng vận động của Parkinson ở một số bệnh nhân, và thường diễn tiến xấu đi theo thời gian.
+Nhiều trường hợp gặp viêm da tiết bã.
+Tìm hiểu thêm:
+Cảnh báo 5 dấu hiệu bệnh Parkinson thường gặp
+Biến chứng có thể gặp khi mắc Parkinson
+Điều trị Parkinson chỉ để làm chậm mức độ thoái hóa thần kinh, do đó đến cuối cùng Parkinson vẫn sẽ tiến triển và bệnh nhân vẫn phải cần đến sự giúp đỡ để sinh hoạt hằng ngày. Hầu hết các bệnh nhân Parkinson đều tàn tật và bất động khi ở giai đoạn cuối của bệnh, mất khả năng ăn uống kể cả khi đã được giúp đỡ. Người bệnh sẽ ngày càng
+khó nuốt
+và nguy cơ tử vong do viêm phổi hít phải rất cao.
+Tìm hiểu thêm:
+Những biến chứng của bệnh Parkinson ảnh hưởng nghiêm trọng
+Khi nào cần gặp bác sĩ?
+Nếu có bất kỳ triệu chứng nào nêu trên xảy ra, bạn nên liên hệ ngay với bác sĩ để được kiểm tra và tư vấn. Chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh và giúp bạn mau chóng hồi phục sức khỏe.
+
+## Nguyên nhân
+Nguyên nhân gây ra sự mất mát các tế bào thần kinh liên quan đến bệnh Parkinson vẫn chưa được biết rõ, mặc dù các nghiên cứu đang được tiến hành để tìm kiếm các nguyên nhân tiềm năng. Hiện tại, người ta tin rằng sự kết hợp giữa các thay đổi gen và các yếu tố môi trường có thể là nguyên nhân gây ra tình trạng này
+Nguyên nhân chính của bệnh Parkinson là sự suy giảm và mất các tế bào thần kinh trong một khu vực não gọi là vùng đen
+Các nguyên nhân có thể dẫn đến bệnh Parkinson bao gồm:
+Gen:
+Nguyên nhân phổ biến của bệnh Parkinson thường có khuynh hướng di truyền, khoảng 10% số bệnh nhân mắc Parkinson có tiền sử gia đình cũng mắc căn bệnh này. Một số gene bất thường của bệnh này đã được xác định. Di truyền là tính trạng trội ở NST thường đối với một số gen và tính trạng lặn ở NST thường đối với những gen khác.
+Các yếu tố kích hoạt môi trường:
+Tiếp xúc với một số chất độc hoặc các yêu tố môi trường độc hại có thể làm tăng nguy cơ mắc bênh Parkinson.
+
+## Yếu tố nguy cơ
+Những ai có nguy cơ mắc phải Parkinson?
+Bệnh Parkinson thường gặp ở người cao tuổi, nhưng người trẻ cũng có thể mắc phải. Nam giới có tỷ lệ mắc bệnh cao hơn nữ giới. Nguyên nhân gây bệnh chưa được xác định rõ, nhưng những người có tiền sử gia đình mắc bệnh thì có nguy cơ cao hơn. Ngoài ra, tiếp xúc với ô nhiễm không khí, thuốc trừ sâu và dung môi cũng có thể làm tăng nguy cơ mắc bệnh
+Tìm hiểu thêm:
+Vài nét về bệnh Parkinson ở người già
+Tổng quan về bệnh Parkinson ở người trẻ
+Yếu tố làm tăng nguy cơ mắc phải Parkinson
+Một số yếu tố làm tăng nguy cơ mắc Parkinson, bao gồm:
+Tuổi tác.
+Yếu tố di truyền.
+Giới tính.
+Mức độ tiếp xúc với độc tố.
+
+## Chẩn đoán & Điều trị
+Phương pháp xét nghiệm và chẩn đoán Parkinson
+Đánh giá chủ yếu dựa vào các triệu chứng vận động trên lâm sàng.
+Chẩn đoán bệnh Parkinson thường dựa trên lâm sàng. Nghi ngờ mắc Parkinson ở người có run cơ một bên khi nghỉ ngơi, vận động chậm hay trăng tăng trương lực cơ. Thực hiện test ngón tay chỉ mũi, biểu hiện run thường sẽ giảm hoặc biến mất tại chi được khám.
+Thăm khám thần kinh, bệnh nhân không thực hiện được các động tác luân phiên hay kế tiếp một cách nhanh chóng. Cảm giác, cơ lực và phản xạ bình thường nhưng người bệnh gặp khó khăn do run hay do tăng trương lực cơ.
+Phân biệt vận động chậm của Parkinson với tình trạng vận động chậm và co cứng do tổn thương vỏ tủy.
+Ngoài ra, một số biểu hiện khác cũng hỗ trợ củng cố chẩn đoán Parkinson bao gồm nháy mắt không thường xuyên, khuôn mặt cứng đờ, dáng đi bất thường, mất ổn định tư thế.
+Ở người cao tuổi, chẩn đoán phân biệt Parkinson với các bệnh lý khác cũng gây giảm chuyển động tự phát hay bước đi ngắn như trầm cảm nặng, sử dụng thuốc chống loạn thần và thuốc chống nôn,
+suy giáp
+.
+Để chẩn đoán phân biệt Parkinson với Parkinson thứ phát hay Parkinson không điển hình, bác sĩ thường cho khảo sát đáp ứng với
+https://nhathuoclongchau.com.vn/thanh-phan/levodopa
+. Người cho đáp ứng với levodopa là bệnh Parkinson, còn không cho đáp ứng với levodopa với liều ít nhất 1200 mg/ngày thường là Parkinson thứ phát hay Parkinson không điển hình.
+Tìm hiểu thêm:
+Chẩn đoán và cách điều trị bệnh Parkinson hiệu quả
+Phương pháp điều trị Parkinson hiệu quả
+Đa số bệnh nhân mắc bệnh Parkinson sẽ cần sử dụng một loại thuốc quan trọng có tên là levodopa. Khi vào cơ thể, levodopa được các tế bào thần kinh trong não hấp thụ và chuyển hóa thành dopamine. Dopamine là hóa chất thiết yếu giúp truyền tín hiệu giữa các bộ phận của não và hệ thống thần kinh, từ đó điều khiển các chuyển động cơ thể. Nhờ vậy, thuốc này giúp cải thiện khả năng vận động và giảm các triệu chứng của bệnh Parkinson.
+Các phương pháp điều trị bệnh Parkinson bao gồm:
+Levodopa/carbidopa.
+Amantadine
+, ức chế MAO-B, ức chế cholinergic.
+Chất chủ vận dopamin.
+Chất ức chế Catechol O-metyltransferase (COMT), khi đáp ứng kém với levodopa.
+Phẫu thuật nếu không cho đáp ứng với thuốc, không dung nạp với tác dụng phụ của thuốc.
+Tập luyện và biện pháp thích nghi.
+Levodopa
+Hiện là thuốc điều trị Parkinson hiệu quả nhất. Tuy nhiên khi Parkinson tiến triển sớm hay khi phát hiện, thường cho đáp ứng mờ nhạt với levodopa, do đó, để giảm thời gian dùng levodopa, bác sĩ có thể cân nhắc dùng cho các bệnh nhân trẻ tuổi với các thuốc:
+Các chất chủ vận dopamine (pramipexole, rotigotine, ropinirole).
+Chc chc chế MAO-B (rasagiline, selegiline).
+Amantadine.
+Tuy nhiên nếu những thuốc trên không kiểm soát được triệu chứng, bác sĩ nên bắt đầu dùng với levodopa ngay. Nên dùng liều thấp hơn cho người lớn tuổi.
+Levodopa là tiền chất của dopamine, có thể qua hàng rào máu não, được decarboxylated hóa thành
+dopamine
+. Thường dùng chung với carbidopa để ngăn cản levodopa bị decarboxyl thành dopamine ở ngoại vi, nhờ đó giúp giảm liều levodopa. Levodopa làm giảm tình trạng tăng trương lực, giảm vận động và làm giảm đáng kể triệu chứng run.
+Chẩn đoán bệnh Parkinson thường dựa trên lâm sàng
+Amantadine
+Được dùng để cải thiện rối loạn vận động thứ phát và giảm triệu chứng run. Amantadine cho tác dụng tốt khi đơn trị liệu ở giai đoạn sớm và sau đó là phối hợp với levodopa để làm tăng tác dụng của levodopa. Amantadine có thể mất hiệu quả khi sử dụng đơn độc vài tháng.
+Chất chủ vận dopamine
+Bao gồm các thuốc:
+Pramipexole
+, ropinirol, rotigotin và apomorphine (tiêm).
+Ngoài ra, còn có bromocriptine vẫn còn sử dụng ở một số quốc gia, nhưng nó chủ yếu dùng để điều trị u tuyến yên ở Bắc Mỹ.
+Các thuốc chủ vận dopamine dùng đường uống thường sử dụng đơn trị liệu nhưng không duy trì được hiệu quả sau vài năm. Khuyến cáo dùng thuốc này ở giai đoạn sớm với liều thấp levodopa ở bệnh nhân có rối loạn vận động và gặp nhiều tác dụng phụ.
+Chất ức chế MAO-B chọn lọc
+Bao gồm selegiline và rasagiline. Selegiline ức chế enzyme chính phá hủy dopamine trong não, nhờ đó kéo dài tác dụng của levodopa. Rasagiline cũng có cơ chế tác động như selegiline nhưng có hiệu quả và dung nạp tốt hơn.
+Thuốc kháng cholinergic
+Dùng đơn trị liệu trong giai đoạn sớm và dùng bổ trợ cho levodopa sau đó. Thuốc cho hiệu quả tốt khi điều trị run.
+Chất ức chế COMT
+Như
+entacapone
+, tolcapone ức chế phân hủy levodopa và dopamine. Thường dùng phối hợp với levodopa trong thời gian dài khi hiệu quả của levodopa đang mất đi.
+Phẫu thuật (Deep Brain Stimulation)
+Nếu thuốc không hiệu quả hay cho các tác dụng phụ quá mức, bao gồm kích thích não sâu hay phẫu thuật vùng tổn thương.
+Kích thích não sâu khuyến cáo ở bệnh nhân có rối loạn vận động đáng kể.
+Phẫu thuật cắt đi vùng tổn thương để ngăn chặn sự hoạt động thái quá của các đường dẫn truyền thần kinh để kiểm soát triệu chứng run. Tuy nhiên, phẫu thuật sẽ gây tổn thương không thể phục hồi hay điều chỉnh và có thể gây ra các phản ứng phụ nghiêm trọng như rối loạn vận ngôn hay khó nuốt.
+Các biện pháp vật lý trị liệu
+Được dùng để tối đa hóa hoạt động của cơ thể, tăng cường các hoạt động hằng ngày, tăng thể lực bệnh nhân.
+
+## Phòng ngừa & Lối sống
+Những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của Parkinson
+Chế độ sinh hoạt:
+Thường xuyên thực hiện vật lý trị liệu để nâng tầm vận động.
+Về sau khi bệnh tiến triển, nguy cơ bệnh nhân té ngã rất cao. Cần lắp các thanh nắm vòi sen, bệ ngồi toilet có tay cần. Nhà cần đủ ánh sáng, đặc biệt là ban đêm.
+Để đảm bảo an toàn, người Parkinson không nên tự lái xe và chuyển sang các hình thức xe bus, taxi. Nếu quãng đường gần, khuyến khích người bệnh đi bộ.
+Người bệnh Parkinson nên thực hiện vật lý trị liệu để nâng tầm vận động
+Chế độ dinh dưỡng:
+Việc duy trì một chế độ ăn uống cân bằng giúp cải thiện sức khỏe tổng thể và nâng cao khả năng đối phó với các triệu chứng của bệnh. Bệnh nhân Parkinson nên ăn nhiều thực phẩm tự nhiên như trái cây và rau củ, protein nạc, đậu và các loại hạt, cũng như ngũ cốc nguyên hạt. Bên cạnh đó, việc uống đủ nước cũng rất quan trọng để giữ cho cơ thể luôn được hydrat hóa và tràn đầy năng lượng.
+Trái cây và rau củ
+Cà chua, cà rốt, và súp lơ xanh: Giàu chất chống oxy hóa.
+Quả mọng như dâu tây, việt quất, và mâm xôi: Chứa nhiều vitamin và chất chống oxy hóa.
+Cam, bưởi, và chanh: Giàu vitamin C.
+Protein
+Cá, như cá hồi và cá ngừ: Giàu omega-3.
+Thịt gà tây và thịt gà không da: Nguồn protein sạch, ít chất béo.
+Trứng: cung cấp protein đầy đủ và các vitamin thiết yếu.
+Đậu và các loại hạt
+Đậu Hà Lan, đậu lăng, và đậu đen: Giàu protein và chất xơ.
+Hạt quinoa và hạt chia: Cung cấp protein thực vật và omega-3.
+Hạt điều, hạnh nhân: Giàu chất béo lành mạnh và protein.
+Ngũ cốc nguyên hạt
+Yến mạch, gạo lứt, và quinoa: Chứa nhiều chất xơ và giúp ổn định mức đường trong máu.
+Bánh mì ngũ cốc nguyên hạt: Giàu chất xơ và các khoáng chất thiết yếu.
+Tìm hiểu thêm:
+Bệnh Parkinson kiêng ăn gì để tránh biến chứng
+Phương pháp phòng ngừa Parkinson
+Dù chưa có phương pháp nào có thể hoàn toàn ngăn ngừa bệnh, việc nhận biết sớm các rủi ro, phát hiện bệnh ở giai đoạn đầu và thực hiện các thay đổi trong lối sống có thể giúp làm chậm quá trình tiến triển của bệnh và trì hoãn các triệu chứng xuất hiện.
+Để phòng ngừa bệnh hiệu quả, bạn có thể tham khảo một số gợi ý dưới đây:
+Bổ sung vitamin D đầy đủ.
+Uống trà xanh hàng ngày.
+Tránh xa các môi trường có yếu tố độc hại như thuốc trừ sâu.
+Bổ sung dinh dưỡng giàu flavonoid.
+Tập thể dục thường xuyên.
+Tìm hiểu thêm:
+Phòng bệnh Parkinson bằng cách nào thì hiệu quả?
